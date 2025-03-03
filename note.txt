@@ -1,0 +1,3 @@
+$s = string yang sangat spesifik dan yakin itu adalah string yang menandakan malware (IP addresses, payload URLs, PDB paths, user profile directories)
+$a = string yang tidak yakin untuk menandakan malware (mungkin muncul di non malware software)
+$x = string yang terlihat umum tetapi tertulis oleh Yargen ()
