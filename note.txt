@@ -1,3 +1,10 @@
 $s = string yang sangat spesifik dan yakin itu adalah string yang menandakan malware (IP addresses, payload URLs, PDB paths, user profile directories)
 $a = string yang tidak yakin untuk menandakan malware (mungkin muncul di non malware software)
 $x = string yang terlihat umum tetapi tertulis oleh Yargen ()
+
+---------------
+
+Wide: 
+Definisi    : String dalam format wide adalah string yang menggunakan encoding 16-bit (2 byte per karakter), seperti UTF-16. Ini sering digunakan dalam file Windows untuk menyimpan string Unicode.
+Penggunaan  : Digunakan untuk mencocokkan string yang disimpan dalam format wide (misalnya, string Unicode dalam file PE).
+
