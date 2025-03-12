@@ -1,0 +1,709 @@
+<!-- Title: Day shift. Wed Nov 27, 2002 -->
+<!-- SciCo: Stefano Belforte -->
+<!-- DAQAce: Bernd Stelzer -->
+<!-- MonAce: Lucio Cerrito -->
+<!-- CO: Juan Fernandez -->
+<!-- OpManager: Eric James -->
+<!-- Notes: -->
+<pre>store 2001 in, L=21.7E30 Run 154677 in progress without one ShowerMax card (run bad for calorimeter)</pre>
+<!-- Date: Wed Nov 27 08:19:38 2002 -->
+<pre>ProcMon died at ~7am - restarted it.</pre>
+<!-- Author: Bernd :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677' target=_top>154677</a>) -->
+
+
+<!-- Date: Wed Nov 27 08:31:50 2002 -->
+<pre>SCPU_BAD_VRB_BYTE_COUNT Error - HRR recovered 
+--------------------------------------------- 
+Attention!!!. SCPU_BAD_VRB_BYTE_COUNT Error !!!  
+Hardware EVB has detected a problem with data quality.  
+SCPU b0eb12 reports problems with a VRB header.   
+</pre>
+<!-- Author: Bernd :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677' target=_top>154677</a>) -->
+
+
+<!-- Date: Wed Nov 27 08:34:06 2002 -->
+<pre>8:24:23 AM->Done Timeout: WCAL_00 </pre>
+<!-- Author: Bernd :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677' target=_top>154677</a>) -->
+
+
+<!-- Date: Wed Nov 27 08:42:35 2002 -->
+D0 is moving thier pots
+<!-- Author: Stefano :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677' target=_top>154677</a>) -->
+
+<!-- Date: Wed Nov 27 08:48:51 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677">154677</A>
+ Terminated at 2002.11.27 08:47:36
+<!-- processed by 131.225.236.162 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 08:50:22 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677">154677</A>
+TERMINATE: End the run to power cycle a SMX board
+<!-- processed by 131.225.235.217 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:00:22 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154678">154678</A>
+ Activated at 2002.11.27 08:58:03
+<!-- processed by 131.225.236.229 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 09:00:22 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154678">154678</A>
+ACTIVATE: Try to run with full detector
+<!-- processed by 131.225.236.229 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:00:22 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154678">154678</A>
+ Terminated at 2002.11.27 08:59:16
+<!-- processed by 131.225.236.229 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 09:00:52 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154678">154678</A>
+TERMINATE: Still the same SMX errors
+<!-- processed by 131.225.127.7 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:10:03 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679">154679</A>
+ Activated at 2002.11.27 09:08:48
+<!-- processed by 131.225.127.7 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 09:10:41 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679">154679</A>
+ACTIVATE: Try running after power cycle of plug
+<!-- processed by 128.174.118.249 -->
+<!-- Author: Bernd -->
+<!-- Comment: Wed Nov 27 09;12;48 comment by...Bernd -->
+<pre>Seems to work - Issue remains if we need to do plug calibration</pre>
+
+<!-- Comment: Wed Nov 27 09;16;33 comment by...JImmy Proudfoot -->
+Calorimeter SPLs take note - this would be easier if we collected 
+together all of the procedures for recovery from power cycling.
+
+<!-- Date: Wed Nov 27 09:17:51 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679">154679</A>
+ Terminated at 2002.11.27 09:16:39
+<!-- processed by 131.225.45.171 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 09:18:23 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679">154679</A>
+TERMINATE: Ending run to do SMX calibration
+<!-- processed by 131.225.234.39 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:18:40 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679">154679</A>
+TERMINATE: Ending run to do SMX calibration
+<!-- processed by 146.139.52.54 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:22:44 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154680">154680</A>
+ACTIVATE: Do SMQIE Central+Plug callibration after Plug crate power cycle
+<!-- processed by 131.225.233.157 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 09:23:49 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154680">154680</A>
+TERMINATE: Done calibration
+<!-- processed by 131.225.236.161 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 09:25:05 2002 -->
+CCU 15, CH 10 gave a wrong threshold warning. Recovered OK according to instructions from 1st floor PC
+<!-- Author: Lucio -->
+
+<!-- Date: Wed Nov 27 09:32:14 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154681">154681</A>
+ Activated at 2002.11.27 09:30:18
+<!-- processed by 131.225.236.161 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 09:32:30 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154681">154681</A>
+ACTIVATE: New Run with full detector
+<!-- processed by 131.225.236.162 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 09:33:10 2002 -->
+<pre>We re-cycled the 400Hz power on the east plug to see if we  
+could recover the bad SMX board.  It looks like we were in  
+fact able to recover this board.  Need to re-calibrate the  
+SMX after power-cycle so quickly perform a SMX calibration.   
+This calib run looks good so we go back to normal data 
+collection. </pre>
+<!-- Author: Eric James -->
+<!-- Comment: Wed Nov 27 09;36;18 comment by...Eric -->
+<pre>Note that the short run 154679 is still bad for SMX even 
+though the problematic board had been recovered since the 
+new calibration had not yet been performed.</pre>
+
+
+<!-- Date: Wed Nov 27 09:40:48 2002 -->
+<center><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10969&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10969' width='300'></a><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10970&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10970' width='300'></a><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10971&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10971' width='300'></a></center>
+<!-- Author: Lucio -->
+<!-- Comment: Wed Nov 27 09;42;52 comment by...Lucio -->
+Hourly plots: Losses low and stable, abort gap stable, e lens ON,
+RF stable, luminosity at 20E30 coming down smoothly
+
+
+<!-- Date: Wed Nov 27 09:57:51 2002 -->
+Silicon Cooling alarm, followed after 1 min by silicon trip and trigger inhibit. 
+Paged Silicon General and silicon cooling expert.
+<!-- Author: Stefano -->
+<!-- Comment: Wed Nov 27 09;58;46 comment by...Stefano -->
+Silicon cooling expert calls back. Ifix complains about low flow.
+
+<!-- Comment: Wed Nov 27 10;00;36 comment by...Stefano -->
+Silicon export (Steve Nahn) walks in
+
+<!-- Comment: Wed Nov 27 10;03;15 comment by...Stefano -->
+Steve Nahn confirms that silicn trip is due to cooling alarm.
+Rob Roser talked to cooling expert and is now investigating downstairs. We have nothing to do but wait for Rob's results.
+
+<!-- Comment: Wed Nov 27 10;07;51 comment by...Stefano -->
+Steve Nahn was surprised that L00 did not trip, now it does ! Circle is closed and SVX,ISL and L00 are all tripped
+
+<!-- Comment: Wed Nov 27 10;10;26 comment by...Stefano -->
+R.Roser says he'll be done in 5 minutes
+<!-- Comment: Wed Nov 27 10;16;38 comment by...Stefano -->
+Silicon cooling is OK now. Steve Nahn bringing it up
+<!-- Date: Wed Nov 27 10:10:25 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154681">154681</A>
+ Terminated at 2002.11.27 10:08:47
+<!-- processed by 131.225.236.229 -->
+<!-- Author: RunControl -->
+
+
+
+<!-- Date: Wed Nov 27 10:11:44 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154681">154681</A>
+TERMINATE: Ending run due to silicon cooling problems
+<!-- processed by 141.211.101.94 -->
+<!-- Author: Bernd -->
+
+
+
+
+<!-- Date: Wed Nov 27 10:22:52 2002 -->
+Silicon Cooling -- we were in the process of training tech's to change filters and resin in silicon cooling.  In the process of this training(normally benign), a tech must have leaned against one of our manual valves and closed the main flow valve from the SVX chiller by 50-60%.  This reduced the pressure and hence the flow to SVX.  We ended up tripping everything in coming back up because the main bypass valve was closed when I opened the valve, the flows were instantly too high and tripped off.
+<!-- Author: Rob+Eva -->
+
+
+<!-- Date: Wed Nov 27 10:26:25 2002 -->
+Beam is lost  
+<!-- Author: Stefano -->
+
+
+<!-- Date: Wed Nov 27 10:26:28 2002 -->
+CCU06 has bad response - fixed. CCU23 is unreadable. Power cycling doesn't work. We need access to swap this CCU because 
+36 TSU/BSU counters are dead now.
+<!-- Author: Oleg Poukhov -->
+
+
+<!-- Date: Wed Nov 27 10:32:35 2002 -->
+We called MCR, it was not a quech. Power glitch likely. 
+MCR does not a plan for what to do yet, will call back. 
+We start quiet time calibration
+<!-- Author: Stefani -->
+<!-- Comment: Wed Nov 27 10;48;14 comment by...Stefano -->
+From MCR e-log:<br>
+ComEd lost a line in Lombard (line 10808). We got glitched as a result (probably on the re-close).
+<!-- Date: Wed Nov 27 10:35:16 2002 -->
+All HV at "pre-shot setup" configuration (STDBY/OFF), except PLUG, left ON for plug laser calibration
+<!-- Author: Lucio -->
+
+<!-- Date: Wed Nov 27 10:36:47 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154682">154682</A>
+ACTIVATE: Do QIE CAL Calibration
+<!-- processed by 131.225.236.229 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 10:36:47 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154682">154682</A>
+TERMINATE: Done
+<!-- processed by 131.225.236.229 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 10:42:09 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154683">154683</A>
+ACTIVATE: CLC QIE Calibration
+<!-- processed by 66.32.33.147 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 10:43:47 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154683">154683</A>
+TERMINATE: Done
+<!-- processed by 131.225.127.7 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 10:44:58 2002 -->
+<center><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10972&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10972' width='300'></a><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10973&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10973' width='300'></a><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10974&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10974' width='300'></a><a href='/cgi/elog/elog.pl?nb=2002&action=view&page=-10975&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/elog.pl?nb=2002&action=view&page=-10975' width='300'></a></center>
+<!-- Author: Lucio -->
+<!-- Comment: Wed Nov 27 10;47;12 comment by...Lucio -->
+TeV and SVX monitoring at the time of the loss of beam. It all looks clean, there was no HV trip in any subdetector.
+
+
+<!-- Date: Wed Nov 27 10:47:13 2002 -->
+Hand SVT to experts for one hour or so
+<!-- Author: Stefano -->
+
+<!-- Date: Wed Nov 27 10:48:02 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154684">154684</A>
+ACTIVATE: Plug laser calibration (Normal Mode)
+<!-- processed by 131.225.234.39 -->
+<!-- Author: Bernd -->
+
+
+
+
+<!-- Date: Wed Nov 27 10:52:55 2002 -->
+<pre>MCR says: 
+quite time until noon 
+Next shot setup likely at 4pm</pre>
+<!-- Author: Stefano -->
+
+<!-- Date: Wed Nov 27 10:54:57 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154684">154684</A>
+TERMINATE: Done
+<!-- processed by 131.225.234.39 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 10:56:45 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154685">154685</A>
+ACTIVATE: Plug Laser Calibration (MyronMode)
+<!-- processed by 131.225.45.171 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 10:58:57 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154685">154685</A>
+TERMINATE: Done
+<!-- processed by 131.225.235.29 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 11:06:24 2002 -->
+Plug HV going to STDBY now
+<!-- Author: Lucio -->
+
+<!-- Date: Wed Nov 27 11:07:38 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154686">154686</A>
+ACTIVATE: BSC/Miniplug calibration
+<!-- processed by 131.225.45.171 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:08:30 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154686">154686</A>
+TERMINATE: Done
+<!-- processed by 131.225.127.7 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:11:48 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154687">154687</A>
+ACTIVATE: CAL LED Calibration
+<!-- processed by 131.225.45.171 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:12:54 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154687">154687</A>
+TERMINATE: Done
+
+<!-- processed by 12.250.196.25 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:22:21 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154688">154688</A>
+ACTIVATE: DPS OFF D Mode Calibration
+<!-- processed by 131.225.122.33 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:23:26 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154688">154688</A>
+TERMINATE: Reformatter throws it all away, so try again.
+<!-- processed by 131.225.236.229 -->
+<!-- Author: nahn -->
+
+
+
+<!-- Date: Wed Nov 27 11:24:35 2002 -->
+CMX expert is taking control of HV from 1st floor
+<!-- Author: Lucio -->
+
+<!-- Date: Wed Nov 27 11:28:40 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154689">154689</A>
+ACTIVATE: not working
+<!-- processed by 131.225.235.251 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:28:40 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154689">154689</A>
+TERMINATE: doesn't work...
+<!-- processed by 131.225.235.251 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:28:46 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154690">154690</A>
+ACTIVATE: CAL Xenon (XEF) Calibration
+<!-- processed by 131.225.127.7 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:30:44 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154690">154690</A>
+TERMINATE: Done
+<!-- processed by 131.225.232.152 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:40:33 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154691">154691</A>
+TERMINATE: D Mode DPS OFF run done
+<!-- processed by 131.225.233.160 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:43:51 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154692">154692</A>
+ACTIVATE: DPS ON D Mode calibration
+<!-- processed by 131.225.232.160 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:45:19 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154693">154693</A>
+ACTIVATE: COT Calibration
+<!-- processed by 131.225.235.166 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:45:19 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154693">154693</A>
+ACTIVATE: COT Calibration
+<!-- processed by 131.225.235.166 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:45:19 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154693">154693</A>
+ACTIVATE: COT Calibration
+<!-- processed by 131.225.235.166 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:45:19 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154693">154693</A>
+ACTIVATE: COT Calibration
+<!-- processed by 131.225.235.166 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:45:46 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154693">154693</A>
+TERMINATE: Done
+<!-- processed by 131.225.235.39 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:48:36 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154692">154692</A>
+TERMINATE: DPS On Run finished
+
+<!-- processed by 128.2.2.89 -->
+<!-- Author: nahn -->
+
+
+<!-- Date: Wed Nov 27 11:48:45 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154694">154694</A>
+ACTIVATE: Muon Calibration
+<!-- processed by 128.2.2.89 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:50:42 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154694">154694</A>
+TERMINATE: Done
+<!-- processed by 128.2.2.89 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 11:53:25 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154696">154696</A>
+ACTIVATE: TOF TAC calibration
+<!-- processed by 131.225.235.3 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 11:53:55 2002 -->
+<pre>Tested CMX miniskirt HV for SE 16,17, after changing ramp  
+voltage yesterday. I cycled the wedges from off-&gt;on, stdby-&gt;on, 
+and off-&gt;on again, with no problems. I have turned the wedges 
+to stdby now. It takes about 4 minutes to ramp up with these 
+slower settings, so please take that into account. The currents 
+are stable at around 600 uA. </pre>
+<!-- Author: Sal Rappoccio -->
+
+<!-- Date: Wed Nov 27 11:55:00 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154696">154696</A>
+TERMINATE: Done
+<!-- processed by 131.225.236.162 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 12:00:07 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154697">154697</A>
+ACTIVATE: TOF QIE Calibration
+<!-- processed by 131.225.236.163 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 12:00:08 2002 -->
+<pre>Calibrations checked ok. 
+New COMPLETE constants for COT calibration. Num. bad ch = 415. 
+Crate 10 has large number of drifted channels (96).</pre>
+<!-- Author: Juan Pablo -->
+
+<!-- Date: Wed Nov 27 12:00:51 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154697">154697</A>
+TERMINATE: Done
+<!-- processed by 128.220.233.195 -->
+<!-- Author: Bernd -->
+
+
+<!-- Date: Wed Nov 27 12:10:15 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154698">154698</A>
+ Activated at 2002.11.27 12:08:46
+<!-- processed by 131.225.242.221 -->
+<!-- Author: RunControl -->
+<!-- Comment: Wed Nov 27 12;12;52 comment by...Bernd -->
+<pre>Raw L1 rate: ~64-65Hz (no beam in machine)</pre>
+<!-- Date: Wed Nov 27 12:10:15 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154698">154698</A>
+ACTIVATE: Taking Rick's run
+<!-- processed by 131.225.242.221 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 12:10:46 2002 -->
+JC called and he is going to restart HV control program.  He updated the program so that TOF icon will be highlighted when 
+it is clicked.  This will take a few minutes.
+<!-- Author: kaori -->
+<!-- Comment: Wed Nov 27 12;23;06 comment by...Lucio -->
+Done
+<!-- Date: Wed Nov 27 12:18:04 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154698">154698</A>
+ Terminated at 2002.11.27 12:16:37
+<!-- processed by 131.225.236.132 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 12:19:23 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154698">154698</A>
+TERMINATE: Done
+<!-- processed by 131.225.233.157 -->
+<!-- Author: Bernd -->
+
+
+
+
+<!-- Date: Wed Nov 27 12:37:21 2002 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2002&action=view&page=-10976&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2002&action=view&page=-10977  width='300' align='top'></td><td>diff between last two COMPLETE COTCHANT0 runs</a></td></tr></table>
+<!-- Author: Juan Pablo -->
+<!-- Comment: Wed Nov 27 12;39;00 comment by...Juan Pablo -->
+<pre> On the latest COT calibration run,
+crate 10 had large number of drifted channels (96).
+ I could trace it down to a single slot (18)
+for which the times have shifted by about 0.1-0.2 ns.
+
+</pre>
+
+
+<!-- Date: Wed Nov 27 13:11:12 2002 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2002&action=view&page=-10979&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2002&action=view&page=-10979  width='300' align='top'></td><td>Pilot protons being injected; spikes in the abort gap reaching 500kHz. Silicon is on STDBY, I'm keeping an eye on the rad doses</a></td></tr></table>
+<!-- Author: Lucio -->
+
+
+<!-- Date: Wed Nov 27 14:02:31 2002 -->
+Tevatron quenched during studies at A1 and F3  
+<!-- Author: Stefano -->
+<!-- Comment: Wed Nov 27 14;23;40 comment by...Stefano -->
+MCR expects fast recover (~30min). Shot still cheduled for 4pm-ish
+<!-- Date: Wed Nov 27 14:04:23 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154699">154699</A>
+ Activated at 2002.11.27 14:03:12
+<!-- processed by 144.92.164.198 -->
+<!-- Author: RunControl -->
+
+
+<!-- Date: Wed Nov 27 14:05:03 2002 -->
+Run <A HREF="/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154699">154699</A>
+ACTIVATE: Take cosmics
+<!-- processed by 65.144.129.100 -->
+<!-- Author: Bernd -->
+
+
+
+<!-- Date: Wed Nov 27 14:06:45 2002 -->
+<pre>Done timeout from WCAL_00 - HRR recovered OK</pre>
+<!-- Author: Bernd :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154699' target=_top>154699</a>) -->
+
+
+
+<!-- Date: Wed Nov 27 15:45:40 2002 -->
+<font color=red>Shift Summary: </font><pre>08:00 Taking data w silicon. Store=2001  L=2.2E31 Run=154677 
+      One ShowrMax card is bad and removed from readout list 
+08:50 Stop run to cycle 400Hz to East Plug to 
+      recover the Shower Max card. After this ShMax calibration 
+      have to be done again 
+09:32 Start data taking with all detector. 
+09:57 ISL cooling trips 
+10:26 Beam is lost due to power glitch just before silicon is back 
+14:00 Start cosmics with all detector waiting for beam 
+ 
+Shift highlights: 
+- Start with one Plug ShowerMax board out of DAQ. OpMan and 
+  calorimeter SPL decide to cycle power to the VME crate to 
+  try restart the bad card. Have to toggle 400Hz power to all 
+  East Plug. Trick worked. ShowerMax calibration had to be 
+  redone. This is a general procedure for ShMax cards after 
+  power cycling. Loose ~40min of data there 
+- Loose ~30min of data due to silicon cooling, then loose beam 
+- Do all calibration and some SVT timing studies 
+- CMX HV turnon has a slower ramp now, will take 4min 
+- There are 36 dead (no HV) photomultipliers in TSU/BSU waiting 
+  for a 1hr access to repalce a failed CCU. Expect dead regions 
+  in YMON.</pre> 
+<br><b>End of Shift Numbers</b>
+<table><tr><td width=60% align=left>
+<b>CDF Run II <p></b>                       
+<pre>
+Runs                   154677,154679,154681
+Delivered Luminosity   180  
+Acquired Luminosity    96  
+Efficiency             54%
+   
+</td></tr></table></pre>
+<!-- Author: Stefano -->
+
+<!-- Date: Wed Nov 27 15:56:21 2002 -->
+<TABLE BORDER=2 CELLSPACING=1 CELLPADDING=1 BGCOLOR=WHITE>
+<TR BGCOLOR=YELLOW><TH>Run Number</TH>
+<TH>Data Type</TH>
+<TH>Physics Table</TH>
+<TH>Begin Time</TH>
+<TH>End Time</TH>
+<TH>Live Time</TH>
+<TH>L1 Accepts</TH>
+<TH>L2 Accepts</TH>
+<TH>L3 Accepts</TH>
+<TH>Live Lumi, nb-1</TH>
+<TH>GR</TH>
+<TH>SC</TH>
+<TH>RC</TH></TR>
+
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154677>154677</A> 
+x25C35</TD>                                                             
+<TD>BEAM</TD>                                                           
+<TD>PHYSICS_1_03 [2,194,329]</TD>                                       
+<TD ALIGN=CENTER>06:33:53</TD>                                          
+<TD ALIGN=CENTER>08:47:36</TD>                                          
+<TD ALIGN=CENTER>02:05:34</TD>                                          
+<TD ALIGN=RIGHT>     75,586,856</TD>                                    
+<TD ALIGN=RIGHT>     1,094,687</TD>                                     
+<TD ALIGN=RIGHT>     300,878</TD>                                       
+<TD ALIGN=RIGHT>  170.879</TD>                                          
+<TD ALIGN=CENTER>0</TD>                                                 
+<TD ALIGN=CENTER>1</TD>                                                 
+<TD ALIGN=CENTER>1</TD></TR>                                            
+                                                                        
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154679>154679</A> 
+x25C37</TD>                                                             
+<TD>BEAM</TD>                                                           
+<TD>PHYSICS_1_03 [2,194,329]</TD>                                       
+<TD ALIGN=CENTER>09:08:48</TD>                                          
+<TD ALIGN=CENTER>09:16:39</TD>                                          
+<TD ALIGN=CENTER>00:07:31</TD>                                          
+<TD ALIGN=RIGHT>      4,148,846</TD>                                    
+<TD ALIGN=RIGHT>        61,470</TD>                                     
+<TD ALIGN=RIGHT>      16,990</TD>                                       
+<TD ALIGN=RIGHT>    8.956</TD>                                          
+<TD ALIGN=CENTER>0</TD>                                                 
+<TD ALIGN=CENTER>1</TD>                                                 
+<TD ALIGN=CENTER>0</TD></TR>                                            
+                                                                        
+<TR><TD><A HREF=/java/cdfdb/servlet/RunSummary?RUN_NUMBER=154681>154681</A> 
+x25C39</TD>                                                             
+<TD>BEAM</TD>                                                           
+<TD>PHYSICS_1_03 [2,194,329]</TD>                                       
+<TD ALIGN=CENTER>09:30:18</TD>                                          
+<TD ALIGN=CENTER>10:08:47</TD>                                          
+<TD ALIGN=CENTER>00:23:26</TD>                                          
+<TD ALIGN=RIGHT>     13,977,741</TD>                                    
+<TD ALIGN=RIGHT>       189,801</TD>                                     
+<TD ALIGN=RIGHT>      53,760</TD>                                       
+<TD ALIGN=RIGHT>   28.779</TD>                                          
+<TD ALIGN=CENTER>1</TD>                                                 
+<TD ALIGN=CENTER>1</TD>                                                 
+<TD ALIGN=CENTER>1</TD></TR>                                            
+                                                                        
+<TR><TD>Totals</TD>                                                     
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD>15:55:02</TD>                                                       
+<TD ALIGN=CENTER>02:36:31</TD>                                          
+<TD ALIGN=RIGHT>      93,713,443</TD>                                   
+<TD ALIGN=RIGHT>      1,345,958</TD>                                    
+<TD ALIGN=RIGHT>       371,628</TD>                                     
+<TD ALIGN=RIGHT>  208.614</TD>                                          
+<TD> </TD>                                                              
+<TD> </TD>                                                              
+<TD> </TD></TR>                                                         
+                                                                        
+</TABLE>
+<!-- processed by 131.225.127.7 -->
+<!-- Author: End of Shift Report -->
+
+
+
+<!-- Date: Wed Nov 27 15:57:53 2002 -->
+<table><tr><td><a href=/cgi/elog/elog.pl?nb=2002&action=view&page=-10980&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/elog.pl?nb=2002&action=view&page=-10980  width='300' align='top'></td><td>Luminosity and datataking until beam loss</a></td></tr></table>
+<!-- Author: Lucio -->

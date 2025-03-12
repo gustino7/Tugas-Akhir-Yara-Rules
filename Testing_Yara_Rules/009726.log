@@ -1,0 +1,327 @@
+<!-- Title: Eve shift. Mon Nov 12, 2001 -->
+<!-- SciCo: none -->
+<!-- DAQAce: Ayana Holloway -->
+<!-- MonAce: same -->
+<!-- CO: none -->
+<!-- OpManager: Kevin Burkett -->
+<!-- Notes: -->
+<pre></pre>
+
+
+<!-- Date: Mon Nov 12 16:23:10 2001 -->
+Requests: 
+ 
+Marcin left me XEF calibration to do, which entails QIE I guess 
+(no recent log file.) 
+ 
+Abraham has requested a quick cosmics run >> YMon. 
+ 
+Checking PCAL 05 with a shower max calibration sometime before the plug sourcing @ 2100.  
+<!-- Author: Ayana -->
+<!-- Comment: Mon Nov 12 20;12;07 comment by...ath -->
+We're partition 06 this week....
+<!-- Date: Mon Nov 12 16:31:59 2001 -->
+<pre>Trevor responded to page for CMU NE trip, 3rd trip today.  He reset it and things look normal, but might be bad CAEN channel. </pre>
+<!-- Author: ath -->
+
+
+<!-- Date: Mon Nov 12 16:36:51 2001 -->
+Taking control of the CMP HV to see if some access soldering work fixed our HV problem on the cathode.
+<!-- Author: Trevor -->
+
+
+<!-- Date: Mon Nov 12 16:52:26 2001 -->
+S&S trainees are here.
+<!-- Author: ath -->
+
+
+<!-- Date: Mon Nov 12 16:59:22 2001 -->
+Another cmu alarm...trevor is still working? 
+ 
+(page to be sure.)
+<!-- Author: ath -->
+
+
+<!-- Date: Mon Nov 12 17:04:09 2001 -->
+Finally doing Abraham's run (cosmics notracks), few dtos from ccal_02 so I'm tossing it.
+<!-- Author: ayana :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131749' target=_top>131749</a>) -->
+<!-- Comment: Mon Nov 12 17;14;35 comment by...ayana -->
+ccal07 too...
+
+
+<!-- Date: Mon Nov 12 17:16:23 2001 -->
+New run with FCAL00 and FCAL01 crates. The events were taken  
+using zerobias trigger and hardEvb. It works and the  
+bank structure for the MPAD looks fine.
+<!-- Author: Mario :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131751' target=_top>131751</a>) -->
+
+
+<!-- Date: Mon Nov 12 17:30:37 2001 -->
+Heard my first ISL trip alarm (like a test of the emergency broadcast system), luckily experts abound.
+<!-- Author: ayana -->
+
+
+<!-- Date: Mon Nov 12 18:06:52 2001 -->
+<pre>At or about 4:30 pm today November 12, a change was made to the 
+access control list for online subnet 236a (the lower half of 
+subnet 236). This change blocked some operations between 
+online and onsite offline computers (such as offline database). 
+ 
+I asked for the ACL to be turned off until Tuesday morning. 
+ 
+ JJ</pre>
+<!-- Author: Eugene &quot;JJ&quot; Schmidt -->
+
+
+<!-- Date: Mon Nov 12 18:15:52 2001 -->
+Finished Muge&Abraham's run. <br> 
+Ran QIE calibration 131759, errors were <br> 
+<pre> 
+QIE 0  ADMEM 21 failed 10 (no fitting) 
+QIE 5  ADMEM 18 failed 14 (sigma[off] big) 
+QIE 17 ADMEM 12 failed 14 (sigma[off] big)</pre>
+<!-- Author: ath :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131759' target=_top>131759</a>) -->
+<!-- Comment: Mon Nov 12 22;25;11 comment by...ayana -->
+<pre>MLE) b0puls01:Messenger:6:07:37 PM-&gt;QIE calibration failed
+(b0puls01) QIE calib: slot 21, qie 02:Warn  4: Raw ped RMS high   , val 05.6814, cap 0, rng0.
+(b0puls01) QIE calib: slot 21, qie 03:Warn  4: Raw ped RMS high   , val 06.1910, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 03:Warn  4: Raw ped RMS high   , val 05.0410, cap 2, rng0.
+(b0puls01) QIE calib: slot 20, qie 05:Warn  4: Raw ped RMS high   , val 05.2656, cap 2, rng0.
+(b0puls01) QIE calib: slot 20, qie 06:Warn  4: Raw ped RMS high   , val 08.7526, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 08:Warn  4: Raw ped RMS high   , val 05.4533, cap 1, rng0.
+(b0puls01) QIE calib: slot 20, qie 09:Warn  4: Raw ped RMS high   , val 08.2026, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 10:Warn  4: Raw ped RMS high   , val 05.2667, cap 1, rng0.
+(b0puls01) QIE calib: slot 20, qie 11:Warn  4: Raw ped RMS high   , val 05.5877, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 14:Warn  4: Raw ped RMS high   , val 06.5371, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 16:Warn  4: Raw ped RMS high   , val 07.7052, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 17:Warn  4: Raw ped RMS high   , val 05.3179, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 19:Warn  4: Raw ped RMS high   , val 06.3576, cap 0, rng0.
+(MLE) b0puls01:Readout_Calib:6:07:37 PM-&gt;ADMEM=21 QIE=0 Fail 10: No fitting          (0.0) (0) (0)
+(b0puls01) QIE calib: slot 21, qie 00:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 21, qie 01:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 21, qie 04:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 21, qie 05:Fail  6: Raw ped RMS high   , val 15.4618, cap 0, rng0.
+(b0puls01) QIE calib: slot 21, qie 19:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 00:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 01:Fail 10: No fitting         , val 00.0000, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 02:Fail  6: Raw ped RMS high   , val 12.8460, cap 0, rng0.
+(b0puls01) QIE calib: slot 20, qie 15:Fail 14: Sigma(off) big     , val 02.1339, cap 1, rng0.
+(b0wcal02) QIE calib: slot 18, qie 00:Warn 11: Sigma(off) high    , val 00.5037, cap 1, rng0.
+(MLE) b0wcal02:Readout_Calib:6:07:36 PM-&gt;ADMEM=18 QIE=5 Fail 14: Sigma(off) big      (1.1679816) (0) (3)
+(b0wcal02) QIE calib: slot 18, qie 05:Fail 14: Sigma(off) big     , val 01.1680, cap 0, rng3.
+(b0wcal00) QIE calib: slot 18, qie 04:Warn  3: Raw ped low        , val 146.3518, cap 0, rng0.
+(b0wcal00) QIE calib: slot 18, qie 11:Warn  3: Raw ped low        , val 144.2250, cap 0, rng0.
+(b0wcal05) QIE calib: slot 18, qie 03:Warn 11: Sigma(off) high    , val 00.5927, cap 0, rng0.
+(b0wcal05) QIE calib: slot 18, qie 07:Warn 11: Sigma(off) high    , val 00.6720, cap 0, rng3.
+(b0ccal00) QIE calib: slot 19, qie 06:Warn 11: Sigma(off) high    , val 00.5171, cap 1, rng1.
+(b0ccal06) QIE calib: slot 21, qie 08:Warn 11: Sigma(off) high    , val 00.6058, cap 2, rng3.
+(b0ccal03) QIE calib: slot 19, qie 11:Warn  3: Raw ped low        , val 143.4020, cap 0, rng0.
+(b0ccal10) QIE calib: slot 21, qie 00:Warn  3: Raw ped low        , val 149.1100, cap 1, rng0.
+(b0ccal10) QIE calib: slot 21, qie 04:Warn 11: Sigma(off) high    , val 00.5115, cap 0, rng1.
+(b0ccal10) QIE calib: slot 18, qie 00:Warn 11: Sigma(off) high    , val 00.5091, cap 0, rng6.
+(b0ccal11) QIE calib: slot 17, qie 06:Warn  3: Raw ped low        , val 149.7950, cap 2, rng0.
+(b0ccal13) QIE calib: slot 17, qie 17:Warn  3: Raw ped low        , val 147.3950, cap 0, rng0.
+(b0pcal01) QIE calib: slot 18, qie 18:Warn  3: Raw ped low        , val 145.9900, cap 0, rng0.
+(b0pcal03) QIE calib: slot 21, qie 00:Warn  3: Raw ped low        , val 149.8000, cap 2, rng0.
+(MLE) b0pcal00:Readout_Calib:6:07:45 PM-&gt;ADMEM=17 QIE=12 Fail 14: Sigma(off) big      (1.7480636) (0) (0)
+(b0pcal00) QIE calib: slot 17, qie 12:Fail 14: Sigma(off) big     , val 01.7481, cap 0, rng0.
+(b0pcal11) QIE calib: slot 16, qie 00:Warn  3: Raw ped low        , val 148.0750, cap 1, rng0.
+(b0pcal05) QIE calib: slot 18, qie 02:Warn 11: Sigma(off) high    , val 00.5103, cap 3, rng4.
+(RC)   19:7:51 Activate -&gt; DONE</pre>
+<!-- Date: Mon Nov 12 18:42:14 2001 -->
+there will be an alarm on IMU.
+<!-- Author: ms. cleo -->
+<!-- Comment: Mon Nov 12 20;51;34 comment by...ath -->
+apparently ms. cleo was misinformed.
+<!-- Date: Mon Nov 12 18:44:13 2001 -->
+Loaded new set of PES and PPR voltages.  Plug sourcing scheduled for 9pm tonight.
+<!-- Author: Alon A. -->
+
+
+<!-- Date: Mon Nov 12 18:53:22 2001 -->
+SVX cooling alarm, cleared and silenced.  Experts are around.
+<!-- Author: ath -->
+
+
+<!-- Date: Mon Nov 12 19:08:26 2001 -->
+SMXqie calibration with no errors.
+<!-- Author: ayana :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131765' target=_top>131765</a>) -->
+
+
+<!-- Date: Mon Nov 12 19:44:22 2001 -->
+xef calibration in progress....
+<!-- Author: ayana :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131775' target=_top>131775</a>) -->
+<!-- Comment: Mon Nov 12 20;08;13 comment by...ayana -->
+...no errors.
+
+
+<!-- Date: Mon Nov 12 20:09:02 2001 -->
+tof tac calibration in progress: no errors.
+<!-- Author: ath :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131777' target=_top>131777</a>) -->
+
+
+
+<!-- Date: Mon Nov 12 20:25:48 2001 -->
+starting steve kuhlmann run, I have taken L2 but will be glad to give it back.
+<!-- Author: ayana :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131778' target=_top>131778</a>) -->
+<!-- Comment: Mon Nov 12 20;41;39 comment by...ath -->
+....ok, giving.
+
+
+
+
+<!-- Date: Mon Nov 12 20:55:03 2001 -->
+<pre>Completed commissioning of BMU trigger path into muon 
+matchbox cards.  From this point forward, BMU trigger  
+primitives will be read out as part of TCMD bank. 
+ 
+Identified three bad cards in the process of debugging 
+BMU trigger links.   
+ 
+(1) removed tdc #382 from IMU01 slot 20.  Replaced with 
+    board #374 
+ 
+(2) removed bad muon TDC transition module (B-29) from  
+    IMU01 slot 11 
+ 
+(3) removed bad matchbox transition module (MBT-16) from 
+    MUTR00 slot 11 </pre>
+<!-- Author: Eric James -->
+
+
+<!-- Date: Mon Nov 12 21:02:48 2001 -->
+So the real S.K. run is this one (131781); probably won't get 
+30K events before they finish roping off for the plug sourcing.
+<!-- Author: ath :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131781' target=_top>131781</a>) -->
+<!-- Comment: Mon Nov 12 21;20;25 comment by...ath -->
+For the record, still get many <br>
+"ADMEM in slot .. not properly configured."<br> errors.
+
+<!-- Comment: Mon Nov 12 21;34;41 comment by...ayana -->
+Ended this run with 50479 events, in plenty of time for sourcing.
+
+
+<!-- Date: Mon Nov 12 22:13:44 2001 -->
+Rick asked for a spike run during the plug sourcing, so, this one has NO pcal crates.   
+ 
+ 
+Meanwhile, heartbeat alarms predicted from PSM, we'll ignore.
+<!-- Author: ayana :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131783' target=_top>131783</a>) -->
+<!-- Comment: Mon Nov 12 22;46;04 comment by...ath -->
+finally psm heartbeat alarm.
+<!-- Comment: Mon Nov 12 23;22;41 comment by...ath -->
+Spike run 131783 got 30K events; 
+
+Note that for the run configuration to validate, one must change the version of trigger_table_sumet_5 to [1,186] (default [1,143].)
+<!-- Date: Mon Nov 12 22:16:31 2001 -->
+<P> Finished testing TOF trigger cables for the evening. </P>  
+<!-- Author: mulhearn -->
+
+
+
+
+
+<!-- Date: Mon Nov 12 23:24:33 2001 -->
+Holding off on cosmics until the cal crates come back on; Fotis is working.
+<!-- Author: ayana -->
+
+
+<!-- Date: Mon Nov 12 23:44:24 2001 -->
+Dan says the low voltage power supply monitoring code has been fixed.
+<!-- Author: ath -->
+
+
+<!-- Date: Mon Nov 12 23:49:40 2001 -->
+the l2 princess is here to make everything magically work (I hope).  taking ccal,wcal, l1/l2 system  
+<!-- Author: hray -->
+
+
+<!-- Date: Mon Nov 12 23:52:30 2001 -->
+Change a CHA PMT on wedge 1-East, tower 2R
+<!-- Author: fotis :: (run <a href='/java/cdfdb/servlet/RunSummary?RUN_NUMBER=131783' target=_top>131783</a>) -->
+
+
+<!-- Date: Tue Nov 13 00:11:38 2001 -->
+<font color=red>Shift Summary: </font><pre>Leaving the l2 princess with l2 and cal. (She'll start up a cosmics when she's done.) 
+ 
+What the runs were: 
+  
+QIE calibration (errors listed above)                           131759 
+SMX QIE  calibration with no errors.                            131765 
+XEF calibration (no errors)                                     131775 
+TOF TAC calibration:                                            131777 
+  
+***plots and bad channel lists in folder.*** 
+  
+post-smx calibration 50k cosmics run (steve k)                  131778 
+pcal-less PMT spike run during plug sourcing                    131783 
+                                                                                                         </pre> 
+<br><b>End of Shift Numbers</b>
+<table><tr><td width=60% align=left>
+<b>CDF Run II <p></b>                       
+<pre>
+Runs                   131749-131783
+Delivered Luminosity   0  
+Acquired Luminosity    0  
+Efficiency             nn
+   
+</td></tr></table></pre>
+<!-- Author: Ayana -->
+
+
+<!-- Date: Tue Nov 13 02:08:56 2001 -->
+attempting to start a cosmic run and every problem known to man (at least ace) is occuring.  consumer errors if you include trigmon and ymon in run settings, but if you don't and just run the consumers 
+<!-- Author: hray -->
+
+
+<!-- Date: Tue Nov 13 02:11:46 2001 -->
+somehow the rest of my message got erased.  so, here goes: 
+removed COT b/c another partition using it.  no l2de crate for tonight.  enabled auto recovery.  consumers not run via rc.  started consumers from co machines and they are happily chugging away at this run.  got smxr errors from ccal09, removed those cards.  *finally* running after attempting for > half hour.  going to bed <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: hray -->
+<!-- Comment: Tue Nov 13 07;52;49 comment by...h -->
+run 131818
+<!-- Date: Tue Nov 13 02:44:42 2001 -->
+<pre>Plug Sourcing summary. 
+ 
+Showermax runs : 131782 - tubes 28-31; 131784 - tubes 86-89. 
+ 
+PPR: 
+Run#    tube#   wedge (as for driver 1 West) 
+131785  1       0.0 
+131787  10      0.1 
+131788  19      1.0 
+131789  32      1.1 
+131790  41      2.0 
+131791  50      2.1 
+131792  59      3.0 
+131795  68      3.1 
+131797  77      4.0 
+131799  90      4.1 
+131802  99      5.0 
+131804  108     5.1 
+ 
+EM (Layer2) 
+131808  69      3.1</pre>š<font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Alexei Sedov -->
+
+
+<!-- Date: Tue Nov 13 07:14:24 2001 -->
+<pre>When I came in RC had a done timeout. 
+Tried a HRR  
+Error from CCAL02 SMXR card in slot 5 not responding</pre> <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Frank Chlebana -->
+
+
+<!-- Date: Tue Nov 13 07:18:06 2001 -->
+<pre>For some time now we have been getting messages about the  
+ADMEMs not being properly configured. 
+ 
+This needs to be sorted out.</pre> <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Frank Chlebana -->
+
+
+<!-- Date: Tue Nov 13 07:19:46 2001 -->
+<pre>Tried to start a new run but got a done timeout right away 
+CCAL03 SMXR in slot 5 not responding...</pre> <font color=red><cite>(entry outside this shift's time range )</cite></font>
+<!-- Author: Frank Chlebana -->
+

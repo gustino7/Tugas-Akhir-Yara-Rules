@@ -3,3 +3,6 @@ hexdump -C 031ebdaf0189694eec6b83ad26e8252547d843780563f54ec06a170f1c0e40d3 | le
 
 # run Yargen
 python ~/yarGen/yarGen.py -m Malware_Sample_AgentTesla -o Yargen_AgentTesla/output_ai_score.yar --ai --score
+
+# run Detect it Easy
+die

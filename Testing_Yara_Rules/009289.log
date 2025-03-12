@@ -1,0 +1,317 @@
+
+Fri Jan 27 07:32:00 CST 2006
+OK - checking for rman files needed in Enstore
+     OK - have /pnfs/cdf/rman/*/cdfonprd/2006/01/21 
+
+Fri Jan 27 07:32:00 CST 2006
+OK - removing oldest cdfofprd rman directories 
+     OK - removing cdfonprd/rman/2006/01/13
+ 
+Fri Jan 27 07:32:01 CST 2006
+OK - copying cdfonprd arch files to enstore 
+Fri Jan 27 07:32:01 CST 2006
+INFORMATIONAL: Product 'encp' (with qualifiers ''), has no current chain (or may not exist)
+
+ OK - inspecting    4167 .arc files 
+Checks:  arch1_prd 51499 514 51
+Checks:  arch1_prd 51599 515 51
+Checks:  arch1_prd 51699 516 51
+Checks:  arch1_prd 51799 517 51
+Checks:  arch1_prd 51899 518 51
+Checks:  arch1_prd 51999 519 51
+Checks:  arch1_prd 52099 520 52
+Checks:  arch1_prd 52199 521 52
+Checks:  arch1_prd 52299 522 52
+Checks:  arch1_prd 52399 523 52
+Checks:  arch1_prd 52499 524 52
+Checks:  arch1_prd 52599 525 52
+Checks:  arch1_prd 52699 526 52
+Checks:  arch1_prd 52799 527 52
+Checks:  arch1_prd 52899 528 52
+Checks:  arch1_prd 52999 529 52
+Checks:  arch1_prd 53099 530 53
+Checks:  arch1_prd 53199 531 53
+Checks:  arch1_prd 53299 532 53
+Checks:  arch1_prd 53399 533 53
+Checks:  arch1_prd 53499 534 53
+Checks:  arch1_prd 53599 535 53
+Checks:  arch1_prd 53699 536 53
+Checks:  arch1_prd 53799 537 53
+Checks:  arch1_prd 53899 538 53
+Checks:  arch1_prd 53999 539 53
+Checks:  arch1_prd 54099 540 54
+Checks:  arch1_prd 54199 541 54
+Checks:  arch1_prd 54299 542 54
+Checks:  arch1_prd 54399 543 54
+Checks:  arch1_prd 54499 544 54
+Checks:  arch1_prd 54599 545 54
+Checks:  arch1_prd 54699 546 54
+Checks:  arch1_prd 54799 547 54
+Checks:  arch1_prd 54899 548 54
+Checks:  arch1_prd 54999 549 54
+Checks:  arch1_prd 55099 550 55
+Checks:  arch1_prd 55199 551 55
+Checks:  arch1_prd 55299 552 55
+Checks:  arch1_prd 55399 553 55
+Checks:  arch1_prd 55499 554 55
+ WOULD create arch1_prd_554.tgz
+Checks:  arch1_prd 55599 555 55
+ WOULD create arch1_prd_555.tgz
+
+ OK - inspecting     412 tgz files 
+224543	/stager/cdfonprd/archz
+
+    archive 1
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/52/arch1_prd_529.tgz 582551519 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_530.tgz 577303135 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_531.tgz 591894433 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_532.tgz 580960729 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_533.tgz 586805015 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_534.tgz 577138826 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_535.tgz 585839793 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_536.tgz 572588545 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_537.tgz 586244256 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_538.tgz 593598443 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/53/arch1_prd_539.tgz 577995649 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_540.tgz 577426201 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_541.tgz 566606709 
+Fri Jan 27 07:35:11 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_542.tgz 586748328 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_543.tgz 574185593 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_544.tgz 583887407 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_545.tgz 567104664 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_546.tgz 580280848 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_547.tgz 572999099 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_548.tgz 572832595 
+Fri Jan 27 07:35:12 CST 2006  /pnfs/cdf/arch/1/cdfonprd/54/arch1_prd_549.tgz 575423585 
+Fri Jan 27 07:35:13 CST 2006  /pnfs/cdf/arch/1/cdfonprd/55/arch1_prd_550.tgz 574864103 
+Fri Jan 27 07:35:13 CST 2006  /pnfs/cdf/arch/1/cdfonprd/55/arch1_prd_551.tgz 583677021 
+Fri Jan 27 07:35:13 CST 2006  /pnfs/cdf/arch/1/cdfonprd/55/arch1_prd_552.tgz 583249525 
+Fri Jan 27 07:35:13 CST 2006  /pnfs/cdf/arch/1/cdfonprd/55/arch1_prd_553.tgz 573982998 
+
+    archive 2
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/52/arch1_prd_528.tgz 578600000 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/52/arch1_prd_529.tgz 582551519 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_530.tgz 577303135 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_531.tgz 591894433 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_532.tgz 580960729 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_533.tgz 586805015 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_534.tgz 577138826 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_535.tgz 585839793 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_536.tgz 572588545 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_537.tgz 586244256 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_538.tgz 593598443 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/53/arch1_prd_539.tgz 577995649 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_540.tgz 577426201 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_541.tgz 566606709 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_542.tgz 586748328 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_543.tgz 574185593 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_544.tgz 583887407 
+Fri Jan 27 07:37:55 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_545.tgz 567104664 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_546.tgz 580280848 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_547.tgz 572999099 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_548.tgz 572832595 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/54/arch1_prd_549.tgz 575423585 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/55/arch1_prd_550.tgz 574864103 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/55/arch1_prd_551.tgz 583677021 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/55/arch1_prd_552.tgz 583249525 
+Fri Jan 27 07:37:56 CST 2006  /pnfs/cdf/arch/2/cdfonprd/55/arch1_prd_553.tgz 573982998 
+ OOPS, file lengths do not match 
+-rw-r--r--    1 stager   cdf      578059159 May  5  2005 /pnfs/cdf/arch/1/cdfonprd/2/arch1_prd_2.tgz
+-rw-r--r--    1 stager   cdf      374136203 May 20  2005 arch1_prd_2.tgz
+
+ EXIT 
+
+tail -f /stager/maint/log/encparch/cdfonprd/2006/01/27.log
+ OK - removing oldest cdfonprd arch files 
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:36 cdfonprd/arch/arch1_prd_51477.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:47 cdfonprd/arch/arch1_prd_51478.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:05 cdfonprd/arch/arch1_prd_51479.arc
+-rw-r-----    1 stager   cdf      20968960 Jan  4 10:19 cdfonprd/arch/arch1_prd_51480.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:20 cdfonprd/arch/arch1_prd_51481.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:22 cdfonprd/arch/arch1_prd_51482.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:23 cdfonprd/arch/arch1_prd_51483.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:44 cdfonprd/arch/arch1_prd_51484.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 10:56 cdfonprd/arch/arch1_prd_51485.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 11:20 cdfonprd/arch/arch1_prd_51486.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 11:34 cdfonprd/arch/arch1_prd_51487.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 11:43 cdfonprd/arch/arch1_prd_51488.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 11:52 cdfonprd/arch/arch1_prd_51489.arc
+-rw-r-----    1 stager   cdf      20969984 Jan  4 12:00 cdfonprd/arch/arch1_prd_51490.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:08 cdfonprd/arch/arch1_prd_51491.arc
+-rw-r-----    1 stager   cdf      15512576 Jan  4 12:13 cdfonprd/arch/arch1_prd_51492.arc
+-rw-r-----    1 stager   cdf         53760 Jan  4 12:13 cdfonprd/arch/arch1_prd_51493.arc
+-rw-r-----    1 stager   cdf      20964864 Jan  4 12:16 cdfonprd/arch/arch1_prd_51494.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:17 cdfonprd/arch/arch1_prd_51495.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:19 cdfonprd/arch/arch1_prd_51496.arc
+-rw-r-----    1 stager   cdf      20969984 Jan  4 12:21 cdfonprd/arch/arch1_prd_51497.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:24 cdfonprd/arch/arch1_prd_51498.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:32 cdfonprd/arch/arch1_prd_51499.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 12:38 cdfonprd/arch/arch1_prd_51500.arc
+-rw-r-----    1 stager   cdf      20964864 Jan  4 12:53 cdfonprd/arch/arch1_prd_51501.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 13:05 cdfonprd/arch/arch1_prd_51502.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 13:23 cdfonprd/arch/arch1_prd_51503.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 13:37 cdfonprd/arch/arch1_prd_51504.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 13:39 cdfonprd/arch/arch1_prd_51505.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 13:39 cdfonprd/arch/arch1_prd_51506.arc
+-rw-r-----    1 stager   cdf      20968448 Jan  4 13:41 cdfonprd/arch/arch1_prd_51507.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 13:43 cdfonprd/arch/arch1_prd_51508.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 14:01 cdfonprd/arch/arch1_prd_51509.arc
+-rw-r-----    1 stager   cdf      20969472 Jan  4 14:14 cdfonprd/arch/arch1_prd_51510.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 14:27 cdfonprd/arch/arch1_prd_51511.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 14:40 cdfonprd/arch/arch1_prd_51512.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 14:47 cdfonprd/arch/arch1_prd_51513.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 14:48 cdfonprd/arch/arch1_prd_51514.arc
+-rw-r-----    1 stager   cdf      20964864 Jan  4 14:49 cdfonprd/arch/arch1_prd_51515.arc
+-rw-r-----    1 stager   cdf      20963840 Jan  4 14:50 cdfonprd/arch/arch1_prd_51516.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 14:59 cdfonprd/arch/arch1_prd_51517.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:08 cdfonprd/arch/arch1_prd_51518.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:17 cdfonprd/arch/arch1_prd_51519.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:23 cdfonprd/arch/arch1_prd_51520.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:35 cdfonprd/arch/arch1_prd_51521.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:40 cdfonprd/arch/arch1_prd_51522.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:45 cdfonprd/arch/arch1_prd_51523.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:54 cdfonprd/arch/arch1_prd_51524.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:57 cdfonprd/arch/arch1_prd_51525.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:58 cdfonprd/arch/arch1_prd_51526.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 15:59 cdfonprd/arch/arch1_prd_51527.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 16:00 cdfonprd/arch/arch1_prd_51528.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 16:02 cdfonprd/arch/arch1_prd_51529.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 16:18 cdfonprd/arch/arch1_prd_51530.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 16:32 cdfonprd/arch/arch1_prd_51531.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 16:43 cdfonprd/arch/arch1_prd_51532.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 16:54 cdfonprd/arch/arch1_prd_51533.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:05 cdfonprd/arch/arch1_prd_51534.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:06 cdfonprd/arch/arch1_prd_51535.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:07 cdfonprd/arch/arch1_prd_51536.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:08 cdfonprd/arch/arch1_prd_51537.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:12 cdfonprd/arch/arch1_prd_51538.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:20 cdfonprd/arch/arch1_prd_51539.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:30 cdfonprd/arch/arch1_prd_51540.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:38 cdfonprd/arch/arch1_prd_51541.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:44 cdfonprd/arch/arch1_prd_51542.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 17:53 cdfonprd/arch/arch1_prd_51543.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:00 cdfonprd/arch/arch1_prd_51544.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:04 cdfonprd/arch/arch1_prd_51545.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 18:14 cdfonprd/arch/arch1_prd_51546.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:16 cdfonprd/arch/arch1_prd_51547.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:18 cdfonprd/arch/arch1_prd_51548.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:19 cdfonprd/arch/arch1_prd_51549.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 18:20 cdfonprd/arch/arch1_prd_51550.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:32 cdfonprd/arch/arch1_prd_51551.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:42 cdfonprd/arch/arch1_prd_51552.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:44 cdfonprd/arch/arch1_prd_51553.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:47 cdfonprd/arch/arch1_prd_51554.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 18:49 cdfonprd/arch/arch1_prd_51555.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 19:00 cdfonprd/arch/arch1_prd_51556.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 19:12 cdfonprd/arch/arch1_prd_51557.arc
+-rw-r-----    1 stager   cdf      20966400 Jan  4 19:33 cdfonprd/arch/arch1_prd_51558.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 19:47 cdfonprd/arch/arch1_prd_51559.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 19:56 cdfonprd/arch/arch1_prd_51560.arc
+-rw-r-----    1 stager   cdf      20969472 Jan  4 20:07 cdfonprd/arch/arch1_prd_51561.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 20:08 cdfonprd/arch/arch1_prd_51562.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 20:09 cdfonprd/arch/arch1_prd_51563.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 20:11 cdfonprd/arch/arch1_prd_51564.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 20:21 cdfonprd/arch/arch1_prd_51565.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 20:35 cdfonprd/arch/arch1_prd_51566.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 20:54 cdfonprd/arch/arch1_prd_51567.arc
+-rw-r-----    1 stager   cdf      20969984 Jan  4 21:12 cdfonprd/arch/arch1_prd_51568.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 21:17 cdfonprd/arch/arch1_prd_51569.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 21:18 cdfonprd/arch/arch1_prd_51570.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 21:20 cdfonprd/arch/arch1_prd_51571.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 21:21 cdfonprd/arch/arch1_prd_51572.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 21:40 cdfonprd/arch/arch1_prd_51573.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 21:54 cdfonprd/arch/arch1_prd_51574.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 22:05 cdfonprd/arch/arch1_prd_51575.arc
+-rw-r-----    1 stager   cdf      20965888 Jan  4 22:16 cdfonprd/arch/arch1_prd_51576.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:28 cdfonprd/arch/arch1_prd_51577.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:29 cdfonprd/arch/arch1_prd_51578.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:30 cdfonprd/arch/arch1_prd_51579.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:31 cdfonprd/arch/arch1_prd_51580.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:42 cdfonprd/arch/arch1_prd_51581.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 22:54 cdfonprd/arch/arch1_prd_51582.arc
+-rw-r-----    1 stager   cdf      20965888 Jan  4 23:14 cdfonprd/arch/arch1_prd_51583.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:33 cdfonprd/arch/arch1_prd_51584.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:37 cdfonprd/arch/arch1_prd_51585.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:38 cdfonprd/arch/arch1_prd_51586.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:40 cdfonprd/arch/arch1_prd_51587.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:41 cdfonprd/arch/arch1_prd_51588.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 23:57 cdfonprd/arch/arch1_prd_51589.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 00:14 cdfonprd/arch/arch1_prd_51590.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 00:34 cdfonprd/arch/arch1_prd_51591.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 00:46 cdfonprd/arch/arch1_prd_51592.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 00:47 cdfonprd/arch/arch1_prd_51593.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 00:48 cdfonprd/arch/arch1_prd_51594.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 00:49 cdfonprd/arch/arch1_prd_51595.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:00 cdfonprd/arch/arch1_prd_51596.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 01:12 cdfonprd/arch/arch1_prd_51597.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:33 cdfonprd/arch/arch1_prd_51598.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:50 cdfonprd/arch/arch1_prd_51599.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:55 cdfonprd/arch/arch1_prd_51600.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:56 cdfonprd/arch/arch1_prd_51601.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 01:57 cdfonprd/arch/arch1_prd_51602.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 01:58 cdfonprd/arch/arch1_prd_51603.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 02:17 cdfonprd/arch/arch1_prd_51604.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 02:30 cdfonprd/arch/arch1_prd_51605.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 02:52 cdfonprd/arch/arch1_prd_51606.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 03:03 cdfonprd/arch/arch1_prd_51607.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 03:04 cdfonprd/arch/arch1_prd_51608.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 03:05 cdfonprd/arch/arch1_prd_51609.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 03:06 cdfonprd/arch/arch1_prd_51610.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 03:17 cdfonprd/arch/arch1_prd_51611.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 03:37 cdfonprd/arch/arch1_prd_51612.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 03:49 cdfonprd/arch/arch1_prd_51613.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:11 cdfonprd/arch/arch1_prd_51614.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:12 cdfonprd/arch/arch1_prd_51615.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:13 cdfonprd/arch/arch1_prd_51616.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:14 cdfonprd/arch/arch1_prd_51617.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:20 cdfonprd/arch/arch1_prd_51618.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:36 cdfonprd/arch/arch1_prd_51619.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 04:57 cdfonprd/arch/arch1_prd_51620.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 05:12 cdfonprd/arch/arch1_prd_51621.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 05:19 cdfonprd/arch/arch1_prd_51622.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 05:20 cdfonprd/arch/arch1_prd_51623.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 05:22 cdfonprd/arch/arch1_prd_51624.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 05:23 cdfonprd/arch/arch1_prd_51625.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 05:34 cdfonprd/arch/arch1_prd_51626.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 05:55 cdfonprd/arch/arch1_prd_51627.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:11 cdfonprd/arch/arch1_prd_51628.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:27 cdfonprd/arch/arch1_prd_51629.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 06:28 cdfonprd/arch/arch1_prd_51630.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:29 cdfonprd/arch/arch1_prd_51631.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:30 cdfonprd/arch/arch1_prd_51632.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:31 cdfonprd/arch/arch1_prd_51633.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:33 cdfonprd/arch/arch1_prd_51634.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:43 cdfonprd/arch/arch1_prd_51635.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 06:58 cdfonprd/arch/arch1_prd_51636.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:07 cdfonprd/arch/arch1_prd_51637.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:11 cdfonprd/arch/arch1_prd_51638.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:12 cdfonprd/arch/arch1_prd_51639.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:13 cdfonprd/arch/arch1_prd_51640.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:17 cdfonprd/arch/arch1_prd_51641.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  5 07:27 cdfonprd/arch/arch1_prd_51642.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  5 07:37 cdfonprd/arch/arch1_prd_51643.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 07:29 cdfonprd/arch/arch1_prd_51455.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 07:46 cdfonprd/arch/arch1_prd_51456.arc
+-rw-r-----    1 stager   cdf      20969472 Jan  4 08:02 cdfonprd/arch/arch1_prd_51457.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 08:03 cdfonprd/arch/arch1_prd_51458.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:04 cdfonprd/arch/arch1_prd_51459.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:05 cdfonprd/arch/arch1_prd_51460.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:13 cdfonprd/arch/arch1_prd_51461.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:28 cdfonprd/arch/arch1_prd_51462.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:30 cdfonprd/arch/arch1_prd_51463.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:37 cdfonprd/arch/arch1_prd_51464.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:38 cdfonprd/arch/arch1_prd_51465.arc
+-rw-r-----    1 stager   cdf      20965888 Jan  4 08:39 cdfonprd/arch/arch1_prd_51466.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:42 cdfonprd/arch/arch1_prd_51467.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:43 cdfonprd/arch/arch1_prd_51468.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:48 cdfonprd/arch/arch1_prd_51469.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 08:53 cdfonprd/arch/arch1_prd_51470.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:00 cdfonprd/arch/arch1_prd_51471.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:11 cdfonprd/arch/arch1_prd_51472.arc
+-rw-r-----    1 stager   cdf      20968960 Jan  4 09:12 cdfonprd/arch/arch1_prd_51473.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:13 cdfonprd/arch/arch1_prd_51474.arc
+-rw-r-----    1 stager   cdf      20970496 Jan  4 09:14 cdfonprd/arch/arch1_prd_51475.arc
+-rw-r-----    1 stager   cdf      20971008 Jan  4 09:15 cdfonprd/arch/arch1_prd_51476.arc
+
+Fri Jan 27 07:38:21 CST 2006
+OK - updating web pages

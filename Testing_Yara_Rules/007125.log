@@ -1,0 +1,759 @@
+commit 3b1b71950b81c4a20ae63c2322383ab4932cdabd
+Merge: c69e883... 877d524...
+Author: Linus Torvalds <torvalds@linux-foundation.org>
+Date:   Mon Jan 12 15:55:19 2009 -0800
+
+    Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/geert/linux-m68k
+    
+    * 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/geert/linux-m68k: (30 commits)
+      m68k: Fix --build-id breakage for sun3
+      m68k: Wire up sys_restart_syscall
+      fbdev: Kill Atari vblank cursor blinking
+      m68k: zorro - Use %pR to print resources
+      m68k: dio - Kill resource_size_t format warnings
+      m68k: dmasound - Kill warn_unused_result warnings
+      m68k: zorro - Kill warn_unused_result warnings
+      m68k: dio - Kill warn_unused_result warnings
+      m68k: atafb - Kill warn_unused_result warnings
+      m68k: amiserial - Kill warn_unused_result warnings
+      m68k: ser_a2232 - Kill warn_unused_result warnings
+      m68k: vme_scc - Kill warn_unused_result warnings
+      m68k: sun3 core - Kill warn_unused_result warnings
+      m68k: mvme147 core - Kill warn_unused_result warnings
+      m68k: mac core - Kill warn_unused_result warnings
+      m68k: hp300 core - Kill warn_unused_result warnings
+      m68k: atari core - Kill warn_unused_result warnings
+      m68k: apollo core - Kill warn_unused_result warnings
+      m68k: amiga core - Kill warn_unused_result warnings
+      m68k: Kill several external declarations in source files
+      ...
+
+commit c69e8839c230c60d3c5f62c8f88bd23d8d6519ee
+Merge: 3e55f1a... c7be761...
+Author: Linus Torvalds <torvalds@linux-foundation.org>
+Date:   Mon Jan 12 15:54:27 2009 -0800
+
+    Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/teigland/dlm
+    
+    * 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/teigland/dlm:
+      dlm: change rsbtbl rwlock to spinlock
+      dlm: fix seq_file usage in debugfs lock dump
+
+commit 3e55f1a292583b11ff85952eec77d65a459da2dd
+Merge: 9b0c474... 50c668d...
+Author: Linus Torvalds <torvalds@linux-foundation.org>
+Date:   Mon Jan 12 15:53:58 2009 -0800
+
+    Merge branch 'x86-fixes-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/linux-2.6-tip
+    
+    * 'x86-fixes-for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tip/linux-2.6-tip:
+      Revert "cpumask: use work_on_cpu in acpi-cpufreq.c for drv_read and drv_write"
+      x86: fix apic.c build error on latest git
+      x86: fix mpparse.c build error on latest git
+      x86: avoid theoretical vmalloc fault loop
+      x86, mtrr: fix types used in userspace exported header
+
+commit 9b0c474f0a2366d6a9c4e7a0f348875017a841a5
+Merge: ae04d14... 05f9341...
+Author: Linus Torvalds <torvalds@linux-foundation.org>
+Date:   Mon Jan 12 15:53:02 2009 -0800
+
+    Merge branch 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound-2.6
+    
+    * 'for-linus' of git://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound-2.6:
+      ALSA: hda - Use own workqueue
+      ALSA: hda - add support for Intel DX58SO board
+      ASoC: TWL4030: Module unloading fix
+      ALSA: hda - create hda_codec.control_mutex for kcontrol->private_value
+      ALSA: caiaq - Version 1.3.10
+      ALSA: hda - Add quirk for Dell Inspiron Mini9
+      ALSA: caiaq - Fix Oops with MIDI
+      ASoC: TWL4030: Change the soc_value_enum back to soc_enum
+      ASoC: Merge the soc_value_enum to soc_enum struct
+      ALSA: hda - Add quirks for Acer Aspire 5930G and 6930G
+      ALSA: hda - Add codec ID for MCP73 HDMI
+      ALSA: hda - Fix typos for AD1882 codecs
+      ALSA: hda - Add quirk for HP 2230s
+
+commit 877d52431f4d3cda4adea077ffbe88f3fd1755d3
+Author: Al Viro <viro@ZenIV.linux.org.uk>
+Date:   Mon Jan 5 17:28:10 2009 +0000
+
+    m68k: Fix --build-id breakage for sun3
+    
+    Counterpart of commit 08a3db94f2a36c28278922732bc281c1722ceb18 ("m68k: Add
+    NOTES to init data so its discarded at boot") for sun3 build.
+    
+    Signed-off-by: Al Viro <viro@zeniv.linux.org.uk>
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit c162564ebf001e79448e8aa7a6e0ffee00b55f74
+Author: Andreas Schwab <schwab@suse.de>
+Date:   Mon Dec 29 19:34:57 2008 +0100
+
+    m68k: Wire up sys_restart_syscall
+    
+    Make restart blocks working, required for proper syscall restarting.
+    
+    Signed-off-by: Andreas Schwab <schwab@suse.de>
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 1fa0b29f3a43f9dd8080d24cd16790b15ef963f5
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:11:23 2008 +0100
+
+    fbdev: Kill Atari vblank cursor blinking
+    
+    Kill the last remaining vblank cursor blinking user
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit b01e3b07ec29e98464a4f580ae000291cf0d2f87
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:23:35 2008 +0100
+
+    m68k: zorro - Use %pR to print resources
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit fae3306ac0c74be0e1ab32e1c77120e792ab2a33
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:22:01 2008 +0100
+
+    m68k: dio - Kill resource_size_t format warnings
+    
+    warning: format '%08lx' expects type 'long unsigned int', but argument 3 has
+    type 'resource_size_t'
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 89bde7b86e21291ef091dc6ad3e63412f7c6ddd9
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:25:31 2008 +0100
+
+    m68k: dmasound - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 11a8b2c5cde1377c716087df0866d7dc5a6d5d10
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:21:19 2008 +0100
+
+    m68k: zorro - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'device_register', declared with attribute
+    warn_unused_result
+    warning: ignoring return value of 'device_create_file', declared with
+    attribute warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 2e4c77bea3d8b17d94f8ee382411f359b708560f
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:16:41 2008 +0100
+
+    m68k: dio - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'device_register', declared with attribute
+    warn_unused_result
+    warning: ignoring return value of 'device_create_file', declared with
+    attribute warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 639274d8106e25c2f91bf92270f46aaa3d104040
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:10:11 2008 +0100
+
+    m68k: atafb - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 5edc304f49f3b1a246a3cc4ecc248e8fe7174840
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:13:41 2008 +0100
+
+    m68k: amiserial - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    and clean up the error path handling.
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+    Acked-by: Alan Cox <alan@lxorguk.ukuu.org.uk>
+
+commit 67c53c34660c535083c4c8753e547a9338802ec6
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:08:21 2008 +0100
+
+    m68k: ser_a2232 - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+    Acked-by: Alan Cox <alan@lxorguk.ukuu.org.uk>
+
+commit c36a4e40389a17bb439e2f38b1ae9632ba8af7ae
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:07:07 2008 +0100
+
+    m68k: vme_scc - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+    Acked-by: Alan Cox <alan@lxorguk.ukuu.org.uk>
+
+commit 07e449b5b43b4b82c54e3026fc26bd4d8c81b080
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:05:24 2008 +0100
+
+    m68k: sun3 core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 41904f8fe160202b8bfcc5da91dd927be40775b3
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:03:28 2008 +0100
+
+    m68k: mvme147 core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 92c3dd15cd0589adf66c13c7b6114790c207e5a2
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:02:27 2008 +0100
+
+    m68k: mac core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 8bd3968bd1653b4499e843bf86a167ead7c86b74
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:02:06 2008 +0100
+
+    m68k: hp300 core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 5b8b4c3d1b0ed4ccac3b1985acd0a973dfa00801
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:01:32 2008 +0100
+
+    m68k: atari core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 844306538920b3aaf6806e238f0c0309a1e2bb5f
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:01:07 2008 +0100
+
+    m68k: apollo core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 66acd2581259d80935fc5216b4b1268d639d9143
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Dec 30 14:00:34 2008 +0100
+
+    m68k: amiga core - Kill warn_unused_result warnings
+    
+    warning: ignoring return value of 'request_irq', declared with attribute
+    warn_unused_result
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit c85627fbf5f47045b25bf66f1b4a7001b5b157af
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Dec 21 12:03:37 2008 +0100
+
+    m68k: Kill several external declarations in source files
+    
+      - Replace external declarations by proper includes where availiable.
+        The accesses to some symbols had to be modified, as before they were
+        declared using e.g. "extern int _end", while asm-generic/sections.h uses
+        e.g. "extern char _end[]"
+      - Remove unused or superfluous external declarations
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 6d0be946e150ac17da7381b27fd40603ca40b58f
+Author: Andreas Bombe <aeb@debian.org>
+Date:   Wed Dec 10 02:02:19 2008 +0100
+
+    m68k: amiflop - Get rid of sleep_on calls
+    
+    Apart from sleep_on() calls that could be easily converted to
+    wait_event() and completion calls amiflop also used a flag in ms_delay()
+    and ms_isr() as a custom mutex for ms_delay() without a need for
+    explicit unlocking.  I converted that to a standard mutex.
+    
+    The replacement for the unconditional sleep_on() in fd_motor_on() is a
+    complete_all() together with a INIT_COMPLETION() before the mod_timer()
+    call.  It appears to me that fd_motor_on() might be called concurrently
+    and fd_select() does not guarantee mutual exclusivity in the case the
+    same drive gets selected again.
+    
+    Signed-off-by: Andreas Bombe <aeb@debian.org>
+    Acked-by: Jörg Dorchain <joerg@dorchain.net>
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit dc8ee69c760317be0bb4eac2bd2fd81eb663627a
+Author: Kars de Jong <jongk@linux-m68k.org>
+Date:   Fri Nov 21 13:18:12 2008 +0100
+
+    m68k: zorro - Add devlist.h and gen-devlist to .gitignore
+    
+    drivers/zorro/.gitignore: Added devlist.h and gen-devlist to .gitignore file
+    because they shouldn't be tracked.
+    
+    Signed-off-by: Kars de Jong <jongk@linux-m68k.org>
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 2455e3c60583961c6f3ddb33201a422404564d8f
+Author: Kars de Jong <jongk@linux-m68k.org>
+Date:   Thu Nov 20 14:28:30 2008 +0100
+
+    m68k: Add vmlinux.lds to .gitignore
+    
+    arch/m68k/kernel/.gitignore: Added vmlinux.lds to .gitignore file because it
+    shouldn't be tracked.
+    
+    Signed-off-by: Kars de Jong <jongk@linux-m68k.org>
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 2eab7ff843d2cb8c9b2ace869774bd85b2316090
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Dec 21 15:48:13 2008 +0100
+
+    fbdev: c2p - Rename c2p to c2p_planar
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 96f47d6105203ab06c2004e26979dea153bce073
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Dec 21 15:48:12 2008 +0100
+
+    fbdev: c2p/atafb - Add support for Atari interleaved bitplanes
+    
+    The c2p() for normal bitplanes is not suitable for interleaved bitplanes with
+    2 bytes of interleave, causing a garbled penguin logo. Add c2p_iplan2().
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 2cd1de0a0ff1d3da08ff1f1437cf4a44deae6a00
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Jan 4 11:58:20 2009 +0100
+
+    fbdev: c2p - Extract common c2p core to c2p_core.h
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 1f034456c140a8677d0ff3a9bdb3c4b620aae2cb
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Jan 4 11:43:00 2009 +0100
+
+    fbdev: c2p - Cleanups
+    
+      - Improve comments and naming
+      - Convert macros to static inline functions
+      - Remove superfluous `break' after `return'
+      - Make sure we get a build-time error (undefined reference to
+        'c2p_unsupported') in case of future misuse
+      - Replace `unsigned long' by `u32' in comp(), as that's what all callers use
+      - Use {get,put}_unaligned_be32() in store_planar{,_masked}()
+      - Use void * for arbitrary pointers
+      - Use a union to represent pixels/words, to avoid casts
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 8280eb8a33d60be4f5fa76d5144f66656c71a680
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Sun Jan 4 11:42:16 2009 +0100
+
+    fbdev: c2p - Correct indentation
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 74511413dd0b8f6c9f5a47bf045eba434f4fdd2b
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Nov 18 21:13:01 2008 +0100
+
+    fbdev: atafb - Fix 16 bpp console
+    
+      - 16 bpp must use the cfb_*() ops
+      - 16 bpp needs to set up info->pseudo_palette[] (was fbcon_cfb16_cmap[] in
+        2.4.x)
+      - Kill commented out 2.4.x fbcon remnants
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 02603930da19fa447648952873e967fb9663ec18
+Author: Geert Uytterhoeven <geert@linux-m68k.org>
+Date:   Tue Nov 18 21:13:01 2008 +0100
+
+    fbdev: atafb - Fix line length handling
+    
+      - Make sure par->next_line is always set (this was done for Falcon only),
+        as all the text console drawing operations need a valid par->next_line,
+      - Make sure fix->line_length is always set, as some userspace applications
+        need it because they don't have fallback code for the case where it's zero.
+    
+    Signed-off-by: Geert Uytterhoeven <geert@linux-m68k.org>
+
+commit 50c668d678fd01284799a6e4f1b91829d83cb9ed
+Author: Ingo Molnar <mingo@elte.hu>
+Date:   Mon Jan 12 10:49:53 2009 +0100
+
+    Revert "cpumask: use work_on_cpu in acpi-cpufreq.c for drv_read and drv_write"
+    
+    This reverts commit 7503bfbae89eba07b46441a5d1594647f6b8ab7d.
+    
+    Dieter Ries reported bootup soft-hangs and bisected it back to
+    this commit, and reverting this commit gave him a working system.
+    
+    The commit introduces work_on_cpu() use into the cpufreq code,
+    but that is subtly problematic from a lock hierarchy POV: the
+    hotplug-cpu lock is an highlevel lock that is taken before
+    lowlevel locks, and in this codepath we are called with the
+    policy lock taken.
+    
+    Dieter did not have lockdep enabled so we dont have a nice stack
+    trace proof for this, but using work_on_cpu() in such a lowlevel
+    place certainly looks wrong, so we revert the patch.
+    
+    work_on_cpu() needs to be reworked to be more generally usable.
+    
+    Reported-by: Dieter Ries <clip2@gmx.de>
+    Tested-by: Dieter Ries <clip2@gmx.de>
+    Signed-off-by: Ingo Molnar <mingo@elte.hu>
+
+commit 2bc1379712e74c5b99adaa6db433c14d8841ab4f
+Author: Jaswinder Singh Rajput <jaswinder@infradead.org>
+Date:   Sun Jan 11 20:34:47 2009 +0530
+
+    x86: fix apic.c build error on latest git
+    
+    Fix this by reintroducing asm/smp.h include in apic.c - later on
+    I will fix this by removing non-smp data from smp.h
+    
+    Also fix the __inquire_remote_apic() prototype/inline.
+    
+    Signed-off-by: Jaswinder Singh Rajput <jaswinderrajput@gmail.com>
+    Signed-off-by: Ingo Molnar <mingo@elte.hu>
+
+commit 4884d8e6a05026ec906355436cea9dc1acb1d09e
+Author: Jaswinder Singh Rajput <jaswinder@infradead.org>
+Date:   Sun Jan 11 18:38:55 2009 +0530
+
+    x86: fix mpparse.c build error on latest git
+    
+    Fix this by reintroducing asm/smp.h include in mpparse.c - later on
+    I will fix this by removing non-smp data from smp.h.
+    
+    Reported-by: Petr Titera <P.Titera@century.cz>
+    Signed-off-by: Jaswinder Singh Rajput <jaswinderrajput@gmail.com>
+    Signed-off-by: Ingo Molnar <mingo@elte.hu>
+
+commit f313e12308f7c5ea645f18e759d104d088b18615
+Author: Andi Kleen <andi@firstfloor.org>
+Date:   Fri Jan 9 12:17:43 2009 -0800
+
+    x86: avoid theoretical vmalloc fault loop
+    
+    Ajith Kumar noticed:
+    
+     I was going through the vmalloc fault handling for x86_64 and am unclear
+     about the following lines in the vmalloc_fault() function.
+    
+     pgd = pgd_offset(current->mm ?: &init_mm, address);
+     pgd_ref = pgd_offset_k(address);
+    
+     Here the intention is to get the pgd corresponding to the current process
+     and sync it up with the pgd in init_mm(obtained from pgd_offset_k).
+     However, for kernel threads current->mm is NULL and hence pgd =
+     pgd_offset(init_mm, address) = pgd_ref which means the fault handler
+     returns without setting the pgd entry in the MM structure in the context
+     of which the kernel thread has faulted.  This could lead to never-ending
+     faults and busy looping of kernel threads like pdflush.  So, shouldn't the
+     pgd = pgd_offset(current->mm ?: &init_mm, address); be pgd =
+     pgd_offset(current->active_mm ?: &init_mm, address);
+    
+    We can use active_mm unconditionally because it should be always set.
+    
+    Signed-off-by: Andi Kleen <ak@linux.intel.com>
+    Signed-off-by: Andrew Morton <akpm@linux-foundation.org>
+    Signed-off-by: Ingo Molnar <mingo@elte.hu>
+
+commit 05f93414fad0f22e7c6f766adef8d5e72a1d3c67
+Merge: a24ba44... 16b2857...
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Mon Jan 12 14:06:01 2009 +0100
+
+    Merge branch 'topic/usb-caiaq' into for-linus
+
+commit a24ba44cf2adf166bbb1028d57ca0f4b636a1ef7
+Merge: 9229f43... 6acaed3...
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Mon Jan 12 14:05:55 2009 +0100
+
+    Merge branch 'topic/hda' into for-linus
+
+commit 9229f43f48d1b454a4e8b83985d0195b1760a550
+Merge: c597650... c6d1662...
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Mon Jan 12 14:05:50 2009 +0100
+
+    Merge branch 'topic/asoc' into for-linus
+
+commit 6acaed38a32e8571e92cfc832b971f9e4450c207
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Mon Jan 12 10:09:24 2009 +0100
+
+    ALSA: hda - Use own workqueue
+    
+    snd-hda-intel driver used schedule_work() fot the delayed DMA pointer
+    updates, but this has several potential problems:
+    - it may block other eventsd works longer
+    - it may deadlock when probing fails and flush_scheduled_work() is
+      called during probe callback (as probe callback itself could be
+      invoked from eventd)
+    
+    This patch adds an own workq for each driver instance to solve these
+    problems.
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit 4b558991049c12689e5fd645222864b8a80730f1
+Author: Wu Fengguang <fengguang.wu@intel.com>
+Date:   Mon Jan 12 09:18:58 2009 +0800
+
+    ALSA: hda - add support for Intel DX58SO board
+    
+    The Intel DX58SO board works fine with model ALC883_3ST_6ch_INTEL.
+    
+    Signed-off-by: Wu Fengguang <fengguang.wu@intel.com>
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit ae04d1401577bb63151480a053057de58b8e10bb
+Author: Benjamin Herrenschmidt <benh@kernel.crashing.org>
+Date:   Mon Jan 12 11:22:01 2009 +1100
+
+    powerpc: Fix cpufreq drivers after cpufreq core changes
+    
+    This updates the cpufreq drivers in arch/powerpc so they build again
+    after the core cpufreq changes that broke them in commit
+    in835481d9bcd65720b473db6b38746a74a3964218.
+    
+    Signed-off-by: Benjamin Herrenschmidt <benh@kernel.crashing.org>
+    Signed-off-by: Linus Torvalds <torvalds@linux-foundation.org>
+
+commit f45ac22ae2b8fc5b4c32d9b8d17ea419a8701d89
+Merge: 79f3b3c... c597650...
+Author: Ingo Molnar <mingo@elte.hu>
+Date:   Sun Jan 11 03:03:30 2009 +0100
+
+    Merge commit 'v2.6.29-rc1' into x86/urgent
+
+commit c6d1662b229410e64092fe3a9caed6535fb3dc65
+Author: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+Date:   Thu Jan 8 15:52:43 2009 +0200
+
+    ASoC: TWL4030: Module unloading fix
+    
+    Call the snd_soc_free_pcm and snd_soc_dapm_free when the
+    codec driver is unloaded.
+    
+    Signed-off-by: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+    Signed-off-by: Mark Brown <broonie@opensource.wolfsonmicro.com>
+
+commit 5a9e02e94989323c2a7102e2fc80ee9102b19fa0
+Author: Wu Fengguang <wfg@linux.intel.com>
+Date:   Fri Jan 9 16:45:24 2009 +0800
+
+    ALSA: hda - create hda_codec.control_mutex for kcontrol->private_value
+    
+    Fix the following lockdep warning by not reusing the hda_codec.spdif_mutex.
+    
+        ALSA sound/pci/hda/hda_codec.c:882: hda_codec_cleanup_stream: NID=0x2
+    
+        =======================================================
+        [ INFO: possible circular locking dependency detected ]
+        2.6.28-next-20090102 #33
+        -------------------------------------------------------
+        mplayer/3151 is trying to acquire lock:
+         (&pcm->open_mutex){--..}, at: [<ffffffffa004ced3>] snd_pcm_release+0x43/0xd0 [snd_pcm]
+    
+        but task is already holding lock:
+         (&mm->mmap_sem){----}, at: [<ffffffff810c0252>] sys_munmap+0x42/0x80
+    
+        which lock already depends on the new lock.
+    
+    Signed-off-by: Wu Fengguang <fengguang.wu@intel.com>
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit 16b2857589b77c486f6261fbd0a28107bb9c9953
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Fri Jan 9 07:51:10 2009 +0100
+
+    ALSA: caiaq - Version 1.3.10
+    
+    Increase the version number in module info to indicate the fixes.
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit c7be761a8163d2f1ac0b606c21e4316b7abc5af7
+Author: David Teigland <teigland@redhat.com>
+Date:   Wed Jan 7 16:50:41 2009 -0600
+
+    dlm: change rsbtbl rwlock to spinlock
+    
+    The rwlock is almost always used in write mode, so there's no reason
+    to not use a spinlock instead.
+    
+    Signed-off-by: David Teigland <teigland@redhat.com>
+
+commit 892c4467e335e9050c95e0d8409c136c4dadaca2
+Author: David Teigland <teigland@redhat.com>
+Date:   Wed Jan 7 16:48:52 2009 -0600
+
+    dlm: fix seq_file usage in debugfs lock dump
+    
+    The old code would leak iterators and leave reference counts on
+    rsbs because it was ignoring the "stop" seq callback.  The code
+    followed an example that used the seq operations differently.
+    This new code is based on actually understanding how the seq
+    operations work.  It also improves things by saving the hash bucket
+    in the position to avoid cycling through completed buckets in start.
+    
+    Siged-off-by: Davd Teigland <teigland@redhat.com>
+
+commit 79f3b3cb7a2586b319a43a7f29924c6c555e4357
+Author: Kyle McMartin <kyle@redhat.com>
+Date:   Thu Jan 8 10:04:30 2009 -0500
+
+    x86, mtrr: fix types used in userspace exported header
+    
+    Commit 932d27a7913fc6b3c64c6e6082628b0a1561dec9 exported some mtrr
+    structures without using the exportable __uX types, causing userspace
+    build failures.
+    
+    Signed-off-by: Kyle McMartin <kyle@redhat.com>
+    Signed-off-by: Ingo Molnar <mingo@elte.hu>
+
+commit 57d139278e6c246d78f71e4bf0e0d15bb0390646
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Thu Jan 8 15:52:09 2009 +0100
+
+    ALSA: hda - Add quirk for Dell Inspiron Mini9
+    
+    Added a quirk, model=dell, for Dell Inspiron Mini9 with ALC268 codec.
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit f3f80a9205da74fa56d613f4c14b88b6e4e6caa8
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Thu Jan 8 15:32:56 2009 +0100
+
+    ALSA: caiaq - Fix Oops with MIDI
+    
+    The snd-usb-caiaq driver causes Oops occasionally when accessing MIDI
+    devices.  This patch fixes the Oops and invalid URB submission errors
+    as well.
+    
+    Cc: stable@kernel.org
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit cb1ace04d7797db21cb5a746ac0e0fc81d526060
+Author: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+Date:   Thu Jan 8 13:34:30 2009 +0200
+
+    ASoC: TWL4030: Change the soc_value_enum back to soc_enum
+    
+    The soc_value_enum has been merged to soc_enum.
+    
+    Signed-off-by: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+    Signed-off-by: Mark Brown <broonie@opensource.wolfsonmicro.com>
+
+commit 741555568f8ba307c626019787c412f4386cafdc
+Author: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+Date:   Thu Jan 8 13:34:29 2009 +0200
+
+    ASoC: Merge the soc_value_enum to soc_enum struct
+    
+    Merge the recently introduced soc_value_enum structure to the soc_enum.
+    The value based enums are still handled separately from the normal enum types,
+    but with the merge some of the newly introduced functions can be removed.
+    
+    Signed-off-by: Peter Ujfalusi <peter.ujfalusi@nokia.com>
+    Signed-off-by: Mark Brown <broonie@opensource.wolfsonmicro.com>
+
+commit a8e4f9ddea4a23705d4eea6afe4a01e1a57a0621
+Author: Lukasz Wojnilowicz <lukasz.wojnilowicz@gmail.com>
+Date:   Thu Jan 8 12:00:49 2009 +0100
+
+    ALSA: hda - Add quirks for Acer Aspire 5930G and 6930G
+    
+    This is a patch which adds correct auto detection of model for
+    snd-hda-intel for Acer Aspire 5930G and 6930G. Tested on my 5930G. It
+    finally adds hp jack sense and 5.1 speaker system sliders.
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit e3d6ce6ff6e22ba35de77e306520779b384f0c38
+Author: Brian Hinz <bphinz@hotmail.com>
+Date:   Wed Jan 7 11:49:56 2009 +0100
+
+    ALSA: hda - Add codec ID for MCP73 HDMI
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit c247ed6f5205f9feebd276c4cbe45018b10f19fa
+Author: Clemens Fruhwirth <clemens@endorphin.org>
+Date:   Wed Jan 7 11:43:48 2009 +0100
+
+    ALSA: hda - Fix typos for AD1882 codecs
+    
+    Fixed typos of codec-id checks for AD1882/AD1882A.
+    
+    Cc: stable@kernel.org
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>
+
+commit d5337debacc00591b3f81fc3c982b40af7de1ab6
+Author: Takashi Iwai <tiwai@suse.de>
+Date:   Wed Jan 7 11:41:57 2009 +0100
+
+    ALSA: hda - Add quirk for HP 2230s
+    
+    Added a quirk for HP 2230s, model=laptop, with AD1984A codec.
+    Reference: Novell bnc#461660
+    	https://bugzilla.novell.com/show_bug.cgi?id=461660
+    
+    Signed-off-by: Takashi Iwai <tiwai@suse.de>

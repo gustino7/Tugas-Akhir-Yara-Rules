@@ -1,0 +1,1071 @@
+<!-- Title: 10:53:42  Mon Mar 26 2007 -->
+<!-- Crewchief: Ricardo (MPC) -->
+<!-- Op1: Ignacio (SPL) -->
+<!-- Op2: &nbsp; -->
+<!-- Op3: &nbsp; -->
+<!-- Op4: &nbsp; -->
+<!-- Op5: &nbsp; -->
+<!-- Op6: &nbsp; -->
+<!-- Notes: -->
+<pre>Let's plan to continue data-taking as smooth as possible.</pre>
+
+
+<!-- Date: Mon Mar 26 12:14:33 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10973&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10973  width='300' align='top'></a></td><td>This is the Bias 1 current of f222. The jump in current happened at around day  2270. The strip occupancy for run 235648 (dsday~2260) and run 236893 (dsday~2275) look identical. This does not seem to be a pinhole problem as originally thought   
+<a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=345&frame=2&anchor=09:48:08'> 
+here. </a> 
+</td></tr></table>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Mon Mar 26 12:25:56 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10974&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10975  width='300' align='top'></a></td><td>Hmm, looks like f222 healed itself. Maybe the PS had a week-long problem... 
+</td></tr></table>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Mon Mar 26 15:54:51 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10976&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10976  width='300' align='top'></a></td><td>Wedge f00 tripped on DOIM 2V overcurrent. The current raised for no apparent reason from 760 to 840, at which point it tripped. After two recovery trials we hockerized PS crate 8. The current went down and it's now stable at 800. Just in case we've decided to increase the limit from 840 to 900. 
+ </td></tr></table>
+<!-- Author: Ricardo & Ignacio -->
+<!-- Comment: Mon Mar 26 16;32;43 comment by...Ricardo -->
+<pre>It looks like at the same time many SVX bias current rose at the same time. This coincides with a trigger prescale at 14:34:07.</pre>
+<!-- Date: Mon Mar 26 15:59:03 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: IB0W0All 
+<li>problem n: 1982 
+<li>Status: needs_observation
+<li>Type: software_protection
+<li>Action: Incident
+<li>entered by: ricardo 
+<li>description is: After a 2V Doim excursion above the trip limit of 840 for no apparent reason (see elog entry <a href= 'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=15:54:51'> here </a>). We are increasing the limits. This ladder returns good data.    
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=ISL&wedge=B0W0&layer=All">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+
+<!-- Date: Mon Mar 26 16:53:20 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10977&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10977  width='300' align='top'></a></td><td>This is the recent bias history of e480. It's approaching its limit of 100, so we'll bump it up. 
+ </td></tr></table>
+<!-- Author: Ricardo -->
+
+<!-- Date: Mon Mar 26 16:56:19 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB4W8L0 
+<li>problem n: 1983 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bump the bias limit in IMON<table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>49</td><td>60</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>100</td><td>125</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B4W8&layer=L0">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 16:56:19 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB4W8L0 
+<li>problem n: 1983 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bump the bias limit in IMON<table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>49</td><td>60</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>100</td><td>125</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B4W8&layer=L0">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+<!-- Date: Mon Mar 26 17:00:09 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10978&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10978  width='300' align='top'></a></td><td>Bias history of e260. We'll bump the imon limit.</td></tr></table>
+<!-- Author: Ricardo -->
+
+<!-- Date: Mon Mar 26 17:02:31 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB2W6L0 
+<li>problem n: 1723 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Limits are getting tighterly normal. Increase limits. <table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>115</td><td>115</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>150</td><td>175</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B2W6&layer=L0">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 18:08:27 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB0W2L1 
+<li>problem n: 1806 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bias limits getting tighter; we'll increase. <table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>100</td><td>100</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>125</td><td>150</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B0W2&layer=L1">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 18:50:33 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB3W1L1 
+<li>problem n: 1762 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bumping the limits.<table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>64</td><td>80</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>140</td><td>170</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B3W1&layer=L1">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 18:53:44 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB4W6L1 
+<li>problem n: 1812 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bumping limits.<table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>100</td><td>100</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>125</td><td>150</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B4W6&layer=L1">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 18:55:50 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB3W4L0 
+<li>problem n: 1824 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bumping limits.<table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>100</td><td>100</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>125</td><td>150</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B3W4&layer=L0">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 19:08:31 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: LB1W0L3 
+<li>problem n: 1306 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Bias 1 limit increased. <table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>42</td><td>42</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>100</td><td>120</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=L00&wedge=B1W0&layer=L3">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Mon Mar 26 19:10:36 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: LB1W1L3 
+<li>problem n: 1310 
+<li>Status: fixed
+<li>Type: BIAS
+<li>Action: IMON_limits
+<li>entered by: ricardo 
+<li>description is: Increasing the bias1 limits. <table border=1>
+<tr><th>IMON LIMITS</th><th>Old</th><th>New</th></tr>
+<tr><td><b>Nominal</b></td><td>101</td><td>101</td></tr>
+<tr><td><b>Lower</b></td><td>0.5</td><td>0.5</td></tr>
+<tr><td><b>Upper</b></td><td>120</td><td>145</td></tr></table> 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=L00&wedge=B1W1&layer=L3">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+<!-- Date: Mon Mar 26 20:44:23 2007 -->
+There was a  
+<a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2007&action=view&page=255&frame=2&anchor=20:35:23.089'> 
+resonance+ L1 TO</a>. It is exceedingly rare according to our documentation. The LA trace looks like a a resonance to me, but the read busy time was rather short in this case, always below 20 mus.  
+ I have rearmed the LA. 
+ 
+  
+<!-- Author: Ignacio -->
+
+
+<!-- Date: Tue Mar 27 08:19:21 2007 -->
+<pre>Tevmon was giving warnings on B0AAGC during the night. At about 7am one RF station tripped and the silicon was brought to stand-by. The B0AAGC is still spiky and Tevmon remains in alarm. We'll include it  when the abort gap losses goes down.</pre>
+<!-- Author: Ricardo -->
+<!-- Comment: Tue Mar 27 09;04;50 comment by...Ricardo -->
+This happened a couple of times in the past. In the most similar recent situation (see <a href=
+'http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2006&action=view&page=472&frame=2&anchor=15:05:33.121'>
+here</a>) the silicon was kept out for the rest of the store. For the moment we will keep the silicon out, but will continue to monitor the antiproton losses in the off chance they decide to go down on its own. 
+
+
+
+
+<!-- Comment: Tue Mar 27 10;42;31 comment by...Ricardo -->
+That's enough wating. We will keep the silicon out for the rest of the store. See main<a href=
+'http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2007&action=view&page=257&frame=2&anchor=10:24:38.150'>
+elog entry</a>.
+
+
+<!-- Date: Tue Mar 27 15:19:42 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10979&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10980  width='300' align='top'></a></td><td>Store 5301 is in with an initial lum of 202 10E30 and  losses of less than 200 Hz (even after 10 minutes of running). Svtmon and SVXmon look ok.</td></tr></table>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Tue Mar 27 17:17:55 2007 -->
+I started testing the FIBs that came back from PREP after the J3 connector was replaced.  The  behaviour of FIB 119 has not changed: while the pipeline fifo data looks good, there is still a low level of c2c2 errors at the beginning of the HST. To be more precise 2 c2c2 events.    
+ 
+I reduced the number of events in the HST and run it 10 times  
+per configuration: 
+<pre> 
+Events in HST      1   2   3   4    5   6     7   8   9   10       
+Numer of errors    0   0   1   3x1  2   1x1               1x1  
+                               7x2  2   9x2   2   2   2   9x2 
+</pre> 
+So I guess we are back to step 1. 
+ 
+I left it running over night. 
+  
+<!-- Author: Ignacio -->
+
+
+<!-- Date: Tue Mar 27 18:54:50 2007 -->
+<pre>Suddenly wedge e14 and e15  tripped. After trying to power cycle them a couple of times we reboot the fib02 and things went back to normal. Continue data-taking now. 
+ 
+ 
+</pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Wed Mar 28 07:48:39 2007 -->
+Hmm, so quiet a night it deserves an entry.  
+<!-- Author: Ricardo -->
+<!-- Comment: Wed Mar 28 09;54;00 comment by...Ex-SPL -->
+Lucky bastard
+<!-- Date: Wed Mar 28 08:48:51 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10981&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10981' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10982&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10982' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10983&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10983' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10984&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10984' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10985&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10985' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10986&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10986' width='300'></a></center>
+<!-- Author: Ignacio -->
+<!-- Comment: Wed Mar 28 09;10;14 comment by...Ricardo& Ignacio -->
+<p>This is how the beam looked like during the two hours following the RF trip at around 7:00 AM and a later step at 7:20 AM. There
+was a third bump in losses sometime after 7:40 but we cannot correlate that to any RF change.  AGIG2  went off scale at the first RF trip and remained high (but withing TeVmon limits) for the rest of the store and fluctuating. Silicon was put to standby after the  7 AM trip and remained there for the rest of the store (4.5 h) since the antiproton abort gap losses remained well off limit. Although  the luminosity was low, between 32 and 23 E30, we lost 475 nb-1. A similar situation  has happend   
+<a  href='http://www-cdfonline.fnal.gov/elog/notebooks/temp/temp1175090090.html#15:05:33.121'> before </a>, 
+but the lumi lost then was only 165 nb-1.</p>
+<p>
+ It has been suggested 
+today in the 8 AM meeting that next time it happens we put the silicon back in once the proton abort losses stabilizes since we should not really care about antiproton abort gap losses.
+ What do you think? </p>
+
+
+<!-- Date: Wed Mar 28 09:21:34 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10987&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10987  width='300' align='top'></a></td><td>Store 5300 from the moment of the RF trip to the end of store.</td></tr></table>
+<!-- Author: Ricardo & Ignacio -->
+
+
+
+<!-- Date: Wed Mar 28 11:05:07 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10988&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10988  width='300' align='top'></a></td><td>This trys to ilustrate what to look for in the iFix interlock pages if a freezing lines situation is supected.  These pages are reachable from the Silicon Menu in iFix. 
+Indispensable for the MPC. 
+</td></tr></table>
+<!-- Author: Ignacio -->
+
+
+<!-- Date: Wed Mar 28 11:13:10 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10989&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10989  width='300' align='top'></a></td><td>Sorry, that was an old version.</td></tr></table>
+<!-- Author: Ignacio -->
+<!-- Comment: Wed Mar 28 15;09;28 comment by...Ulrich -->
+Just to make it very clear: The dangerous situation arises only if the following three conditions are satisfied at the same time: ISL flow tripped, SVX flow up, SVX PS tripped. So the top and bottom conditions in the plot have to be fulfilled at the same time.
+
+
+<!-- Date: Wed Mar 28 18:29:00 2007 -->
+<h1>CDF ABORT!</h1> 
+And you all thought that Jennifer the RadMon pager carrier had nothing to do... well, you were wrong. 
+<p> 
+Looks like we lost power to the BLM crates and we lost the clock (probably due to the same glitch). Since we lost power, the BLMs didn't latch, and we have no information about the abort (from the BLMs). I went to page E4, and reset all of the trips for west outer and east inner (Ricardo, correct me if I'm mistaken) and now we're playing a waiting game to understand the problem. Silicon is OFF (or course) and we're ready to give back the beam permit. We'll wait until we learn something from out diamond friends :-) 
+<p> 
+Clock update: we have the RF clock back, but do not have the sync. So, we'll wait until the TeV experts finish their investigation before starting to bring back the silicon.
+<!-- Author: Jennifer :-), Ignacio and Ricardo -->
+<!-- Comment: Wed Mar 28 19;13;31 comment by...Jose and Ignacio -->
+<pre>We asked Steve to switch the clock to free range to check in any of the L00 crowbars had blown up. The did not. L00 is back off.</pre>
+<!-- Comment: Wed Mar 28 19;14;56 comment by...Jose and Ignacio -->
+By the way, we switched the  chiller set points to -6,6 before switching off the detector.
+<!-- Date: Wed Mar 28 18:30:09 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10990&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10990' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10991&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10991' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10992&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10992' width='300'></a></center>
+<!-- Author: Ricardo & Jose -->
+<!-- Comment: Thu Mar 29 00;11;59 comment by...Ulrich (from Europe) -->
+Is this real radiation or just a turn-on effect after the glitch?
+<!-- Comment: Thu Mar 29 01;20;02 comment by...Jose -->
+We are lucky that diamonds and new BLMs are not in the Tevatron power line (which is still down). The standard system did not record anything for this abort.
+
+<!-- Comment: Thu Mar 29 08;29;05 comment by...Ricardo -->
+<pre>The diamond crate did not suffer any kind of glitch. This is real radiation at the moment of the abort. </pre>
+<!-- Date: Wed Mar 28 23:52:45 2007 -->
+<h3>Detector checkout</h3> 
+<p>We checked that SVX could be powered up (SVX chiller was set to -8). Then we turned SVX OFF (SVX chiller back to -6) and run every pair of wedges in SVXDAQ. Basically everything looks the same. 
+We confused ourselves with a resonance condition being pulled  
+when running  wedges e0a/b. It disappeared when the fib was rebooted. We also noticed that e392 stopped returning data after an initial attemp. It runs OK in DPSON as the PDB suggests.</p> 
+<p> 
+So everything looks good. When the clock is back we'll switch back to standby and request cosmics.</p>  
+</p>
+<!-- Author: Ricardo/Jose/Ignacio -->
+<!-- Comment: Wed Mar 28 23;53;35 comment by...Ignacio -->
+AutoHocker is on manual.
+
+
+
+
+
+<!-- Date: Thu Mar 29 09:43:01 2007 -->
+CLock is back, Silicon on standby.  Chiller set points -10 C, 4 C. 
+We are watching the temperatures.
+<!-- Author: Jose/Ignacio/Ricardo -->
+
+
+<!-- Date: Thu Mar 29 09:44:34 2007 -->
+<pre>We've put the old BLM abort system back online, reset all the thresholds and tested it. 
+ 
+ </pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Thu Mar 29 10:43:52 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10993&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10994' ></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10995&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10996' ></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10997&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10998' ></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-10999&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11000' ></a></center>
+<!-- Author: Ricardo/Ignacio/Jose -->
+<!-- Comment: Thu Mar 29 10;45;16 comment by...Jose -->
+Cosmics run taken once the clock was back.
+
+
+<!-- Date: Thu Mar 29 11:14:24 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11001&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11001' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11002&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11002' width='300'></a></center>
+<!-- Author: Roberto -->
+<!-- Comment: Thu Mar 29 11;16;31 comment by...Roberto -->
+<pre>ladder f831 bias voltage plot at last bias scan (lum2494) and
+at last one (lum2693).</pre>
+
+
+<!-- Comment: Thu Mar 29 16;08;49 comment by...Ignacio -->
+Roberto, I think  this is good news! Let me add a few words for the people  that were not involved. This L00 ladder had a weird, non-diode like, curent vs. bias distribution since day 1732 (09/29/05). The ladder was identified thanks to the bias scan analysis (left plot). Jen and Saty went in  last Thursday and found that the Ibias vs. Vbias became diode-like after unplugging and plugging back  a connector that was previously not screwed.
+ A flaky connection is suspected to have caused the problem.  The right plot shows that we were running  underdepleted with Vbias~ 45 V. Our current nominal voltage of 90 V provides roughly one extra unit in S/N. 
+<!-- Date: Thu Mar 29 11:44:06 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11009&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11010  width='300' align='top'></a></td><td>We took the quite time opportunity to check if we could include any of the 4 ISL ladders excluded lately (since ISL chiller is running 2 C cooler). When f451 was switched off the E1.1 input went up till 21.3 C, we switched it off after that. We tried with f403. The E1.1 output shooted up like a rocket, we switched it off half of the bulkhead 4 inmediately. However, one of us (Ignacio) switched on wedge0 when he meant wedge5. We were not fast enought so the bulkhead PS was tripped by the cooling system when the temperature hitted 24 C. Cooling flow remained fine. So now we are convinced that we cannot include these ladders back.</td></tr></table>
+<!-- Author: Jose/Ricardo/Ignacio -->
+<!-- Comment: Thu Mar 29 12;05;39 comment by...Jennifer :-) -->
+Boo, that's too bad. Well, we can try again once we have our new valves in :-)
+
+
+
+<!-- Date: Thu Mar 29 16:25:53 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11011&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11011  width='300' align='top'></a></td><td>Integrated dose alarm while scraping.</td></tr></table>
+<!-- Author: Ignacio/Jose -->
+
+
+<!-- Date: Thu Mar 29 17:00:20 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11012&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11013  width='300' align='top'></a></td><td>Store 5306 came in with initial  initial lum 260E30, lost p 25 khz. MCR adjusted the tunnig at our request. We switched on silicon when losp were 7 KHz and falling. Silicon was on when los p were at 5 KHz and falling. SVXMon only yellow is our  low stat "digital" friend.</td></tr></table>
+<!-- Author: Jose/Ignacio -->
+<!-- Comment: Thu Mar 29 19;01;20 comment by...Ricardo -->
+Thanks to Jose and Ignacio for taking care of this when I was in the eye doctor. 
+<!-- Date: Thu Mar 29 18:33:10 2007 -->
+The Ace pointed to an strange shape of the iFix bars. One of the SVX bars was much higher than the others. Looking to SVX I found a ladder e050 with a voltage applied (read by the CAEN) of 377.4 V. Even if everything looked normal, not knowing which was the real voltage I decided to Hockerize the crate (#5). After the Hockerization the ladder voltage came back to normal.
+<!-- Author: Jose -->
+
+
+
+<!-- Date: Fri Mar 30 06:22:16 2007 -->
+<pre>TevMon is repeatedly (once or twice per minute) producing alarms due to B0AAGC having short-lived spikes, although the mean value is perfectly acceptable. AGIGI2 is however perfectly flat. I keep silicon in, I will deal with TevMon in the morning. 
+</pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Fri Mar 30 07:29:53 2007 -->
+<h3>Tev Quench!!</h3> 
+ 
+<p>Within minutes of enterring the Control Room, the Tev quenched.  Looks like my luck hasn't changed.</p> 
+ 
+<p>The shift crew did a post-quench checkout; went through CONFIG with no problems.  The BLM FIFO are plotted in the<a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2007&action=view&page=265&frame=2&anchor=07:15:13.426'> 
+CDF shift e-log</a>.  A bit of dose but OK.</p> 
+ 
+<p>Now we sit around and wait for the next store.</p> 
+ 
+<p><em>O the joys of being back in the control room</em></p> 
+ 
+<p>PS: I have bought plenty of food....you will not be hungry today!!.</p>
+<!-- Author: Ankush  -->
+<!-- Comment: Fri Mar 30 07;34;03 comment by...Ricardo -->
+<pre>And Ankush is back in business!
+
+</pre>
+
+<!-- Comment: Fri Mar 30 10;12;35 comment by...Ex-SPL -->
+Doesn't seem to be a good idea to put ex-SPLs back in charge. When Darth Stanitz was SciCo, he managed to break the Tevatron, too.
+
+<!-- Comment: Fri Mar 30 10;20;07 comment by...Ankush (CDF SciCo) -->
+<p>Would the ex-SPL care to identify himself.....or is he just a big-fat chicken!!!</p>
+
+
+<!-- Comment: Sun Apr  1 12;24;12 comment by...Marcel (From the Old Yale) -->
+I did not break Tevatron, The Lord of the Tevatron did. He did not need my help. <br>
+Wait till I make my comeback !
+<!-- Comment: Mon Apr  2 03;15;01 comment by...Ulrich -->
+Ok, ok, it was New Yale teasing Old Yale...
+<!-- Date: Fri Mar 30 11:54:09 2007 -->
+We performed half a silicon Nois-Bias scan. The scan was first interrupted because IFIX reported a trigger inhibit from f53. While investigating this we decided to reboot b0fib05. During  this Run Control stopped working seemelingly interrupted when the L2 team started doing their work apparently using, or trying to use, crates in our partition. We decided to stop the bias scan at this point. One L00 wedge in b0fib05, fa2, kept tripping on  DVDD Overcurrent. It took a while to recover.<br> 
+ 
+ 
+Data was collected in run 237728.<br> 
+ 
+The CAENvolts we use as a reference was /cdf/onln/data/svxii/caencontrol/PSfiles/caenvoltsfiles/CAENvolts_03302007_0907AM.dat <br> 
+ 
+ 
+The table of events is as follows: 
+<pre>         
+         VOLTAGE    EVENT RANGE    START TIME   
+         -130       0    -   530     9:14  
+         -110       531  - 1001      9:19    
+          -90       1002 - 1526        
+          -70       1527 - 2035      9:28  
+          -50       2036 - 2502      9:35  
+          -30       2503 - 3018      9:39 
+          -10       3019 - 3584      9:44 
+            0       3585 - 4027      9:48 
+ 
+         -100       4028 - 4532      9:57  
+          -95       4533 - 5025     10:01  
+          -90       5026 - 5505     10:07  
+          -85       5506 - 6017     10:11 
+ 
+</pre>  
+<!-- Author: Ricardo Jose and Ignacio -->
+
+
+<!-- Date: Fri Mar 30 11:54:30 2007 -->
+<h3>TE-CCW1-1IN at lower warning limit</h3> 
+ 
+ 
+<p>The ISL inlet temperature TE-CCW1-1IN is at 3.1C while the lower warning limit is at 3.0C.  Ignacio informed we are running ISL colder...so that's why the temperature is so low.</p> 
+ 
+<p>So from time to time, ISL goes yellow in iFIX global alarm summary.</p>
+<!-- Author: Ankush Mitra (SciCo) -->
+<!-- Comment: Fri Mar 30 12;17;45 comment by...Ignacio -->
+Following the policy for the other 6 cold temperature readings I have ingnored that alarm in IFIX. Next Tuesday we should be back to 6 C.
+
+
+<!-- Date: Fri Mar 30 13:24:15 2007 -->
+<h3> FIB testing </h3> 
+ <li> FIB 119 gave 2 c2c2 errors on pipe 2 at the beginning of the HST. I left it running for two days: the board stopped running after 50M events, when the error limit of 5000 was reached. This FIB had the J3 connector exchanged. Mark looked at the history at  
+ of this FIB: A SEU blew the fuse, which  was replaced. Afterwards c2c2 errros appeared on pipe 0 and pipe 2.  The  
+  clock delay chips were replaced for channels 0 and  but there were  still c2c2 errors on channel 2 in HST. I think the situation has not changed with the J3 connector exchange. Mark suggests we should ask PREP to exhcange the main FPGA for channel 2. 
+ </li> 
+ <li> FIB 122 gave no errors in the HST after the J3 connector was exchanged. Now, the history of this FIB: when swapped in f45 the  rate of pipeline out of sync errors went up and had to be removed. I will leave it running for the weekend and declare it  spare to be used as a last option.</li>
+<!-- Author: Ignacio -->
+
+
+<!-- Date: Fri Mar 30 13:38:59 2007 -->
+While injecting protons we had a spontaneous switch off which resulted in a hockerization of crate 5. When using the Power by Crate (Crate 5, all to Stand By)  I got the following error message from the PS GUI. 
+ 
+<pre> 
+Fri Mar 30 11:45:21 CDT 2007     IFix -  success: Silicon to STANDBY   
+Fri Mar 30 13:25:35 CDT 2007     Turning CAEN crate #5 to All standby 
+Fri Mar 30 13:26:20 CDT 2007     ERROR in setCrateStatus.  PAY ATTENTION, this is a problem.  At least one CAEN power supply failed to respond correctly.  Received 10 errors. 
+Fri Mar 30 13:27:17 CDT 2007     Turning CAEN crate #5 to All standby 
+</pre> 
+ 
+The second time I press it this did error did not appear. 
+ 
+  
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Fri Mar 30 13:52:25 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11014&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11014  width='300' align='top'></a></td><td>Dvdd Voltage History of e394. This power supply needs access. 
+</td></tr></table>
+<!-- Author: Jose and Ricardo -->
+
+<!-- Date: Fri Mar 30 13:54:58 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB3W9L4 
+<li>problem n: 1984 
+<li>Status: needs_access
+<li>Type: DVDD
+<li>Action: PS_work
+<li>entered by: ricardo 
+<li>description is: Dvdd current dropping down.  Power supply needs access.  
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B3W9&layer=L4">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+<!-- Date: Fri Mar 30 13:58:21 2007 -->
+I will mark e394 as ignored in IMON.  We will unignore when the PS is replaced.  
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Fri Mar 30 14:26:12 2007 -->
+<pre>Integrated alarm just after scraping.</pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Fri Mar 30 15:05:17 2007 -->
+<h3>Tev Quench</h3> 
+ 
+<p>The quenchatron did its job again.  During scraping, the Tev quenched.  The currrent rumour is a power supply at F3 went bad which affected the orbit.  That explains our dose alarm and loss of store.</p> 
+ 
+<p>Si Post-Quench checkout was OK.</p>
+<!-- Author: Ankush  -->
+
+
+<!-- Date: Fri Mar 30 16:41:56 2007 -->
+From the cryo e-log: 
+<pre> 
+Fri Mar 30 05:34:40 The new pH meter arrived. I calibrated it using the 10.0, 7.0 & 4.0 standards. I then tested the 2 samples we took yesterday and 2 random samples of the distilled water from the stock room. 
+Results: 
+SVX is 4.18 pH 
+ISL is 2.21 pH 
+Distilled water is 5.01 pH 
+</pre>  
+<!-- Author: Jose -->
+
+
+<!-- Date: Fri Mar 30 20:31:28 2007 -->
+We took a second part of the noise scan for the whole detector 
+that was started in the morning (see the entry  
+<a href="http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=11:54:09">here</a>). To have a complete set of points, we performed the complete extended scan. 
+Below you can find the table with the events<br> 
+The run number was 
+<a href="http://www-cdfonline.fnal.gov/java/cdfdb/servlet/RunSummary?RUN_NUMBER=237779">237779</a> 
+and the reference CAENvolts.dat file was  
+/cdf/onln/data/svxii/caencontrol/PSfiles/caenvoltsfiles/CAENvolts_03302007_0907AM.dat 
+<br><br> 
+The table of events is as follows:  
+<ul><pre>  
+         VOLTAGE      EVENT RANGE    START TIME   
+            0            0-1013        18:32   
+         -120         1341-2301        18:45  
+         -100         2302-3302        18:48  
+          -95         3303-4323        18:52  
+          -90         4324-5324        18:57 
+          -85         5325-6321        19:03  
+          -80         6322-7331        19:08  
+          -75         7332-8334        19:11  
+          -65         8335-9332        19:15  
+          -60         9333-10309       19:21  
+          -55        10310-11388       19:27  
+          -45        11389-12330       19:31  
+          -40        12331-13309       19:36  
+          -35        13310-14320       19:40    
+          -25        14321-15375       19:47    
+          -20        15376-16307       19:52    
+          -15        16308-17320       19:57  
+          -10        17321-18327       20:02 
+           -7        18328-19445       20:06 
+           -5        19446-20387       20:11 
+           -3        20388-21602       20:15 
+            0        21603-22369       20:20-20:25  
+</pre></ul> 
+ 
+As for previous scans, ladder e052 was giving pinkies in AVDD and DVDD. We unmarked 
+them after we finished.
+<!-- Author: Don Quijote y Sancho, desfaciendo entuertos -->
+
+
+<!-- Date: Fri Mar 30 20:46:47 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11015&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11016  width='300' align='top'></a></td><td>After the bias scan, B0W5L2 (e052) was still pink in DVDD. Since they were not using silicon, we have to do COLDSTART. It fixed the DVDD problem but it showed a pinkie in AVDD. Keep working on it.</td></tr></table>
+<!-- Author: Oscar -->
+
+
+<!-- Date: Fri Mar 30 20:47:56 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11017&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11018  width='300' align='top'></a></td><td>A new COLDSTART fixed the problem on AVDD without bringing new pinkies (let's hope that)</td></tr></table>
+<!-- Author: Oscar -->
+
+
+<!-- Date: Fri Mar 30 20:52:28 2007 -->
+We had to switch off the Port-CARD in SVX B1W7 that was one (and as far as I remember it should be off). I do not know when it was turned on, (during the scan?)
+<!-- Author: Oscar (and Robert the shifter) -->
+<!-- Comment: Sat Mar 31 11;21;26 comment by...Ignacio -->
+This is a side a effect of using the Power by crate/FIB function that Jose found out lately. It is not a big problem, but we should
+try to remember to switch it off until we get rid of the feature.
+<!-- Date: Sat Mar 31 04:43:00 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11019&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11020  width='300' align='top'></a></td><td>Store 5314 is in with an initial lum of 194E30. Svt looks OK.</td></tr></table>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Sat Mar 31 04:48:27 2007 -->
+<pre>In the final stages of scraping wedge it seems that f80 tripped. It took ten minutes to recover to be able to take data. 
+ </pre>
+<!-- Author: Ricardo -->
+<!-- Comment: Sat Mar 31 09;14;20 comment by...Ankush  -->
+<h4>f803 Trip</h4>
+
+<p>Digging through the log file, we see f803 (LB0W0L1) tripped on DVDD over current.</p>
+
+<pre>
+Sat Mar 31 04:24:03 CDT 2007     ERROR: Power Supply L00 WEST W0 Handshake - Could not turn on power - checked 10 times
+Sat Mar 31 04:24:09 CDT 2007     TRIP: L00  WEST  W0 DVDD3 OverCurrent
+</pre>
+
+<p>Looking at the <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=L00&wedge=B0W0&layer=L3">
+PDB</a>, this ladder tripped on DVDD back in 02/03.  Maybe an old problem coming back or just a one-off incident?</p> 
+
+
+
+<!-- Date: Sat Mar 31 13:47:47 2007 -->
+<h3>Auto-Hocker to the rescue</h3> 
+ 
+<p>CAEN PS 6 (SW Bot Bot) had a CAEN communication error. So I got to see the Auto-Hocker and Power by crate in action....my God...it's now idiot proof.  The ACE just hit power by crate and we were back in business.</p> 
+ 
+<p>Now I have to ask the awkard question: Why is the alarm called <em>Relay Failure</em> ?</p>
+<!-- Author: Ankush  -->
+<!-- Comment: Mon Apr  2 02;55;45 comment by...Ulrich (from Europe) -->
+There is no Relay Failure alarm anywhere in the the Silicon. The only one I know of is "L3 Relay Failure" when ending a run.
+<!-- Comment: Mon Apr  2 08;28;52 comment by...Ankush -->
+<p>It was explained to me that IMON is saying "IMON"..however I heard "Relay".  IMON needs requires elocution lessons.</p>
+
+<!-- Date: Sat Mar 31 14:32:26 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11021&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11022  width='300' align='top'></a></td><td><p>5V DOIM line on LB1W2 went to zero.  I beleive this is corrupted read back as a real value of zero would trip the wedge.  But I am going to investigate further.</p></td></tr></table>
+<!-- Author: Ankush -->
+<!-- Comment: Sat Mar 31 14;41;26 comment by...Ankush -->
+<p>Just checked SVXMon trip plots and everything is fine.  So I have set this cell to IGNORE for now.  At the next opportunity, CAEN PS 12 should be hockerised.</p>
+<!-- Date: Sat Mar 31 14:39:21 2007 -->
+ 
+<h3>Update to decreasing/fluctuating DVDD </h3> 
+ 
+<p> 
+ 
+There has not been any new dropping PS channels since the December study, 4 months ago. I think this stability suggests that a massive global capacitor replacement  
+is not justified. </p> 
+<p> 
+However, there are  22 channels that are serious candidates to be repaired  
+ over the summer shutdown (see list below). These 22 channels belong to 6 SVX PS and 9 ISL ones. The dropping channels  tend to group in boards.  
+ All  channels in these 15 boards should probably be  repaired over the 
+ shutdown.  
+</p> 
+ 
+The "new" dropping channel e394 was identified in  December.  
+Also note the presence of IB5W4/5 chanels in the list. All channels in  
+this fib are giving low frequency errors. 
+ 
+ 
+ <pre>  
+b0fib00  3 IB2W0 2 0 0 0.022365 5.599362  
+b0fib01  4 IB0W2 0 2 0 0.087472 5.558928 0.015735 Decrease+scatter  
+b0fib01  4 IB0W2 0 2 1 0.226613 5.436823 0.041681 Large decrease  
+b0fib01  4 IB0W2 0 2 3 0.029847 5.591803 0.005338 Decrease lately  
+b0fib01  4 IB2W1 2 1 3 0.145014 5.426213 0.026725 Decrease  
+b0fib01  3 IB1W4 1 4 2 0.086693 5.533924 0.015666 Decrease+scatter  
+b0fib01  3 IB2W0 2 0 2 0.110857 5.492213 0.020184 Decrease  
+b0fib01  3 IB2W0 2 0 3 0.099198 5.492464 0.018061 Decrease 
+b0fib07 16 IB4W0 4 0 0 0.040150 5.557439 0.007225 Step+mild decrease  
+b0fib07 16 IB4W0 4 0 1 0.034210 5.566511 0.006146 Step+mild decrease  
+b0fib07 16 IB5W4 5 4 2 0.021030 5.581387  
+b0fib07 16 IB5W5 5 5 2 0.017875 5.597226  
+b0fib05 12 IB5W2 5 2 2 0.032208 5.585277 0.005767 Decrease  
+b0fib00  1 SB0W11 0 11 4 0.030543 5.564181 0.005489 mild decrease  
+b0fib00  6 SB0W7 0 7 3 0.067708 5.444053 0.012437 Step+mild decrease  
+b0fib00  6 SB1W8 1 8 0 0.088886 5.216483 0.017039 Decrease+scatter  
+b0fib02  6 SB2W9 2 9 1 0.074908 5.343591 0.014018 decrease+scatter+2steps 
+b0fib02  6 SB2W9 2 9 2 0.135843 5.426213 0.025035 Decrease+Step  
+b0fib06 13 SB3W9 3 9 3 0.163081 5.442821 0.029963 Decrease+scatter  
+b0fib06 13 SB3W9 3 9 4 0.021249 5.711150  
+b0fib06 13 SB4W8 4 8 0 0.091740 5.276021 0.017388 Decrease+step+scatter  
+b0fib06 13 SB4W8 4 8 4 0.076126 5.622643 0.013539 Decrease+step </pre> <BR> 
+ 
+ 
+The table fields are Fib name, PS crate, wedge name, bulkhead number, wedge number, layer number, RMS[VDVDD], Mean[VDVDD], ratio MS[VDVDD]/Mean[VDVDD], behaviour code from looking at the history. You can check all history plots in b0sili01:/data01/lookpsdata/. There is one gif per ladder displaying the history of the average over a day (the error is the spread) 
+ 
+ 
+( See <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=326&frame=2&anchor=12:14:51'> 
+11/07/07 study </a> and <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=331&frame=2&anchor=18:51:08'> 
+  12/12/06 study.</a> for previous studies.)
+<!-- Author: Ignacio -->
+<!-- Comment: Sat Mar 31 15;06;11 comment by...Ignacio -->
+Sorry I forgot this L00 ladder that was spotted at the end of January 24:
+<pre>
+b0fib03  7 LB0W5 0 5 3 0.049722 5.180890 
+</pre>
+That makes 16 PS to repair.
+<!-- Comment: Sat Mar 31 17;56;45 comment by...Ignacio -->
+-1ISL (IB0W2) and -3 SVX (SB0W7,SB1W8,SB4W8)  that were already repaired minus another ISL supply counted twice makes 11 PS.
+<!-- Date: Sat Mar 31 14:53:25 2007 -->
+<h3>Today's iFIX history has been lost.</h3> 
+ 
+<p>Steve Gordon call me to as he had a problem with the iFIX history. It could only be recovered from scratch which means today's history (midnight - 14:52-- now) has been lost.  So you'll see a gap in any iFIX history plots.</p> 
+ 
+<p>But the real-time plotters are fine.</p>
+<!-- Author: Ankush  -->
+
+
+
+<!-- Date: Sat Mar 31 15:09:44 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11023&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11023' width='300'></a><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11024&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11024' width='300'></a></center>
+<!-- Author: Jose -->
+<!-- Comment: Sat Mar 31 15;20;20 comment by...Jose -->
+<pre>After the Friday meeting, I searched last year plots of fragment sizes. At 300e30 we will be in the CDF average but then we will start to be the largest readout lenght (considering everything linear). SVX slope is twice the other DAQ slopes. Adding a new VRB crate in this case would be a short term patch. </pre>
+
+<!-- Comment: Sat Mar 31 17;46;45 comment by...Ignacio -->
+SVX seems to be flattening at the highest luminosity of this plot.
+  An up to date plot reaching up to 250-275 should tell as if this is true. If the "grand unification2 scale is pushed up to 350-400  E30 we can live like this for  a while...
+
+
+
+<!-- Date: Sat Mar 31 21:41:25 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11025&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11025  width='300' align='top'></a></td><td>Silicon VRB crate event sizes for run 235091, which according to my quick search, has the highest inst. luminosity with Silicon included.  This answers Ignacio's question - the grand unification should happen around 400e30.  I will take a look at another store just to make sure</td></tr></table>
+<!-- Author: Mark -->
+<!-- Comment: Sat Mar 31 22;36;39 comment by...Ignacio -->
+So we still have headroom. It seems reasonable that bulkheads 0 and 5 of SVX have lower occupacy than 2 and 3. I do not understand the difference between bulkhead 1 and 4 though...
+
+<!-- Comment: Sat Mar 31 23;20;34 comment by...Mark -->
+I would guess the difference between 1 and 4 comes from e17 being out as well as bulkhead 1 having more ladders excluded from the outer layer.
+
+
+<!-- Date: Sun Apr 1 03:55:57 2007 -->
+Shot setup is in progress. We would need to hockerise PS crate 12 to fix the 5V doim  reading of LB1W2, but giving that L00 may not come back easily I rather wait for the next store.  
+<!-- Author: Ricardo -->
+<!-- Comment: Sun Apr  1 04;21;19 comment by...Ricardo -->
+I changed my mind. I just guided Barbara (the ace in duty) to reboot PS 12. The whole operation of recovery and checking of the channel took 14 minutes. We are about to begin scraping now.
+
+
+<!-- Date: Sun Apr 1 04:52:49 2007 -->
+<table><tr><td><a href=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11026&button=yes target='xxx' onclick='jswindow()'; align=top><img src=/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11027  width='300' align='top'></a></td><td>Store 5315 is in with an Ini lum. of 208E30. Losses are below 500 Hz and everything looks normal.</td></tr></table>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Sun Apr 1 09:15:26 2007 -->
+There was a resonance followed by  RXPT Error LOOP !!!. This is not normal according to Ankush.
+<!-- Author: Ignacio -->
+<!-- Comment: Sun Apr  1 09;22;35 comment by...Ignacio -->
+<a href=
+'http://www-cdfonline.fnal.gov/cgi/elog/elog.pl?nb=2007&action=view&page=272&frame=2&anchor=08:48:27.230'>
+Here. </a>. I saw a resonance followed by L1done timeout <a href=
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=20:44:23'>
+last Tuesday </a>, although it should be rare. I have checked now that it was also followed by RXPT Error LOOP on Tuesday.
+
+
+<!-- Comment: Sun Apr  1 11;04;52 comment by...Ankush  -->
+<p>So in the past, when we got a resonance, you would just get the "SRC Fatal Error...." and nothing else.   
+
+<p>After the shutdown, there were many resonances due to a dodgy calorimeter tower.  The error messages often gave L1 DONE TIMEOUT with RXPT error loops.  At the time, I thought these error messages were just a result of the bad calorimeter tower.  I think they went away once the problem was fixed but I probably did not check the error logger carefully.</p>
+
+<p>Anyway, it just seemed odd to me.</p>
+
+<!-- Date: Sun Apr 1 09:32:08 2007 -->
+<h3>Flaky network connection from SVXIICON</h3> 
+ 
+<p>I saw the silicon data from iFIX disappear; eg: the bars in the HV summary, silicon boxes going red on global alarms page.  I checked SVXIICON and found error boxes reporting memory problems.  As soon as I cleared the error boxes, the iIFIX workspace disapeared.  With Jennifer :-)'s help, I restarted the iFIX workspace.  NB: during this time the alarms.exe, temp.exe, etc were running fine and publishing data with the correct time stamp.</p> 
+ 
+<p>After re-starting the iFIX workspace, SVXIICON looked OK.  But the other iFIX PCs were still complaining about the silicon data.  From the control room, I see the Silicon iFIX information come and go.  Steve Gordon pointed out the network from SVXIICON was going flaky.</p> 
+ 
+<p>Given that we have network problem, it could be one of two things: 
+<ul> 
+<li>Bad network hardware</li> 
+<li>Something still bad in the PC</li> 
+</ul> 
+
+<p>My gut-feeling is the latter and a reboot of SVXIICON will probably fix it.  However rebooting SVXIICON will result in some downtime.  As the Lumi is ~110E30, I am reluctant to do it now.  Also I do not believe the silicon is in danger.  The main processes on SVXIICON are still running: PS-GUI and IMON are still getting the current,voltage data.</p> 
+ 
+<p>So I will wait for an opportunity to come to reboot SVXIICON which should hopefully fix this network problem.</p> 
+ 
+</p>
+<!-- Author: Ankush -->
+<!-- Comment: Sun Apr  1 09;38;35 comment by...Ignacio -->
+OK, I agree it is the right thing to do. I always forget the password and have to come back upstairs to ask the SciCo, but I guess you will not have to as yourself...
+
+<!-- Comment: Sun Apr  1 10;20;14 comment by...Ankush -->
+<p>As I had to take SB5W10L4 out of the HWDB, I also rebooted SVXIICON at the same time.  Now the network seems to be better.</p>
+<!-- Comment: Mon Apr  2 02;54;03 comment by...Ulrich (from Europe) -->
+Rebooting SVXIICON results in ZERO downtime and can in principle done at any time (unless you want to power the Silicon via iFix). The only problem is that you're flying blind during that time.
+<!-- Date: Sun Apr 1 09:40:19 2007 -->
+<p><font size=+1> D-mode Calibration Job Started </font>
+<p><pre>
+Job id            : 462
+Calibration type  : standard
+Run period tag    : Apr_2007
+DPS-off run       : 237837
+DPS-on run        : 237836
+Requested by      : Ankush Mitra
+Main process id   : 7060
+Comment           : Filling in web form as ACE forgot to do it.  It should be normal
+</pre>
+<!-- Author: CDF silicon D-mode calibration job server v1.4 -->
+<!-- Comment: Sun Apr  1 09;41;16 comment by...Ankush  -->
+<p>The Si D-Mode calibration was done last night, but the ACE forgot to fill in the web form.  One should remind the ACEs to do so.  Also the whiteboard as not updated.  I will do this now.</p>
+
+
+<!-- Date: Sun Apr 1 09:44:48 2007 -->
+<h4>e5a4 trip on AVDD</h4> 
+ 
+<p>SB5W10L4 (e5a4) tripped on AVDD.  Under instruction the ACE (Aart Heijboer) recovered the trip.</p>
+<!-- Author: Ankush  -->
+<!-- Comment: Sun Apr  1 10;18;07 comment by...Ankush  -->
+<h4>SB5W10L4 Taken out</h4>
+
+<p>SB4W10L4 tripped about a minute after recovering the trip.  Event power cycling the wedge did not help.  So I decided to take this laddder out of the HWDB.</p>
+
+<p>At the same time, I used the opportunity to reboot SVXIICON to hopefully fix its flakly network.</p>
+
+<p>Apologies to Ricardo as I did not page him.. I have to remember the SciCo is not the expert.</p>
+
+
+<!-- Comment: Sun Apr  1 10;36;35 comment by...Ignacio -->
+Well, it is not an SVT hole. We  should  hockerize PS 9 before trying to include e5a4  back.
+<!-- Comment: Sun Apr  1 18;53;00 comment by...Ignacio/Ankush -->
+Hockerizing did not help. The current has gone up from 1150 mA to 1425 mA. Running in SVXDAQ did no help. We have incresed the limit  to 1600 muA and reincluded it in the hwdb. 
+<!-- Date: Sun Apr 1 10:25:54 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB5W10L4 
+<li>problem n: 1985 
+<li>Status: needs_work
+<li>Type: AVDD
+<li>Action: Removed_hdwdb
+<li>entered by: amitra 
+<li>description is: <p>Removed from the HWDB, as it tripped on AVDD 3 times repeatidly.</p>   
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B5W10&layer=L4">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+
+<!-- Date: Sun Apr 1 10:44:11 2007 -->
+<h3>Apology to the Si Group</h3> 
+ 
+<p>Sorry guys, I screwed up.  The cardinal rule is the SciCo is <b>not</b> the expert.  I know this rule very well. But as demonstrated today, I did not follow it.  Taking out a ladder is a big decision to be only undertaken by the pager carrier or SPL.  It was not my place to do so.  However in the heat of the moment, I thought I knew better and took the decision to take out a ladder.</p> 
+ 
+<p>I apologise again to the group and I must make an effort to respect the chain of command.</p> 
+ 
+<p>Yours Sincerely,<br> 
+Ankush</p> 
+  
+<!-- Author: Ankush -->
+
+
+
+<!-- Date: Sun Apr 1 11:19:08 2007 -->
+<pre>We just got a loss of communication of PS crate 7. We recover it fast, but the ifix Silicon Inhibit page took about a minute to clear up.  
+</pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Sun Apr 1 11:43:17 2007 -->
+<center><a href='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11028&button=yes' target='xxx' onclick='jswindow()'><img src='/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=-11028' width='300'></a></center>
+<!-- Author: Ankush -->
+<!-- Comment: Sun Apr  1 11;48;17 comment by...Ankush -->
+<h4>Checking SVXIICON </h4>
+
+<p>After the reboot of SVXIICON (& taking out SB5W10L4) the HV summary page is giving a heart-beat alarm for SVX,ISL and L00.  After the last auto-Hocker, it is clear the HV summary page is not getting updated with any silicon information.  (it was clear as the bars did not flash when the wedges were powered up).</p>
+
+<p>I went to have a look at SVXIICON to see if there were any obvious error boxes or messages.  The picture shows the only error I saw.  I don&#39t think it&#39s relevant but nevertheless I have posted it.</p> 
+
+
+<!-- Comment: Sun Apr  1 18;13;21 comment by...she who speaks to SVXiiCON -->
+<pre>This is the normal "feature" of iFix upon start-up... well, at least it has been for a whle</pre>
+<!-- Comment: Mon Apr  2 02;47;11 comment by...Ulrich (from Europe) -->
+The picture doesn't have any significance for us. Did anybody try to just restart the three monitoring processes on SVXIICON? Any anomal printout in the three programs? Very rarely, the processes lose connection to the RT server and don't publish the values properly (PSMon.exe for all power supply readings, TempMon.exe for temperatures). The reboot by reset is a little brute force, but should do the same trick. 
+<!-- Comment: Mon Apr  2 08;31;37 comment by...Ankush  -->
+<p>At the time, the output from the PSMon.exe, TempMon.exe, etc were fine. You can see in the screen the timestamps were all current and were updating.</p>
+<!-- Date: Sun Apr 1 12:04:20 2007 -->
+<pre>AVDD  current of e372 went below thresholds. HRR fixed it. 
+</pre>
+<!-- Author: Ricardo -->
+
+
+
+<!-- Date: Sun Apr 1 13:16:12 2007 -->
+<h4>ISL TE-CCW1-1IN Cooling alarm back to IGNORE</h4> 
+ 
+<p>As I did not save iFIX database after the reboot, some of the settings were not restored.  As ISL TE-CCW1-1IN is at its lower warning limit, I have put this back to IGNORE.</p>
+<!-- Author: Ankush Mitra  -->
+
+<!-- Date: Sun Apr 1 16:05:46 2007 -->
+<p><font size=+1> D-mode Calibration Job Finished </font>
+<p><pre>
+This is a computer-generated silicon D-mode calibration status report.
+Silicon D-mode calibration job 462 finished successfully.
+
+Job info
+--------
+Calibration type : standard
+DPS-off run      : 237837
+DPS-on run       : 237836
+Requested by     : Ankush Mitra
+Submitted        : 2007-04-01 09:40:13
+Completed        : 2007-04-01 16:04:49
+Status           : SUCCESS
+Comment          : Filling in web form as ACE forgot to do it.  It should be normal
+</pre>
+<!-- Author: D-mode script run_calib_analysis.tcl -->
+
+
+
+
+<!-- Date: Sun Apr 1 18:50:55 2007 -->
+<pre>We quenched at about 16:00 hours. The losses were small and the post-quench checkup went ok. Ignacio is working in putting the ladder e5a4 back into the HDB. The IFIX HV summary page still has problems  and reports the silicon as if it was on, although the silicon is in stand-by. Steve Hahn was paged and several people is working on that.</pre>
+<!-- Author: Ricardo -->
+
+
+<!-- Date: Sun Apr 1 18:55:45 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB5W10L4 
+<li>problem n: 1985 
+<li>Status: needs_observation
+<li>Type: AVDD
+<li>Action: Added_hdwdb
+<li>entered by: ignacio 
+<li>description is: The stable value of this ladder has increased from 1150 to 1425.  It holds with the trip limit set to 1600 but needs observation. 
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B5W10&layer=L4">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+<!-- Date: Sun Apr 1 19:01:32 2007 -->
+Entered in Silicon database: <ul>
+<li>Ladder: SB0W1L3 
+<li>problem n: 1986 
+<li>Status: needs_observation
+<li>Type: No_Init
+<li>Action: Init_RB_mask
+<li>entered by: ignacio 
+<li>description is: This ladder was holding b0fib00 from config. I have masked init readback so it can config. I am puzzled because it does not fail when run on SVXDAQ, even when run with DPS ON. I have not found any difference  between the chip settings.  
+<li>See <a href="http://b0sili01.fnal.gov/cgi-bin/pdb/DBreport.pl?detsys=SVX&wedge=B0W1&layer=L3">report</a></ul>
+<!-- Author: Problem DB -->
+
+
+
+<!-- Date: Sun Apr 1 19:07:19 2007 -->
+<h3>HV Summary Problem: Fixed!</h3> 
+So, after a look at the HV Summary on VNODE1, we noticed that although we were on stand-by the HV Summary bars read 100% for L00 and ISL, and for SVX had it's low bar below 100% (giving a red HV GUI picture). Once the TeV quenched, we were able to further investingate. 
+<p> 
+Once an SVX ladder showed problems, and the run needed to come to hault anyways, Ankuksh went ahead and "aggressively" rebooted our SVXiiCON PC (i.e. with the "reset" switch) since (of course) you must log-in to shutdown iFix and reboot the PC through the start menu (It will complain that you don't have permissions until you log-in). 
+<p> 
+Luckily, iFix and our 3 processes came back just fine... all except for this HV Summary problem. We contacted Steve Hahn, we also thought that this was curious, and came in to help me see that VNODE1 was properly displaying what he was reading from the database, which was publishing these screwey 100% values. We tried to reboot properly (it was due anyways) and when it came back, life was good in the HV summary picture. 
+<p> 
+Thanks to Steve Hahn for his super-sleuth help!  
+<!-- Author: Jennifer :-), Anky, Ignacio, & Steve Hahn -->
+
+
+
+
+
+
+
+
+<!-- Date: Mon Apr 2 08:53:25 2007 -->
+<pre>ADCmon watching. No new problems found. 
+ 
+Runs watched from  
+ar039eaa to 
+ar03a0e3 
+ 
+</pre>
+<!-- Author: Robero -->
+
+
+<!-- Date: Mon Apr 2 09:22:17 2007 -->
+<h3>Week Summary</h3> 
+<h4>Monday, 26th </h4>  
+	<ul>  
+  	   <li> Bias 1 of f222 (suspected of having a pinhole) went back to normal </li>  
+	   <li> Hockerize PS 8 ro recover f00 Doim 2V. Time coincides with a general SVX bias increase and trigger prescale. See <a href= 
+'/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=15:54:51'> 
+here</a> </li>  
+	   <li> Bunch of Imon limits increased.</li> 
+	   <li> Resonance  plus L1 Done Time Out. See <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=20:44:23'> here</a>.</li> 
+        </ul>  
+ 
+<h4>Tuesday, 27th</h4>  
+	<ul>  
+	    <li>  B0AAGC spikey during the night followed by a RF tripped. Monitor for three hours and Silicon to stand-by until the rest of the store, see  <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=08:19:21'> here</a>. </li> 
+														          <li> Store 5301, with lum 202E30, losses less than 200 Hz. </li> 
+      	    <li> Fib02 tripped wedges e14 and e15, reboot solved it. </li> 
+        </ul>  
+ 
+<h4>Wednesday, 28th</h4>  
+	<ul> 
+	    <li> Tev losses power in a section that connects to our BLM permit, dropping the permit and the Tev clock. Clock set to free-run mode and checkout completed. Diamonds to the rescue to see the radiation. See details of everything <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=18:29:00'> here </a> </li> 
+       </ul> 
+ 
+ 
+<h4>Thursday, 29th</h4>  
+        <ul> 
+            <li> f831, identified by a weird bias scan is fixed. See details  <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=11:14:24'> here</a>. </li> 
+            <li> Test trying to incorporate the 4 compromised ISL ladder <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=11:44:06'> failed</a>. </li> 
+            <li> Store 5306 in with lum 260E30, but high losses. Integrated Rad alarm went off during scraping. MCR adjusted tunes and put silicon back when losses were below 7 KhZ </li> 
+            <li> One SVX IFIX bar much higher than the others. PS-Gui reported bias of e050 at 377.4 V. Hockerization PS 5 fixed it. </li> 
+       </ul> 
+ 
+<h4>Friday, 30th</h4>  
+        <ul> 
+            <li> Tev Quench. PS at F3 went bad affecting the orbit. </li> 
+        </ul> 
+ 
+<h4>Saturday, 31th</h4>  
+        <ul> 
+            <li> Doim 5V line of LB1W2 reports  zero current, but takes data. Ignored in Imon until next oppertunity to hockerization. </li>  
+            <li> Noise Bias scan suspended, see <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=11:54:09'> here</a>. Don quijote and company solved the problem <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=20:31:28'> here</a>. </li> 
+            <li> Studies performed on event sizes are <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=15:09:44'> here</a>. </li> 
+            <li> Studies done on AVDD/DVDD <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=14:39:21'>here</a>. </li> 
+       </ul> 
+ 
+ 
+<h4>Sunday, 1st</h4>  
+       <ul> 
+           <li> Store 5315 is in with an Ini lum. of 208E30 and losses below 500 Hz. </li> 
+           <li> e5a4 tripped and was taken out of the database. 
+           <li> Saga of problems with IFIX <a href= 
+'http://www-cdfonline.fnal.gov/cgi/elog/det-system-elog.pl?nb=silicon&action=view&page=346&frame=2&anchor=09:32:08'> here</a> </li> 
+           <li> Tev Quenched. Post-quench setup is Ok. </li> 
+       </ul> 
+ 
+ 
+  
+<!-- Author: Ricardo -->
+<!-- Comment: Mon Apr  2 09;37;45 comment by...Ankush -->
+<p>Important lesson of the week: <br>
+<center><b>The SciCo is NOT the expert</b></center></p>
+
+
+<!-- Date: Mon Apr 2 10:05:58 2007 -->
+<h3>TevMon OAC restarted</h3> 
+ 
+<p>Ron Moore called to say he restarted TevMon. This was done to include some updates Jose had requested.</p>
+<!-- Author: Ankush -->
+<!-- Comment: Mon Apr  2 10;29;22 comment by...ronmoore -->
+I eliminated the "jump" checks in the B0AAGC warning conditions.

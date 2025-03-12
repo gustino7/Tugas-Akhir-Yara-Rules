@@ -1,0 +1,2400 @@
+gene_id,gi,gene_start,gene_stop,definition
+AA00002,NULL,1373,2470,DNA polymerase III, beta subunit
+AA00003,NULL,2477,3550,DNA replication and repair protein
+AA00004,NULL,4355,3603,conserved hypothetical protein (possible methyltransferase)
+AA00007,NULL,4543,5115,superoxide dismutase [Cu-Zn] precursor
+AA00008,NULL,5172,5555,hypothetical protein (possible transposase fragment)
+AA00009,NULL,5732,5854,hypothetical protein (possible transposase fragment)
+AA00010,NULL,5851,6357,transposase orfB fragment
+AA00012,NULL,6839,6573,conserved hypothetical protein
+AA00013,NULL,6951,6835,hypothetical protein
+AA00015,NULL,6972,8393,malate dehydrogenase
+AA00017,NULL,8499,10331,hypothetical protein
+AA00018,NULL,10690,11817,hypothetical protein
+AA00019,NULL,11839,12882,conserved hypothetical protein
+AA00020,NULL,12939,14546,conserved hypothetical protein
+AA00021,NULL,14770,17676,DNA helicase IV
+AA00022,NULL,17715,18944,conserved hypothetical protein
+AA00024,NULL,19151,19360,transcriptional regulatory protein
+AA00025,NULL,19375,20046,hypothetical protein
+AA00026,NULL,20602,20132,conserved hypothetical protein
+AA00028,NULL,23353,20735,conserved hypothetical protein (possible type III restriction-modification system restriction subunit)
+AA00029,NULL,25003,23366,type III restriction-modification system: methylase
+AA00030,NULL,25228,25019,hypothetical protein
+AA00031,NULL,25777,25421,conserved hypothetical protein
+AA00033,NULL,26553,25783,conserved hypothetical protein
+AA00034,NULL,27404,26514,NTP-binding protein
+AA00036,NULL,29314,27407,transposase
+AA00037,NULL,29966,29310,conserved hypothetical protein
+AA00038,NULL,30452,30081,conserved hypothetical protein
+AA00039,NULL,31498,30452,cytochrome c-type biogenesis protein
+AA00040,NULL,32025,31498,thiol:disulfide interchange protein
+AA00041,NULL,33877,32021,cytochrome c-type biogenesis protein
+AA00042,NULL,33950,34315,hypothetical protein
+AA00043,NULL,35480,34518,formate dependent nitrite reductase, transmembrane protein
+AA00044,NULL,36154,35480,formate dependent nitrite reductase, Fe-S protein/ anaerobic DMSO reductase B
+AA00046,NULL,36816,36154,formate dependent nitrite reductase, cytochrome-c type protein
+AA00047,NULL,38413,36893,formate dependent nitrite reductase, cytochrome c552
+AA00048,NULL,39280,38993,conserved hypothetical protein
+AA00049,NULL,39924,39301,conserved hypothetical protein
+AA00050,NULL,40979,40059,cytochrome c-type biogenesis protein precursor (reductase)
+AA00052,NULL,41530,40982,cytochrome c-type biogenesis protein precursor
+AA00054,NULL,42081,41533,cytochrome c biogenesis protein
+AA00055,NULL,44062,42107,cytochrome c-type biogenesis protein
+AA00056,NULL,44580,44065,cytochrome c-type biogenesis protein
+AA00057,NULL,44801,44580,cytochrome c-type biogenesis protein
+AA00058,NULL,45538,44804,cytochrome c-type biogenesis protein
+AA00059,NULL,46214,45552,heme exporter protein B (cytochrome c-type biogenesis protein)
+AA00061,NULL,46854,46222,cytochrome c-type biogenesis ATP-binding protein
+AA00062,NULL,48090,47029,bicyclomycin resistance protein (Sulfonamide resistance protein)
+AA00064,NULL,49006,48227,ribosomal small subunit pseudouridine synthase
+AA00065,NULL,48994,49146,hypothetical protein
+AA00066,NULL,49142,51403,NADP-dependent malic enzyme (NADP-ME)
+AA00068,NULL,51550,52191,manganese superoxide dismutase
+AA00069,NULL,52605,53393,conserved hypothetical protein
+AA00071,NULL,54427,53603,conserved hypothetical protein (possible zinc protease)
+AA00072,NULL,54567,55007,conserved hypothetical protein
+AA00075,NULL,55696,55103,conserved hypothetical protein
+AA00076,NULL,55793,56143,dihydroneopterin aldolase
+AA00077,NULL,56251,57594,conserved hypothetical protein (possible periplasmic binding transport protein)
+AA00078,NULL,57608,57751,hypothetical protein
+AA00079,NULL,58336,57800,disulfide bond formation protein B (disulfide oxidoreductase)
+AA00080,NULL,59904,58363,Na+/H+ antiporter protein
+AA00081,NULL,60099,60827,fatty acid metabolism regulator protein
+AA00083,NULL,60911,60804,hypothetical protein
+AA00084,NULL,62165,60954,aminotransferase
+AA00085,NULL,62282,63583,menaquinone-specific isochorismate; isochorismate mutase
+AA00086,NULL,63577,65280,2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+AA00087,NULL,65336,66082,possible hydrolase (alpha/beta fold family)
+AA00088,NULL,66181,66447,30S ribosomal protein S15
+AA00089,NULL,66658,67809,S-adenosylmethionine synthase; methionine adenosyltransferase
+AA00091,NULL,67881,68378,short-patch reverse transcription protein
+AA00092,NULL,68538,69776,serine transporter
+AA00093,NULL,69872,71233,L-serine dehydratase (L-serine deaminase)
+AA00096,NULL,72466,71420,L-asparaginase II precursor
+AA00099,NULL,72761,73897,conserved hypothetical protein
+AA00101,NULL,73922,74470,fimbrial biogenesis and twitching motility protein
+AA00105,NULL,74617,75669,conserved hypothetical protein
+AA00106,NULL,75684,76784,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+AA00107,NULL,76839,78083,histidyl-tRNA synthetase
+AA00108,NULL,78097,78708,conserved hypothetical protein
+AA00109,NULL,78722,79213,conserved hypothetical protein
+AA00110,NULL,79899,79225,ATPase involved in DNA replication
+AA00111,NULL,79888,80046,hypothetical protein
+AA00112,NULL,81299,80049,uracil permease
+AA00113,NULL,82049,81426,uracil phosphoribosyltransferase
+AA00114,NULL,84031,82187,peptidyl-prolyl cis-trans isomerase D (PPIase D) (rotamase D)
+AA00115,NULL,86437,84167,glutamate--cysteine ligase (gamma-glutamylcysteine synthetase) (gamma-ECS)
+AA00116,NULL,86669,88267,conserved hypothetical protein
+AA00117,NULL,88478,88386,hypothetical protein
+AA00119,NULL,88527,89090,ATP-dependent Clp protease proteolytic subunit (endopeptidase Clp)
+AA00120,NULL,89103,90341,ATP-dependent Clp protease ATP-binding subunit
+AA00122,NULL,90352,90441,hypothetical protein
+AA00123,NULL,90450,90361,hypothetical protein
+AA00124,NULL,90730,90410,conserved hypothetical protein (possible cytoplasmic protein)
+AA00125,NULL,91073,90726,conserved hypothetical protein (possible phage-related protein)
+AA00126,NULL,92035,91193,conserved hypothetical protein
+AA00128,NULL,94267,92111,cation-transporting ATPase (probable potassium/copper transporter)
+AA00129,NULL,94262,94612,hypothetical protein
+AA00131,NULL,94661,95044,transcriptional regulator (MerR family)
+AA00132,NULL,95359,95078,conserved hypothetical protein (possible regulator protein, VirR family)
+AA00134,NULL,95457,96389,1,4-dihydroxy-2-naphthoate octaprenyltransferase (menaquinone biosynthetic protein)
+AA00135,NULL,96443,96940,S-adenosylmethionine: 2-demethylmenaquinone methyltransferase (menaquinone biosynthesis protein)
+AA00136,NULL,97132,98511,sodium/sulphate transporter
+AA00137,NULL,99117,98587,conserved hypothetical protein (possible alpha helix protein)
+AA00138,NULL,99106,99201,hypothetical protein
+AA00139,NULL,99238,100596,antibiotic maturation factor
+AA00140,NULL,100932,100786,hypothetical protein
+AA00141,NULL,100954,101373,hypoxanthine phosphoribosyl transferase (HPRT)
+AA00142,NULL,102585,101449,glycerate kinase
+AA00143,NULL,103856,102585,gluconate permease (GntP family)
+AA00144,NULL,105046,103991,possible carbohydrate diacid regulator
+AA00145,NULL,105404,105186,probable degenerate transposase fragment
+AA00146,NULL,105396,106004,UDP-glucose/GDP-mannose dehydrogenase
+AA00148,NULL,107903,106095,ATP-dependent RNA helicase
+AA00150,NULL,108917,108018,conserved hypothetical protein (possible TPR domain protein)
+AA00151,NULL,111131,109005,polynucleotide phosphorylase
+AA00153,NULL,111425,111892,conserved hypothetical protein
+AA00155,NULL,112009,111887,hypothetical protein
+AA00156,NULL,112162,112073,hypothetical protein
+AA00157,NULL,112259,112384,hypothetical protein
+AA00158,NULL,112995,112372,ampD signalling protein (N-acetylmuramyl-L-alanine amidase)
+AA00160,NULL,112976,113494,pilA-like biogenesis protein / prepilin peptidase dependent proteinD
+AA00161,NULL,113524,114930,pilin B biogenesis protein; fimbrial transcription regulation
+AA00162,NULL,114926,116146,pilin C biogenesis protein/protein transport protein
+AA00163,NULL,116146,116832,type IV prepilin peptidase; type II secretion pathway related protein
+AA00164,NULL,116885,117505,dephospho-CoA kinase (dephosphocoenzyme A kinase)
+AA00165,NULL,117498,117707,conserved hypothetical protein
+AA00166,NULL,117695,117979,conserved hypothetical protein (possible acetyltransferase)
+AA00167,NULL,118379,119749,possible amino-acid transporter (sodium-alanine symporters)
+AA00168,NULL,119980,120300,possible sigma 54 modulation protein
+AA00169,NULL,120452,121003,conserved hypothetical protein
+AA00170,NULL,121467,121378,hypothetical protein
+AA00171,NULL,121933,121625,DNA-binding protein
+AA00172,NULL,122964,121918,conserved hypothetical protein (possible regulator protein / nitrogen fixation protein)
+AA00173,NULL,123108,123197,hypothetical protein
+AA00174,NULL,124093,123212,ribosomal protein L11 methyltransferase
+AA00175,NULL,124649,124062,cell filamentation protein
+AA00176,NULL,126104,124671,pantothenate permease
+AA00177,NULL,126373,126104,conserved hypothetical protein
+AA00179,NULL,127785,126400,conserved hypothetical protein (possible outer membrane protein)
+AA00180,NULL,128128,127907,conserved hypothetical protein
+AA00181,NULL,128915,128709,hypothetical protein
+AA00182,NULL,130295,128952,biotin carboxylase (subunit of acetyl-CoA carboxylase)
+AA00183,NULL,130805,130341,acetyl-CoA carboxylase, biotin carboxyl carrier protein
+AA00184,NULL,130822,130971,hypothetical protein
+AA00185,NULL,131405,130932,3-dehydroquinate dehydratase II
+AA00186,NULL,132505,131507,o-succinylbenzoate-CoA synthase; OSB synthase
+AA00187,NULL,132815,132489,conserved hypothetical protein
+AA00188,NULL,133216,132800,conserved hypothetical protein
+AA00189,NULL,134113,133259,dihydroxynaphthoic acid synthase (naphthoate synthas)
+AA00190,NULL,134992,134228,triosephosphate isomerase
+AA00191,NULL,135159,135605,conserved hypothetical protein (possible acetyltransferase, GNAT family)
+AA00194,NULL,137049,135685,oxygen-independent coproporphyrinogen III oxidase
+AA00195,NULL,137502,137071,conserved hypothetical protein
+AA00196,NULL,138075,137518,conserved hypothetical protein
+AA00198,NULL,138703,138179,conserved hypothetical protein (Cytosine deaminase-related enzyme)
+AA00199,NULL,138804,138715,hypothetical protein
+AA00200,NULL,139829,139032,thymidylate synthase
+AA00201,NULL,140674,139880,prolipoprotein diacylglyceryl transferase
+AA00202,NULL,141480,140686,conserved hypothetical protein (possible membrane protein)
+AA00204,NULL,142082,141486,(di)nucleoside polyphosphate hydrolase; possible invasion protein
+AA00205,NULL,142302,142718,ribose ABC transporter protein / high affinity D-ribose transport protein
+AA00207,NULL,142732,144237,D-ribose ABC transporter, ATP-binding protein / galactoside ABC transporter, ATP-binding protein
+AA00208,NULL,144237,145130,D-ribose ABC transporter, permease protein / Galactoside transport system permease protein
+AA00209,NULL,145223,146092,D-ribose ABC transporter, periplasmic-binding protein
+AA00211,NULL,146095,146223,hypothetical protein
+AA00212,NULL,146196,147107,ribokinase
+AA00213,NULL,147417,147211,cold shock protein (negative regulator of cspA transcription)
+AA00214,NULL,149309,147867,glutamyl-tRNA synthetase
+AA00216,NULL,149997,150782,conserved hypothetical protein
+AA00217,NULL,150885,150796,hypothetical protein
+AA00218,NULL,150898,152271,argininosuccinate lyase
+AA00221,NULL,152576,153925,NADP-specific glutamate dehydrogenase
+AA00223,NULL,154417,155868,catalase (hydroperoxidase; iron heme axial ligand)
+AA00226,NULL,156511,156416,hypothetical protein
+AA00227,NULL,156702,156547,hypothetical sequence
+AA00229,NULL,160371,157003,DNA polymerase III, alpha subunit
+AA00231,NULL,160675,162459,long-chain-fatty-acid--CoA ligase
+AA00233,NULL,162479,162592,hypothetical protein
+AA00234,NULL,162807,168701,collagen adhesin
+AA00235,NULL,168736,168828,hypothetical protein
+AA00236,NULL,168958,171081,anaerobic ribonucleoside-triphosphate reductase
+AA00237,NULL,171229,171074,hypothetical protein
+AA00239,NULL,171478,171353,hypothetical protein
+AA00240,NULL,171652,171530,hypothetical protein
+AA00241,NULL,171686,172150,formate acetyltransferase activating enzyme (anaerobic ribonucleoside-triphosphate reductase activating protein)
+AA00244,NULL,172872,172183,conserved hypothetical protein (possible deoxyribonuclease, possible hydrolase)
+AA00245,NULL,173252,172974,hypothetical protein
+AA00246,NULL,173400,173248,hypothetical protein
+AA00247,NULL,174006,173497,peptidyl-prolyl cis-trans isomerase B
+AA00248,NULL,174008,174109,hypothetical protein
+AA00249,NULL,174106,175482,cysteinyl-tRNA synthetase (cysteine--tRNA ligase)
+AA00250,NULL,176595,175636,lipoate biosynthesis protein A
+AA00251,NULL,177298,176663,lipoate biosynthesis protein B
+AA00252,NULL,177586,177347,conserved hypothetical protein
+AA00253,NULL,177571,177696,hypothetical protein
+AA00254,NULL,178834,177719,penicillin-binding protein 5
+AA00256,NULL,179794,178940,rare lipoprotein A precursor
+AA00257,NULL,180964,179846,rod-shape-determining protein
+AA00258,NULL,182912,180954,penicillin binding protein 2
+AA00259,NULL,183392,182928,conserved hypothetical protein
+AA00260,NULL,183760,183455,conserved hypothetical protein
+AA00263,NULL,185155,183830,ATP-dependent RNA helicase
+AA00264,NULL,185192,185362,hypothetical protein
+AA00265,NULL,185447,186643,transcription termination factor
+AA00266,NULL,188006,186774,conserved hypothetical protein (probable metabolite transport protein)
+AA00267,NULL,188093,188203,hypothetical protein
+AA00268,NULL,188471,188244,acyl carrier protein (ACP)
+AA00269,NULL,189473,188748,3-oxoacyl-(acyl-carrier-protein) reductase/short-chain alcohol dehydrogenase
+AA00270,NULL,190421,189501,malonyl coA-acyl carrier protein transacylase
+AA00271,NULL,190404,190529,hypothetical protein
+AA00272,NULL,191493,190546,3-oxoacyl-[acyl-carrier-protein] synthase III
+AA00273,NULL,192559,191543,fatty acid/phospholipid synthesis protein
+AA00274,NULL,192756,192589,50S ribosomal protein L32
+AA00275,NULL,193297,192776,conserved hypothetical protein
+AA00276,NULL,194010,193372,dethiobiotin synthase
+AA00277,NULL,194750,194013,biotin synthesis protein
+AA00278,NULL,195418,194771,conserved hypothetical protein
+AA00279,NULL,196574,195402,8-amino-7-oxonoanoate synthase
+AA00280,NULL,197856,196570,adenosylmethionine-8-amino-7-oxononanoate; 7,8-diamino-perlargonic acid ATase
+AA00281,NULL,198079,198945,phosphatidylserine decarboxylase proenzyme
+AA00282,NULL,198974,199603,peptidyl-prolyl cis-trans isomerase; macrophage infectivity potentiator
+AA00283,NULL,200075,199674,glutamate 5-kinase (gamma-glutamyl kinase)
+AA00286,NULL,200320,200105,glutamate 5-kinase (gamma-glutamyl kinase)
+AA00287,NULL,200567,200298,glutamate 5-kinase (gamma-glutamyl kinase)
+AA00288,NULL,200625,201407,conserved hypothetical protein
+AA00290,NULL,201412,201873,conserved hypothetical protein
+AA00291,NULL,201965,201855,hypothetical protein
+AA00292,NULL,201940,202398,dihydrofolate reductase
+AA00295,NULL,202511,202407,hypothetical protein
+AA00296,NULL,203774,202524,conserved hypothetical protein (possible hemolysin / transport protein)
+AA00298,NULL,203943,203764,hypothetical protein
+AA00300,NULL,204413,203925,conserved hypothetical protein
+AA00299,NULL,204396,204494,hypothetical protein
+AA00301,NULL,205260,204481,conserved hypothetical protein (possible deoxyribonuclease)
+AA00302,NULL,206265,205267,DNA polymerase III, delta' subunit
+AA00303,NULL,206876,206247,thymidylate kinase (DTMP)
+AA00305,NULL,207921,206881,conserved hypothetical protein
+AA00306,NULL,208398,208063,nitrogen regulatory protein p-II
+AA00308,NULL,209232,208477,glycerol-3-phosphate regulon repressor
+AA00309,NULL,209425,210327,3-hydroxyisobutyrate dehydrogenase; 2-hydroxy-3-oxopropionate reductase
+AA00310,NULL,210333,211574,conserved hypothetical protein
+AA00311,NULL,211574,212203,L-fuculose-phosphate aldolase
+AA00312,NULL,212209,212982,conserved hypothetical protein (possible hydroxypyruvate isomerase)
+AA00313,NULL,213117,212962,hypothetical protein
+AA00314,NULL,213139,214386,conserved hypothetical protein (possible Kmt1 protein)
+AA00316,NULL,214585,215400,conserved hypothetical protein
+AA00317,NULL,218170,215612,DNA mismatch repair protein
+AA00318,NULL,219109,218297,hypothetical protein
+AA00321,NULL,219412,219194,hypothetical protein
+AA00323,NULL,220282,219527,conserved hypothetical protein (possible SAM-dependent methyltransferase)
+AA00324,NULL,221381,220287,tRNA (Uracil-5-)-methyltransferase (tRNA(M-5-U54)-methyltransferase)
+AA00325,NULL,221780,221454,conserved hypothetical protein
+AA00326,NULL,222457,221843,periplasmic oxidoreductase (por) (Thiol:disulfide interchange protein dsbA precursor.)
+AA00327,NULL,222742,222479,conserved hypothetical protein
+AA00329,NULL,222877,223407,molybdopterin-guanine dinucleotide biosynthesis protein
+AA00330,NULL,223509,224036,conserved hypothetical protein
+AA00332,NULL,224151,225677,PTS system, fructose-specific IIA/FPr component (diphosphoryl transfer protein)
+AA00333,NULL,225683,226621,1-phosphofructokinase; tagatose-6-phosphate kinase
+AA00335,NULL,226629,228290,PTS fructose-specific IIBC component
+AA00337,NULL,228805,228404,conserved hypothetical protein
+AA00339,NULL,228922,228827,hypothetical protein
+AA00340,NULL,228937,229485,NADP(H) oxidoreductase (NAD(P)H dehydrogenase (quinone))
+AA00341,NULL,229528,229863,hypothetical protein
+AA00342,NULL,229835,229999,hypothetical protein
+AA00343,NULL,230048,230713,conserved hypothetical protein (possible cytosolic protein)
+AA00344,NULL,231158,231565,preprotein translocase secE subunit
+AA00345,NULL,231570,232118,transcription antitermination protein
+AA00347,NULL,232277,232702,50S ribosomal protein L11
+AA00348,NULL,232710,233396,50S ribosomal protein L1
+AA00349,NULL,233414,233587,hypothetical protein
+AA00350,NULL,233761,234249,50S ribosomal protein L10
+AA00353,NULL,234728,234291,hypothetical protein
+AA00354,NULL,234922,234830,hypothetical protein
+AA00355,NULL,234946,238971,DNA-directed RNA polymerase beta chain (transcriptase beta chain)
+AA00356,NULL,239077,243342,DNA-directed RNA polymerase, beta' chain
+AA00357,NULL,243923,243474,transposase (probable IS200-like )
+AA00358,NULL,244369,244115,30S ribosomal protein S17
+AA00359,NULL,244560,244372,50S ribosomal protein L29
+AA00361,NULL,244970,244563,50S ribosomal protein L16
+AA00362,NULL,245691,244987,30S ribosomal protein S3
+AA00363,NULL,246040,245711,50S ribosomal protein L22
+AA00365,NULL,246326,246054,30S ribosomal protein S19
+AA00366,NULL,247173,246355,50S ribosomal protein L2
+AA00367,NULL,247496,247197,50S ribosomal protein L23
+AA00368,NULL,248095,247496,50S ribosomal protein L4
+AA00369,NULL,248740,248114,50S ribosomal protein L3
+AA00370,NULL,249068,248760,30S ribosomal protein S10
+AA00371,NULL,250214,249321,transcriptional regulator
+AA00372,NULL,250488,251138,acetate CoA-transferase (alpha subunit)
+AA00373,NULL,251153,251815,CoA-transferase (beta)
+AA00374,NULL,251821,253161,short-chain fatty acids transporter
+AA00377,NULL,253182,254360,acetyl-CoA acetyltransferase (Beta-ketothiolase,3-ketoacyl-CoA thiolase)
+AA00378,NULL,254928,254464,leucine-responsive regulatory protein (transcription regulator)
+AA00379,NULL,256548,255022,possible membrane protein
+AA00380,NULL,257597,256668,carbamate kinase
+AA00381,NULL,258611,257610,ornithine carbamoyltransferase
+AA00382,NULL,258733,258945,hypothetical protein
+AA00383,NULL,259034,260242,chloride channel protein
+AA00384,NULL,260248,261228,conserved hypothetical protein (possible nitrogen fixation protein)
+AA00386,NULL,262279,261290,aspartate--ammonia ligase (asparagine synthetase A)
+AA00387,NULL,262445,262894,transcription regulatory protein
+AA00388,NULL,262931,263686,uridine phosphorylase; possible 5'-methylthioadenosine phosphorylase; purine nucleoside phosphorylase
+AA00390,NULL,264887,263829,permease
+AA00391,NULL,264961,265308,arsenate reductase
+AA00395,NULL,265711,265418,conserved hypothetical protein
+AA00396,NULL,266012,265731,conserved hypothetical protein
+AA00397,NULL,266209,267549,Fe-S oxidoreductase; MiaB-like RNA modifying enzyme (2-methylthioadenine synthetase)
+AA00398,NULL,267587,268078,protein-tyrosine-phosphatase (PTPase)
+AA00399,NULL,268208,268423,conserved hypothetical protein
+AA00401,NULL,269094,268501,FKBP-type peptidyl-prolyl cis-trans isomerase slyD (PPiase)
+AA00402,NULL,269908,269192,conserved hypothetical protein (possible periplasmic protein)
+AA00404,NULL,270393,269962,conserved hypothetical protein
+AA00406,NULL,270883,270491,large-conductance mechanosensitive channel
+AA00407,NULL,272369,270996,trk system potassium uptake protein
+AA00408,NULL,273748,272396,SUN protein (FMU protein)
+AA00409,NULL,274704,273751,methionyl-tRNA formyltransferase
+AA00410,NULL,275282,274773,peptide deformylase (PDF) (Polypeptide deformylase)
+AA00411,NULL,275938,276348,hydrolase
+AA00412,NULL,279514,279314,conserved hypothetical protein
+AA00413,NULL,280282,280614,conserved hypothetical protein
+AA00414,NULL,281593,281039,possible histidinol-phosphatase
+AA00415,NULL,281790,282824,D-methionine ABC transporter, ATP-binding protein
+AA00416,NULL,282817,283491,D-methionine transport system permease protein (ABC transport system)
+AA00417,NULL,283529,284368,outer membrane lipoprotein precursor (probable D-methionine-binding lipoprotein)
+AA00419,NULL,284477,284971,conserved hypothetical protein (possible phosphatidylethanolamine-binding protein)
+AA00420,NULL,285093,285566,tRNA/rRNA methyltransferase
+AA00422,NULL,286540,285668,LapB membrane protein
+AA00423,NULL,286673,287284,GTP-binding protein
+AA00424,NULL,287263,287463,hypothetical protein
+AA00425,NULL,287435,288133,N-terminal region of competence protein M
+AA00426,NULL,288167,288265,conserved hypothetical protein
+AA00427,NULL,288370,290016,hypothetical protein
+AA00428,NULL,290106,289996,hypothetical protein
+AA00429,NULL,290707,291951,conserved hypothetical protein
+AA00430,NULL,292570,293250,hypothetical protein
+AA00431,NULL,294018,293194,conserved hypothetical protein
+AA00432,NULL,294693,294037,conserved hypothetical protein; possible methyltransferase
+AA00434,NULL,294965,300937,VgrG-like protein (Rhs accessory genetic element)
+AA00435,NULL,300944,301456,hypothetical protein
+AA00436,NULL,301878,302159,hypothetical protein
+AA00437,NULL,303135,302284,conserved hypothetical protein; possible parB-like nuclease
+AA00438,NULL,303976,303131,probable chromosomal partitioning protein (ParB-like family)
+AA00439,NULL,305498,303921,conserved hypothetical protein (possible recombinase)
+AA00440,NULL,305540,305845,hypothetical protein
+AA00442,NULL,307741,306329,conserved hypothetical protein (possible zinc finger protein)
+AA00443,NULL,308856,307741,hypothetical protein
+AA00444,NULL,309707,308817,NTP binding protein
+AA00446,NULL,311626,309710,transposase
+AA00447,NULL,312281,311622,conserved hypothetical protein
+AA00448,NULL,312408,313118,C-terminal region of competence protein M
+AA00449,NULL,313969,313136,conserved hypothetical protein
+AA00450,NULL,315216,313960,outer membrane antigenic lipoprotein b precursor
+AA00451,NULL,315208,315408,hypothetical protein
+AA00452,NULL,317083,315428,phosphomannomutase; phosphoglucomutase
+AA00453,NULL,317389,318069,phosphoglyceromutase
+AA00454,NULL,318651,318160,conserved hypothetical protein
+AA00455,NULL,319445,318672,lipoprotein precursor
+AA00458,NULL,320944,319514,nickel-binding periplasmic protein
+AA00459,NULL,321149,320991,hypothetical protein
+AA00460,NULL,322491,321163,ATP-dependent ClpY-related protease; heat shock protein
+AA00461,NULL,323039,322515,heat shock protein; protease
+AA00463,NULL,323254,323958,class B acid phosphatase
+AA00464,NULL,324165,324052,conserved hypothetical protein
+AA00465,NULL,324660,324346,hypothetical protein
+AA00467,NULL,324938,324705,hypothetical protein
+AA00468,NULL,326184,324943,tryptophan-specific transport protein / tyrosine-specific transport protein
+AA00469,NULL,326346,326870,inorganic pyrophosphatase, chain A
+AA00470,NULL,326949,327719,conserved hypothetical protein (possible Zn-dependent protease with chaperone function)
+AA00471,NULL,328402,329043,3,4-dihydroxy-2-butanone 4-phosphate synthase; GTP cyclohydrase II
+AA00473,NULL,330137,329136,tryptophanyl-tRNA synthetase
+AA00474,NULL,331784,330315,cell division protein Y (GTP-binding signal recognition particle)
+AA00475,NULL,331761,332342,conserved hypothetical protein (possible N6-adenine-specific methylase)
+AA00478,NULL,332632,333594,mannose-specific phosphotransferase element
+AA00479,NULL,333615,334409,mannose-specific phosphotransferase system IIC
+AA00480,NULL,334426,335259,mannose-specific phosphotransferase system IID
+AA00482,NULL,335372,336544,hydrolase (haloacid dehalogenase-like) (HAD superfamily)
+AA00485,NULL,336634,336768,hypothetical protein
+AA00486,NULL,336923,338086,nucleoside transporter
+AA00488,NULL,338215,338931,purine nucleoside phosphorylase
+AA00489,NULL,338952,339092,hypothetical protein
+AA00490,NULL,339201,341621,possible outer membrane protein (hemin-binding protein / haemin storage protein)
+AA00491,NULL,341640,343553,haemin storage system
+AA00492,NULL,343718,344797,conserved hypothetical protein
+AA00493,NULL,344803,345093,hypothetical protein
+AA00495,NULL,345199,345062,hypothetical protein
+AA00497,NULL,346539,345217,hexose phosphate transport system regulatory protein; regulator of uhpT expression
+AA00499,NULL,346710,347339,pyridoxamine-5'-phosphate oxidase
+AA00500,NULL,347291,347416,hypothetical protein
+AA00501,NULL,348074,347433,hypothetical protein
+AA00502,NULL,348584,348105,conserved hypothetical protein
+AA00503,NULL,349849,348590,conserved hypothetical protein
+AA00504,NULL,351347,350049,ATPase
+AA00505,NULL,351793,351701,hypothetical protein
+AA00506,NULL,353149,351821,ATP-dependent RNA helicase protein
+AA00507,NULL,353136,353261,hypothetical protein
+AA00508,NULL,353236,353943,SAM-dependent methyltransferase
+AA00511,NULL,354542,354024,nicotinamide mononucleotide transporter
+AA00512,NULL,354709,354551,conserved hypothetical protein
+AA00513,NULL,355090,355746,pseudouridylate synthase (pseudouridine synthase)
+AA00514,NULL,355898,355749,hypothetical protein
+AA00515,NULL,355870,356019,hypothetical protein
+AA00516,NULL,356574,356071,autoinducer-2 production protein
+AA00518,NULL,357273,356791,conserved hypothetical protein
+AA00519,NULL,357881,357279,O-acetyltransferase
+AA00521,NULL,358384,357884,phosphatase
+AA00523,NULL,358612,358989,conserved hypothetical protein
+AA00525,NULL,359394,359519,hypothetical protein
+AA00527,NULL,361523,359511,ATP-dependent DNA helicase
+AA00528,NULL,361763,361536,conserved hypothetical protein
+AA00529,NULL,362430,361870,outer membrane protein, Omp 18/16
+AA00530,NULL,362513,362728,hypothetical protein
+AA00531,NULL,362761,365445,DNA polymerase I
+AA00533,NULL,365463,365582,conserved hypothetical protein
+AA00534,NULL,365654,365559,hypothetical protein
+AA00535,NULL,365835,366179,hypothetical protein
+AA00536,NULL,368102,366291,5'-nucleotidase precursor
+AA00537,NULL,368839,368132,conserved hypothetical protein
+AA00538,NULL,369171,369046,hypothetical protein
+AA00539,NULL,369184,370107,ADP-L-glycero-D-manno-heptose-6-epimerase
+AA00540,NULL,370321,370190,hypothetical protein
+AA00541,NULL,370280,371404,conserved hypothetical protein
+AA00543,NULL,371427,372467,ADP-heptose--LPS heptosyltransferase II
+AA00544,NULL,372588,373793,glutathionylspermidine synthetase;amidase
+AA00545,NULL,373747,374475,glutathionylspermidine synthetase;amidase
+AA00546,NULL,375199,374567,cytochrome C-type protein (denitrification system component)
+AA00547,NULL,375662,375216,diheme cytochrome c precursor (periplasmic nitrate reductase)
+AA00549,NULL,376581,375703,ferredoxin-type protein
+AA00550,NULL,377261,376584,ferredoxin-type protein
+AA00551,NULL,377463,377365,hypothetical protein
+AA00552,NULL,379954,377471,periplasmic nitrate reductase precursor
+AA00553,NULL,380272,379991,NapD component of periplasmic nitrate reductase
+AA00555,NULL,380502,380341,hypothetical protein
+AA00557,NULL,380548,382248,nitrate/nitrite sensor protein
+AA00558,NULL,382266,383288,UDP-n-acetylenolpyruvoylglucosamine reductase
+AA00559,NULL,383307,383618,conserved hypothetical protein
+AA00560,NULL,383806,384651,RNA polymerase sigma-32 factor
+AA00561,NULL,385356,384724,DNA transformation protein
+AA00562,NULL,385520,385398,hypothetical protein
+AA00563,NULL,387828,386647,elongation factor Tu
+AA00564,NULL,389994,387895,elongation factor G
+AA00565,NULL,390579,390112,30S ribosomal protein S7
+AA00566,NULL,391070,390735,30S ribosomal protein S12 (streptomycin resistance protein)
+AA00568,NULL,391097,391336,hypothetical protein
+AA00569,NULL,391642,391331,ketol-acid reductoisomerase
+AA00570,NULL,391845,391753,hypothetical protein
+AA00573,NULL,392105,393355,chloramphenicol-sensitive protein RarD
+AA00575,NULL,394153,393356,shikimate 5-dehydrogenase
+AA00576,NULL,394708,394160,conserved hypothetical protein (possible translation factor)
+AA00578,NULL,395261,394716,DNA topoisomerase
+AA00579,NULL,395405,397015,probable DNA recombination protein
+AA00580,NULL,397143,397688,conserved hypothetical protein (possible membrane protein)
+AA00581,NULL,397745,398026,thiosulfate sulfurtransferase (rhodanese)
+AA00582,NULL,398355,398044,conserved hypothetical protein
+AA00583,NULL,398398,399270,GlpG protein
+AA00585,NULL,399335,399838,glycerol-3-phosphate regulon repressor
+AA00586,NULL,399721,400086,glycerol-3-phosphate regulon repressor
+AA00587,NULL,400115,400216,hypothetical protein
+AA00588,NULL,400288,400383,hypothetical protein
+AA00589,NULL,400474,400346,hypothetical protein
+AA00590,NULL,400458,403157,outer membrane substrate binding protein; TonB-dependent outer membrane receptor
+AA00591,NULL,405567,403753,ABC transporter, ATP-binding protein
+AA00592,NULL,405676,407346,conserved hypothetical protein (membrane/transport protein)
+AA00595,NULL,407334,407471,hypothetical protein
+AA00596,NULL,407636,408217,uridylate kinase
+AA00598,NULL,408408,408220,hypothetical protein
+AA00600,NULL,408445,408999,ribosome recycling factor (ribosome releasing factor)
+AA00601,NULL,409003,409179,hypothetical protein
+AA00602,NULL,409217,410311,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AA00603,NULL,410423,411052,undecaprenyl pyrophosphate synthetase (UPPS)
+AA00605,NULL,411070,411936,CDP-diglyceride pyrophosphorylase
+AA00606,NULL,411948,413279,membrane-associated zinc metalloprotease
+AA00608,NULL,413301,415709,protective surface antigen D-15, 85 -kilodalton outermembrane protein
+AA00609,NULL,415815,416387,outer membrane protein
+AA00610,NULL,416390,417409,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acetyltransferase
+AA00611,NULL,417507,417956,(3R)-hydroxymyristoyl-acyl carrier protein dehydrase
+AA00612,NULL,417980,418765,acyl-(acyl-carrier-protein)-UDP-N-acetylglucosamine
+AA00613,NULL,418853,420034,lipid-A-disaccharide synthase
+AA00614,NULL,420030,420626,ribonuclease HII (RNase HII)
+AA00615,NULL,420669,422102,cation transport protein
+AA00616,NULL,422105,423031,phosphatidate cytidylyltransferase
+AA00618,NULL,423124,423702,molybdopterin biosynthesis protein
+AA00619,NULL,424384,424271,hypothetical protein
+AA00620,NULL,425322,425753,hydrolase
+AA00621,NULL,429067,428867,conserved hypothetical protein
+AA00622,NULL,429832,430164,conserved hypothetical protein
+AA00623,NULL,430597,430692,hypothetical protein
+AA00625,NULL,430905,430705,hypothetical protein
+AA00628,NULL,431924,430995,biotin operon repressor; biotin acetyl coenzyme A carboxylase synthetase
+AA00629,NULL,432066,433529,inosine 5' monophosphate dehydrogenase (IMP dehydrogenase)
+AA00631,NULL,433818,433988,hypothetical protein
+AA00632,NULL,434713,434267,inner membrane protein ImpA
+AA00633,NULL,435111,435227,hypothetical protein
+AA00634,NULL,435322,435891,DNA polymerase IV (Pol IV)
+AA00635,NULL,436037,436888,dihydropteroate synthase
+AA00636,NULL,436920,438254,MrsA protein (phosphoglucomutase/phosphomannomutase)
+AA00637,NULL,438309,438734,phosphohistidine phosphatase
+AA00640,NULL,439502,438933,hypothetical protein
+AA00641,NULL,440190,439531,cell division inhibitor
+AA00642,NULL,440274,440522,conserved hypothetical protein
+AA00643,NULL,440754,440572,hypothetical protein
+AA00644,NULL,441431,440925,lipoprotein
+AA00646,NULL,442465,441614,2-dehydro-3-deoxyphosphooctonate aldolase
+AA00647,NULL,443374,442478,protoporphyrinogen oxidase
+AA00649,NULL,444415,443417,peptide chain release factor 1 (RF-1)
+AA00650,NULL,445090,444638,15 kDa peptidoglycan-associated protein
+AA00651,NULL,445719,445135,conserved hypothetical protein
+AA00652,NULL,445858,447546,arginyl-tRNA synthetase (arginine--tRNA ligase)
+AA00653,NULL,447822,447920,hypothetical protein
+AA00654,NULL,449342,447912,conserved hypothetical protein
+AA00655,NULL,449440,449538,hypothetical protein
+AA00657,NULL,449628,451526,heat shock protein 70
+AA00658,NULL,451758,452012,hypothetical protein
+AA00659,NULL,452050,453087,heat shock protein
+AA00660,NULL,453395,453171,hypothetical protein
+AA00661,NULL,454591,453542,outer membrane protein
+AA00662,NULL,455587,454808,cystathionine beta-lyase
+AA00663,NULL,455994,455680,cystathionine beta-lyase
+AA00664,NULL,456250,456804,phosphatidylglycerophosphate synthase (CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase)
+AA00665,NULL,457335,457610,plasmid protein
+AA00666,NULL,457610,457714,hypothetical protein
+AA00667,NULL,458640,458083,cytolethal distending toxin protein C
+AA00668,NULL,459502,458654,cytolethal distending toxin protein B
+AA00669,NULL,460185,459520,cytolethal distending toxin protein A
+AA00670,NULL,460400,460242,hypothetical protein
+AA00671,NULL,460670,460407,virulence plasmid protein
+AA00672,NULL,461098,460757,conserved hypothetical protein (possible ppGpp-regulated growth inhibitor)
+AA00673,NULL,461355,461104,hypothetical protein
+AA00674,NULL,462645,461950,nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+AA00675,NULL,463308,462664,glutaredoxin 2
+AA00679,NULL,464900,463428,cytoplasmic axial filament (Ribonuclease G)
+AA00680,NULL,465039,466556,sodium/proline symporter (proline permease)
+AA00682,NULL,466462,467535,S-adenosylmethionine-dependent methyltransferase
+AA00684,NULL,467626,468921,adenylosuccinate synthase
+AA00686,NULL,469279,468992,hypothetical protein
+AA00688,NULL,470285,469305,curved DNA-binding protein
+AA00689,NULL,470573,472102,GTP-binding protein
+AA00691,NULL,473215,472178,conserved hypothetical protein (possible multidrug/sugar efflux transporter)
+AA00692,NULL,474575,473376,conserved hypothetical protein
+AA00694,NULL,475160,474579,dCTP deaminase (deoxycytidine triphosphate deaminas)
+AA00695,NULL,475820,475173,uridine kinase
+AA00696,NULL,476129,477166,iron(III) ABC transporter, periplasmic iron-compound-binding protein
+AA00697,NULL,477139,477234,hypothetical protein
+AA00698,NULL,477331,478371,iron(III) ABC transporter, periplasmic iron-compound-binding protein
+AA00699,NULL,478402,480456,iron(III) ABC transporter, permease protein
+AA00700,NULL,480475,481518,iron(III) ABC transporter, ATP-binding protein
+AA00702,NULL,481800,483908,conserved hypothetical protein
+AA00705,NULL,484764,483967,Inositol-1-monophosphatase (IMPase); extragenic suppressor
+AA00706,NULL,484852,485652,tRNA/rRNA methyltransferase
+AA00707,NULL,485717,486187,conserved hypothetical protein
+AA00708,NULL,486244,487455,cysteine desulfurase
+AA00709,NULL,487518,487898,metallocluster assembly (NifU protein)
+AA00711,NULL,488033,488353,conserved hypothetical protein
+AA00712,NULL,488368,488886,chaperone protein hscB, heat shock cognate
+AA00713,NULL,488910,490757,chaperone protein hscA, heat shock cognate 66
+AA00715,NULL,490772,491110,[2Fe-2S] ferredoxin
+AA00716,NULL,491113,491304,conserved hypothetical protein
+AA00717,NULL,493501,491444,methionyl-tRNA synthetase
+AA00718,NULL,493674,494783,ABC-related ATP-binding protein; MRP protein
+AA00719,NULL,494889,494767,hypothetical protein
+AA00721,NULL,496021,494879,probable beta-N-acetylhexosaminidase (lacto-N-biosidase); dispersin B
+AA00722,NULL,496582,496160,nucleoside diphosphate kinase
+AA00723,NULL,497901,496597,peptidase B (leucyl aminopeptidase)
+AA00724,NULL,498096,497947,hypothetical protein
+AA00725,NULL,498121,498336,translation initiation factor 1
+AA00726,NULL,499946,498405,apolipoprotein N-acyltransferase, copper
+AA00729,NULL,501237,500344,possible hemolysin (TlyC-like)
+AA00730,NULL,501215,501442,hypothetical protein
+AA00732,NULL,501483,502487,citrate lyase ligase
+AA00733,NULL,502475,502573,hypothetical protein
+AA00734,NULL,502668,502814,citrate lyase, gamma chain (acyl carrier protein)
+AA00735,NULL,502814,503686,citrate lyase, beta chain
+AA00737,NULL,503704,505203,citrate lyase, alpha chain (citrase)
+AA00738,NULL,505316,505227,hypothetical protein
+AA00740,NULL,505400,506809,citrate lyase related biosynthesis protein (2-(5'-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase)
+AA00741,NULL,506799,508136,possible 2-oxoglutarate/malate transporter
+AA00742,NULL,508325,508489,hypothetical protein
+AA00743,NULL,508511,510007,conserved hypothetical protein (possible membrane protein)
+AA00744,NULL,511306,510278,aldose 1-epimerase (mutarotase)
+AA00745,NULL,512454,511303,galactokinase
+AA00747,NULL,513564,512524,UTP--hexose-1-phosphate uridylyltransferase / UDPglucose-hexose-1-phosphate uridylyltransferas
+AA00748,NULL,513886,513758,hypothetical protein
+AA00749,NULL,513921,514826,galactose operon repressor (gal repressor)
+AA00750,NULL,515044,516033,periplasmic D-galactose-binding ABC transport protein
+AA00751,NULL,516111,517646,galactoside ABC transporter, ATP-binding protein
+AA00753,NULL,517668,518675,galactoside ABC transporter, permease protein
+AA00757,NULL,520599,518755,aerobic respiration sensor-response protein
+AA00758,NULL,520625,520756,hypothetical protein
+AA00759,NULL,521960,520743,3-oxoacyl-[acyl-carrier-protein] synthase I
+AA00760,NULL,522130,523875,conserved hypothetical protein (possible peptidase)
+AA00761,NULL,523694,524146,conserved hypothetical protein (possible peptidase)
+AA00762,NULL,524339,525073,hemoglobin binding protein A
+AA00763,NULL,525116,526897,hemoglobin binding protein A
+AA00764,NULL,526988,527407,hemoglobin binding protein A
+AA00766,NULL,528099,527524,heat shock protein B25.3 (HSP-70 cofactor)
+AA00765,NULL,528046,528192,hypothetical protein
+AA00768,NULL,528240,529154,conserved hypothetical protein
+AA00769,NULL,529231,530904,DNA repair protein
+AA00770,NULL,531572,530928,outer membrane protein precursor
+AA00771,NULL,531680,531585,hypothetical protein
+AA00772,NULL,531658,531807,hypothetical protein
+AA00773,NULL,531844,532599,conserved hypothetical protein
+AA00774,NULL,532608,533156,intracellular septation protein
+AA00775,NULL,533163,533630,conserved hypothetical protein (possible acyl CoA thioester hydrolase)
+AA00776,NULL,533636,533929,conserved hypothetical protein
+AA00777,NULL,534459,536672,soluble lytic murein transglycosylase
+AA00778,NULL,536708,537013,trp operon repressor
+AA00780,NULL,536994,537764,monofunctional biosynthetic peptidoglycan transglycosylase
+AA00781,NULL,538278,538027,hypothetical protein
+AA00782,NULL,539180,538863,conserved hypothetical protein
+AA00784,NULL,539371,539165,hypothetical protein
+AA00785,NULL,539732,539361,conserved hypothetical protein (possible integrase)
+AA00786,NULL,540462,540115,possible protein-export membrane protein
+AA00788,NULL,540491,540691,hypothetical protein
+AA00789,NULL,542605,540626,DNA topoisomerase III
+AA00790,NULL,543194,542595,recombination DNA repair protein
+AA00792,NULL,543722,543282,conserved hypothetical protein
+AA00794,NULL,543793,544860,phosphohydrolase
+AA00795,NULL,544933,545823,iron(III) dicitrate-binding periplasmic protein precursor
+AA00796,NULL,545826,546812,iron(III) dicitrate transport system permease protein
+AA00798,NULL,546815,547795,iron(III) dicitrate transport system permease protein
+AA00799,NULL,547798,548562,iron(III) dicitrate transport ATP-binding protein
+AA00801,NULL,549599,548634,lysine--tRNA ligase
+AA00803,NULL,549666,549851,hypothetical protein
+AA00804,NULL,549910,551715,fumarate reductase flavoprotein subunit A
+AA00805,NULL,551723,552490,fumarate reductase iron-sulfur protein
+AA00806,NULL,552505,552894,fumarate reductase 15 kD hydrophobic protein
+AA00807,NULL,552907,553248,fumarate reductase 13 kD hydrophobic protein
+AA00809,NULL,555495,553351,possible oxidoreductase
+AA00810,NULL,555766,556791,alcohol dehydrogenase
+AA00811,NULL,558087,556876,conserved hypothetical protein
+AA00812,NULL,558910,558215,ATPase (PP-loop superfamily), confers aluminum resistance
+AA00813,NULL,559081,558947,hypothetical protein
+AA00814,NULL,559265,559726,conserved hypothetical protein
+AA00815,NULL,559702,560523,conserved hypothetical protein
+AA00816,NULL,561825,561040,lacZ expression regulator
+AA00817,NULL,562535,561915,MutT-family protein
+AA00819,NULL,563461,562784,D-alanyl-D-alanine carboxypeptidase
+AA00820,NULL,564596,563466,succinyl-diaminopimelate desuccinylase
+AA00822,NULL,565077,564736,conserved hypothetical protein (possible arsenate reductase)
+AA00823,NULL,567023,565146,heat shock protein
+AA00824,NULL,567185,567060,hypothetical protein
+AA00825,NULL,568317,567160,P-protein (chorismate mutase/prephenate dehydratase)
+AA00826,NULL,569432,568518,UDP-3-O-acyl-GlcNAc deacetylase
+AA00827,NULL,570753,569473,cell division tubulin-like protein Z
+AA00830,NULL,572117,570840,cell division protein A
+AA00831,NULL,572909,572145,cell division protein Q
+AA00832,NULL,573835,572909,D-alanine-D-alanine ligase B
+AA00833,NULL,575278,573851,UDP-N-acetylmuramate-alanine ligase
+AA00835,NULL,576413,575352,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)
+AA00837,NULL,577644,576457,cell division protein W
+AA00838,NULL,578963,577662,UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AA00839,NULL,579844,578993,UDP-MurNAc-pentapeptide phosphotransferase
+AA00840,NULL,581448,580072,UDP-MurNAc-pentapeptide synthetase
+AA00841,NULL,582921,581458,UDP-MurNAc-tripeptide synthetase
+AA00844,NULL,584603,582942,cell division protein I; penicillin binding protein 2X
+AA00845,NULL,584671,584790,hypothetical protein
+AA00846,NULL,585097,584783,cell division protein L
+AA00847,NULL,586065,585100,S-adenosyl-dependent methyltransferase
+AA00849,NULL,586846,586178,MraZ cell division protein
+AA00851,NULL,588495,586900,carbon starvation protein
+AA00852,NULL,588678,588797,hypothetical protein
+AA00853,NULL,588919,588818,hypothetical protein
+AA00854,NULL,589718,589038,arginine transport system permease protein
+AA00855,NULL,590383,589724,arginine ABC transporter, permease protein
+AA00856,NULL,591107,590391,arginine ABC transporter, periplasmic-binding protein
+AA00858,NULL,591862,591131,arginine ABC transporter, ATP-binding protein
+AA00860,NULL,592587,592006,phosphoheptose isomerase
+AA00861,NULL,596210,592692,transcription repair coupling factor
+AA00862,NULL,596775,596605,conserved hypothetical protein
+AA00863,NULL,598738,596819,conserved hypothetical protein
+AA00864,NULL,599443,598745,conserved hypothetical protein
+AA00865,NULL,600074,599613,conserved hypothetical protein
+AA00866,NULL,600310,600065,conserved hypothetical protein
+AA00867,NULL,600782,601051,fimbrial protein Flp precursor
+AA00868,NULL,601137,601376,possible fimbril subunit
+AA00869,NULL,601395,601820,tight adherence protein V; prepilin peptidase
+AA00870,NULL,601875,602696,rough colony protein C
+AA00871,NULL,602701,604080,rough colony protein A
+AA00872,NULL,604080,604580,rough colony protein B
+AA00873,NULL,604599,605720,Tadz protein
+AA00874,NULL,605737,607014,tight adherence protein A
+AA00875,NULL,607017,607901,tight adherence protein B
+AA00876,NULL,607901,608764,tight adherence protein C
+AA00877,NULL,608757,609515,tight adherence protein D
+AA00878,NULL,609532,610104,tight adherence protein E
+AA00879,NULL,610173,610748,tight adherence protein F
+AA00880,NULL,610768,612336,tight adherence protein G
+AA00881,NULL,613545,613312,hypothetical protein
+AA00882,NULL,613705,613592,hypothetical protein
+AA00883,NULL,614527,614438,hypothetical protein
+AA00884,NULL,616031,614532,sodium-dependent transporter
+AA00885,NULL,616447,616719,ribosomal large subunit pseudouridine synthase c
+AA00886,NULL,616724,616915,hypothetical protein
+AA00887,NULL,617016,616879,hypothetical protein
+AA00889,NULL,616997,617170,conserved hypothetical protein
+AA00890,NULL,618114,617215,conserved hypothetical protein
+AA00892,NULL,620019,618163,selenocysteine-specific elongation factor (SelB translation factor)
+AA00894,NULL,621410,620019,selenium transferase (Cysteinyl-tRNA(Sec) selenium transferase)
+AA00895,NULL,621529,621425,hypothetical protein
+AA00896,NULL,621554,623266,prolyl-tRNA synthetase (proline-tRNA ligase)
+AA00899,NULL,623354,623539,possible quaternary ammonium compound resistance protein
+AA00900,NULL,623582,623833,conserved hypothetical protein
+AA00902,NULL,623969,624541,RNA polymerase sigma-E factor sigma-24
+AA00904,NULL,624583,625164,sigma-E factor negative regulatory factor
+AA00906,NULL,625250,626203,sigma-E factor regulatory protein
+AA00908,NULL,626216,626650,probable sigma-E factor regulatory protein
+AA00909,NULL,626734,627243,molybdopterin-guanine dinucleotide biosynthesis protein B
+AA00910,NULL,627228,627320,hypothetical protein
+AA00912,NULL,627340,628092,short-chain dehydrogenase
+AA00914,NULL,629635,628178,aminoacyl-histidine dipeptidase; Beta-alanyl-histidine dipeptidase
+AA00915,NULL,629750,630211,xanthine-guanine phosphoribosyltransferase
+AA00918,NULL,630184,630315,hypothetical protein
+AA00919,NULL,632737,630308,organic solvent tolerance protein
+AA00920,NULL,633273,632716,DNA-3-methyladenine glycosylase I
+AA00921,NULL,633472,634074,conserved hypothetical protein
+AA00923,NULL,635380,634133,diaminopimelate decarboxylase
+AA00924,NULL,635517,635401,hypothetical protein
+AA00925,NULL,635504,635623,hypothetical protein
+AA00926,NULL,635640,635951,CyaY protein
+AA00927,NULL,635951,637837,ATP-dependent DNA helicase
+AA00929,NULL,637937,640354,DNA gyrase subunit B
+AA00930,NULL,641326,640415,pantothenate kinase
+AA00931,NULL,642060,643241,elongation factor Tu (tufA)
+AA00932,NULL,644255,643317,ribose ABC transporter, periplasmic protein
+AA00933,NULL,644418,645257,ribose ABC transporter, ATP-binding protein
+AA00934,NULL,645441,645902,ribose ABC transporter, ATP binding protein
+AA00935,NULL,645921,646388,ribose ABC transporter, permease protein, N-terminal
+AA00936,NULL,646429,646947,ribose ABC transporter, permease protein, C-terminal
+AA00937,NULL,646956,647585,L-xylulokinase
+AA00938,NULL,647696,648418,L-xylulokinase
+AA00939,NULL,650784,648472,transcription accessory protein (toxin expression)
+AA00940,NULL,651888,651004,probable transcriptional regulator (LysR family)
+AA00941,NULL,651998,653464,symporter transmembrane protein
+AA00942,NULL,653479,654075,related to phosphoglycerate mutase
+AA00943,NULL,654602,654471,conserved hypothetical protein
+AA00944,NULL,654813,655292,transcription elongation factor
+AA00946,NULL,655318,655542,hypothetical protein
+AA00948,NULL,656183,655587,probable ECF-family RNA polymerase sigma factor
+AA00949,NULL,656638,656360,hypothetical protein
+AA00950,NULL,657062,657634,conserved hypothetical protein
+AA00952,NULL,658955,657681,hemY protein homolog
+AA00953,NULL,660353,658971,uroporphyrinogen III methylase
+AA00954,NULL,661130,660387,uroporphyrinogen III synthase
+AA00957,NULL,662003,661146,porphobilinogen deaminase (hydroxymethylbilane synthase)
+AA00958,NULL,662258,664723,adenylate cyclase
+AA00959,NULL,664736,665362,nitrate/nitrite response regulator
+AA00960,NULL,665405,667288,possible outer membrane protein
+AA00961,NULL,667319,671194,conserved hypothetical protein
+AA00962,NULL,671200,672744,exopolyphosphatase (metaphosphatase)
+AA00964,NULL,674428,672815,phosphoenolpyruvate carboxykinase/carboxylase
+AA00965,NULL,674660,674538,hypothetical protein
+AA00967,NULL,674686,675327,conserved hypothetical protein
+AA00969,NULL,675469,676266,conserved hypothetical protein (possible NADH pyrophosphatase)
+AA00970,NULL,676266,677327,uroporphyrinogen decarboxylase (uroporphyrinogen III decarboxylase)
+AA00971,NULL,677348,677935,conserved hypothetical protein
+AA00972,NULL,678105,678374,DNA-binding protein HU-ALPHA
+AA00973,NULL,678503,679297,transcriptional regulator, DeoR family
+AA00974,NULL,679355,681187,glucosamine-fructose-6-phosphate
+AA00976,NULL,682338,681346,conserved hypothetical protein
+AA00977,NULL,682507,683394,transcriptional regulator (LysR family)
+AA00978,NULL,684645,683539,conserved hypothetical protein
+AA00979,NULL,685114,684785,type B carboxylesterase; p-nitrobenzyl esterase
+AA00980,NULL,685469,685110,hypothetical protein
+AA00981,NULL,686437,685385,carboxylesterase
+AA00982,NULL,687643,686666,aldo-keto reductase
+AA00983,NULL,688552,687710,aldo-keto reductase
+AA00985,NULL,688911,689801,transcriptional regulator (LysR family)
+AA00987,NULL,690646,689885,tetracenomycin polyketide synthesis O-methyltransferase
+AA00988,NULL,692324,691038,conserved hypothetical protein
+AA00989,NULL,692704,692459,hypothetical protein
+AA00990,NULL,692699,693325,conserved hypothetical protein
+AA00991,NULL,693331,693801,conserved hypothetical protein
+AA00992,NULL,693801,694628,ribonuclease BN
+AA00993,NULL,694628,695059,possible D-tyrosyl-tRNA(Tyr) deacylase
+AA00994,NULL,695228,696433,sodium/glutamate symport carrier protein (glutamate permease)
+AA00995,NULL,697736,696495,sensory transduction protein for cpxR/basR
+AA00997,NULL,698620,697928,response regulatory protein
+AA00998,NULL,699075,698665,small protein A homolog
+AA01001,NULL,700034,699144,conserved hypothetical protein
+AA01003,NULL,700260,700514,conserved hypothetical protein
+AA01005,NULL,700522,702258,conserved hypothetical protein
+AA01006,NULL,702520,703506,conserved hypothetical protein (possible cytosine deaminas)
+AA01008,NULL,704473,703610,mazG beta-lactamase regulatory protein homolog
+AA01009,NULL,704583,705005,universal stress protein A
+AA01010,NULL,705313,705179,hypothetical protein
+AA01011,NULL,705289,707829,alanyl-tRNA synthetase (alanine--tRNA ligase)
+AA01012,NULL,707955,708134,probable carbon storage regulator homolog
+AA01013,NULL,708169,709530,phosphomannomutase
+AA01014,NULL,709609,710493,UTP-glucose-1-phosphate uridylyltransferase
+AA01015,NULL,710651,710965,met repressor
+AA01017,NULL,711055,711786,conserved hypothetical protein
+AA01018,NULL,711803,712360,conserved hypothetical protein (possible transcriptional regulator)
+AA01019,NULL,712363,712779,conserved hypothetical protein
+AA01020,NULL,714188,712881,enonolase; 2-phosphoglycerate dehydratase
+AA01021,NULL,714336,714211,hypothetical protein
+AA01022,NULL,715977,714829,tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase
+AA01023,NULL,716495,716241,conserved hypothetical protein
+AA01024,NULL,717662,716577,thiamine biosynthesis lipoprotein precursor
+AA01025,NULL,717829,717662,hypothetical protein
+AA01027,NULL,719048,717816,Na(+)-translocating NADH-quinone reductase subunit F
+AA01028,NULL,719656,719063,Na(+)-translocating NADH-quinone reductase subunit E
+AA01029,NULL,720289,719663,Na(+)-translocating NADH-quinone reductase subunit D
+AA01031,NULL,721137,720292,Na(+)-translocating NADH-quinone reductase subunit C
+AA01032,NULL,722302,721070,Na(+)-translocating NADH-quinone reductase subunit B
+AA01033,NULL,723495,722308,Na(+)-translocating NADH-quinone reductase subunit A
+AA01035,NULL,723837,723673,hypothetical protein
+AA01037,NULL,723972,723859,hypothetical protein
+AA01039,NULL,724312,724004,transcriptional regulator (possible murein gene regulator)
+AA01040,NULL,724416,725006,possible lipoprotein
+AA01041,NULL,725115,724993,hypothetical protein
+AA01042,NULL,726589,725513,membrane-bound lytic murein transglycosylase C
+AA01043,NULL,726870,726595,conserved hypothetical protein
+AA01044,NULL,728038,726851,A/G-specific adenine glycosylase
+AA01045,NULL,728204,728968,S-adenosylmethionine-dependent methyltransferase
+AA01046,NULL,729002,729340,conserved hypothetical protein
+AA01048,NULL,729562,730557,iron binding protein afuA, periplasmic protein
+AA01050,NULL,730641,732158,iron(III) ABC transporter, permease protein
+AA01051,NULL,732183,733232,iron (III) ABC transporter, ATP-binding protein
+AA01053,NULL,733807,733259,conserved hypothetical protein
+AA01054,NULL,734000,733818,conserved hypothetical protein
+AA01056,NULL,734228,734007,conserved hypothetical protein
+AA01057,NULL,735107,734235,DnaJ-like protein djlA
+AA01059,NULL,735833,735192,orotate phosphoribosyltransferase
+AA01062,NULL,736559,735846,ribonuclease PH (RNase PH)
+AA01063,NULL,736677,737537,conserved hypothetical protein
+AA01064,NULL,737568,738452,conserved hypothetical protein (possible aminomethyltransferase)
+AA01066,NULL,738520,738960,conserved hypothetical protein
+AA01067,NULL,739038,739757,30S ribosomal protein S2
+AA01068,NULL,739809,739910,hypothetical protein
+AA01069,NULL,739915,740760,translation elongation factor (EF-Ts)
+AA01070,NULL,741060,741743,DNA repair protein
+AA01071,NULL,741847,743061,RNA methyltransferase
+AA01072,NULL,743074,745302,GTP pyrophosphokinase (ppGpp synthetase I) / ATP:GTP3'-pyrophosphotransferase
+AA01074,NULL,745330,745683,diacylglycerol kinase
+AA01075,NULL,745745,746128,hypothetical protein
+AA01076,NULL,746305,746427,hypothetical protein
+AA01077,NULL,746424,746930,transposase
+AA01078,NULL,747513,747013,transcriptional regulator (probable MerR family)
+AA01079,NULL,747801,747544,conserved hypothetical protein
+AA01080,NULL,747819,747944,hypothetical protein
+AA01081,NULL,747944,748249,hypothetical protein
+AA01083,NULL,748271,751030,preprotein translocase SecA subunit
+AA01085,NULL,751110,751511,mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (8-oxo-dGTPase) (dGTP pyrophosphohydrolase)
+AA01086,NULL,751651,751532,hypothetical protein
+AA01087,NULL,753040,752009,DNA polymerase III, delta subunit
+AA01088,NULL,753543,753043,rare lipoprotein B precursor
+AA01089,NULL,753532,753657,hypothetical protein
+AA01090,NULL,756273,753688,leucyl-tRNA synthetase, leucyl-tRNA ligase
+AA01092,NULL,756421,756254,hypothetical protein
+AA01095,NULL,757021,756467,conserved hypothetical protein
+AA01096,NULL,757342,757052,conserved hypothetical protei
+AA01097,NULL,757745,757329,conserved hypothetical protein
+AA01098,NULL,758663,757839,bis(5'-nucleosyl)-tetraphosphatase
+AA01099,NULL,759542,758682,dimethyladenosine transferase
+AA01101,NULL,760552,759623,stationary phase survival protein SurA
+AA01102,NULL,761153,760620,pyrimidine operon regulatory protein
+AA01104,NULL,761702,761295,conserved hypothetical protein
+AA01106,NULL,761815,762423,conserved hypothetical protein
+AA01107,NULL,762450,763814,adenylosuccinate lyase
+AA01108,NULL,763786,764043,hypothetical protein
+AA01109,NULL,764039,764785,oxidoreductase (possible short-chain alcohol dehydrogenase)
+AA01111,NULL,765033,764905,conserved hypothetical protein
+AA01113,NULL,765309,765040,transcriptional regulator (merR family)
+AA01114,NULL,765447,766568,alcohol dehydrogenase, class III; glutathione-dependent formaldehyde dehydrogenase
+AA01115,NULL,766685,767413,carboxylesterase
+AA01116,NULL,767769,767900,hypothetical protein
+AA01117,NULL,769435,768059,signal recognition particle protein 54 (GTP-binding export factor)
+AA01119,NULL,769568,769431,hypothetical protein
+AA01120,NULL,769589,770380,conserved hypothetical protein
+AA01123,NULL,770458,771717,possible hemolysin; membrane protein
+AA01124,NULL,771895,772362,biopolymer transport protein
+AA01125,NULL,772811,772332,hypothetical protein
+AA01127,NULL,772825,773580,energy transducer protein
+AA01128,NULL,774170,774262,hypothetical protein
+AA01129,NULL,774753,774848,hypothetical protein
+AA01130,NULL,774832,775083,conserved hypothetical protein
+AA01131,NULL,775415,775591,conserved hypothetical protein
+AA01132,NULL,775575,775967,possible cell filamentation protein
+AA01133,NULL,777100,776663,conserved hypothetical protein
+AA01134,NULL,777347,777105,conserved hypothetical protein
+AA01135,NULL,777724,777521,possible cell filamentation protein
+AA01136,NULL,778425,778562,hypothetical protein
+AA01137,NULL,778700,781117,anaerobic dimethyl sulfoxide reductase, chain A
+AA01138,NULL,781131,781745,anaerobic dimethyl sulfoxide reductase, chain B
+AA01140,NULL,781750,782586,anaerobic dimethyl sulfoxide reductase, chain C
+AA01141,NULL,782637,783248,conserved hypothetical protein (possible component of anaerobic dehydrogenase/oxidoreductase)
+AA01143,NULL,783595,783251,hypothetical protein
+AA01145,NULL,783618,784520,glycyl-tRNA synthetase alpha subunit
+AA01146,NULL,784573,784830,conserved hypothetical protein
+AA01147,NULL,785000,785287,nucleotidyltransferase
+AA01148,NULL,785381,786082,hypothetical protein
+AA01149,NULL,786167,788245,glycyl-tRNA synthetase beta subunit
+AA01151,NULL,789482,788463,porphobilinogen synthase (delta-aminolevulinic acid dehydratase)
+AA01152,NULL,790265,789504,sec-independent protein translocase protein
+AA01153,NULL,790965,790306,sec-independent protein translocase
+AA01154,NULL,791193,790972,sec-independent protein translocase protein
+AA01155,NULL,791471,791367,hypothetical protein
+AA01156,NULL,792468,791599,chaperonin heat shock protein 33 homolog
+AA01158,NULL,792952,792539,ribosome associated heat shock protein 15 homolog
+AA01159,NULL,793711,792968,phosphatase
+AA01160,NULL,793705,794250,ADP compounds hydrolase
+AA01161,NULL,795139,794261,araC-like transcriptional regulator
+AA01162,NULL,795836,795213,conserved hypothetical protein (possible transmembrane protein)
+AA01164,NULL,796130,798208,conserved hypothetical protein (possible integral membrane protein)
+AA01165,NULL,798273,798698,conserved hypothetical protein
+AA01166,NULL,798739,799545,sulphite synthesis pathway protein
+AA01167,NULL,799571,801127,glucose-6-phosphate 1-dehydrogenase
+AA01168,NULL,801383,802078,6-phosphogluconolactonase
+AA01169,NULL,802125,802289,hypothetical protein
+AA01170,NULL,802604,802699,hypothetical protein
+AA01171,NULL,802951,803640,LysA activator protein
+AA01172,NULL,803656,803907,conserved hypothetical protein
+AA01173,NULL,803990,804445,VapD-homolog
+AA01174,NULL,804983,804840,hypothetical protein
+AA01175,NULL,805004,806455,6-phosphogluconate dehydrogenase
+AA01176,NULL,806577,806449,hypothetical protein
+AA01177,NULL,808113,806872,beta-ketoacyl-ACP synthase IV
+AA01179,NULL,808861,808136,beta-ketoacyl-ACP reductase; short-chain alcohol dehydrogenase
+AA01181,NULL,809354,808914,conserved hypothetical protein
+AA01182,NULL,810570,809350,3-oxoacyl-(acyl-carrier-protein) synthase
+AA01183,NULL,810962,810582,conserved hypothetical protein
+AA01184,NULL,810978,811193,hypothetical protein
+AA01185,NULL,813461,811191,conserved hypothetical protein (possible membrane protein)
+AA01187,NULL,814052,813471,conserved hypothetical protein
+AA01188,NULL,814495,814052,conserved hypothetical protein
+AA01189,NULL,815418,814495,conserved hypothetical protein (possible glycosyl transferase)
+AA01190,NULL,816137,815418,glycosyl transferase (possible dolichol-phosphate mannosyltransferase)
+AA01191,NULL,817498,816140,AMP-binding enzyme
+AA01192,NULL,818037,817498,conserved hypothetical protein (possible membrane protein)
+AA01193,NULL,819732,818068,AMP-binding enzyme
+AA01194,NULL,819983,819735,acyl carrier protein
+AA01195,NULL,820249,819989,acyl carrier protein
+AA01196,NULL,821015,820230,1-acyl-sn-glycerol-3-phosphate acetyltransferase
+AA01197,NULL,821743,821003,conserved hypothetical protein
+AA01198,NULL,822111,821776,hypothetical protein
+AA01199,NULL,822124,822546,conserved hypothetical protein
+AA01201,NULL,823363,822653,phosphatase; hydrolase
+AA01202,NULL,824267,823380,integrase/recombinase
+AA01203,NULL,825101,824280,diaminopimelate epimerase
+AA01204,NULL,825155,825256,hypothetical protein
+AA01206,NULL,826387,825362,phosphoribosylformylglycinamidine cyclo-ligase
+AA01207,NULL,826428,826523,hypothetical protein
+AA01209,NULL,826570,827067,conserved hypothetical protein
+AA01210,NULL,827043,827159,hypothetical protein
+AA01211,NULL,829742,827175,ATP-dependent Clp protease, ATPase subunit
+AA01212,NULL,829754,829873,hypothetical protein
+AA01213,NULL,830007,830585,competence related protein
+AA01215,NULL,831773,830664,aspartate-semialdehyde dehydrogenase
+AA01216,NULL,832769,831960,conserved hypothetical protein
+AA01217,NULL,832796,832915,hypothetical protein
+AA01220,NULL,832915,833598,competence protein F; amidophosphoribosyltransferase
+AA01221,NULL,833718,834299,transformation locus protein orfG homolog
+AA01222,NULL,834446,834351,hypothetical protein
+AA01223,NULL,836214,834802,branched-chain amino acid carrier protein
+AA01224,NULL,836361,837959,CTP synthase
+AA01226,NULL,838206,838571,IS200-like transposase ISAa1
+AA01227,NULL,838759,838905,hypothetical protein
+AA01228,NULL,839037,839348,50S ribosomal protein L14
+AA01229,NULL,839362,839670,50S ribosomal protein L24
+AA01230,NULL,839691,840227,50S ribosomal protein L5
+AA01231,NULL,840243,840545,30S ribosomal protein S14
+AA01232,NULL,840585,840974,30S ribosomal protein S8
+AA01233,NULL,840993,841523,50S ribosomal protein L6
+AA01234,NULL,841540,841890,50S ribosomal protein L18
+AA01235,NULL,841909,842406,30S ribosomal protein S5
+AA01236,NULL,842599,843030,50S ribosomal protein L15
+AA01237,NULL,843037,844359,preprotein translocase
+AA01238,NULL,844388,844498,50S ribosomal protein L36
+AA01239,NULL,844643,844996,30S ribosomal protein S13
+AA01240,NULL,845015,845401,30S ribosomal protein S11
+AA01241,NULL,845434,846051,30S ribosomal protein S4
+AA01242,NULL,846083,847069,DNA-directed RNA polymerase alpha subunit
+AA01243,NULL,847114,847500,50S ribosomal protein L17
+AA01244,NULL,847887,848153,transposase
+AA01245,NULL,849741,848515,tyrosine-specific transport protein 2
+AA01247,NULL,850004,849804,hypothetical protein
+AA01249,NULL,850483,850127,conserved hypothetical protein (possible phosphoesterase)
+AA01250,NULL,851840,850572,nadAB transcriptional regulator
+AA01251,NULL,852054,851965,hypothetical protein
+AA01252,NULL,852342,852163,conserved hypothetical protein (probable SirA homolog)
+AA01253,NULL,852329,852445,hypothetical protein
+AA01254,NULL,852493,852762,conserved hypothetical protein (possible proline dipeptidase)
+AA01255,NULL,852796,852933,hypothetical protein
+AA01256,NULL,852914,853009,hypothetical protein
+AA01258,NULL,853031,854491,TRK system potassium uptake protein
+AA01259,NULL,854494,855003,protoporphyrinogen oxidase
+AA01260,NULL,855818,855690,hypothetical protein
+AA01261,NULL,856583,856783,conserved hypothetical protein
+AA01262,NULL,860147,859716,hydrolase
+AA01263,NULL,860922,861146,hypothetical protein
+AA01264,NULL,862116,862003,conserved hypothetical protein
+AA01265,NULL,862232,862119,hypothetical protein
+AA01266,NULL,862311,862216,hypothetical protein
+AA01267,NULL,862407,862670,degenerate transposase fragment
+AA01268,NULL,862663,863277,transposase
+AA01269,NULL,863473,863312,hypothetical protein
+AA01270,NULL,863457,863957,hydrolase (possible 2-haloalkanoic acid dehalogenase I)
+AA01271,NULL,864041,863934,hypothetical protein
+AA01272,NULL,864271,864179,hypothetical protein
+AA01273,NULL,864502,864648,hypothetical protein
+AA01274,NULL,864659,864892,hypothetical protein
+AA01276,NULL,865904,864870,heptosyltransferase III
+AA01277,NULL,867504,866089,aspartate ammonia-lyase
+AA01278,NULL,867651,867785,hypothetical protein
+AA01279,NULL,867827,868213,phage exclusion-related protein
+AA01280,NULL,868303,868590,groES chaperonin
+AA01284,NULL,868714,870354,heat shock protein (hsp60)
+AA01286,NULL,871303,870449,5,10-methylenetetrahydrofolate dehydrogenase (bifunctional protein)
+AA01287,NULL,872229,871723,transposase
+AA01288,NULL,872348,872226,hypothetical protein
+AA01289,NULL,872908,872525,hypothetical protein
+AA01291,NULL,876061,872969,excinuclease ABC subunit A
+AA01292,NULL,875967,876443,single-stranded DNA binding protein
+AA01294,NULL,877427,876555,DNA adenine methylase
+AA01295,NULL,878497,877412,3-dehydroquinate synthase
+AA01296,NULL,879012,878524,shikimate kinase (shikimic acid kinase I)
+AA01297,NULL,880671,879265,competence protein E precursor
+AA01298,NULL,881083,880694,competence protein D
+AA01299,NULL,881562,881086,competence protein C
+AA01301,NULL,882155,881607,competence protein B
+AA01303,NULL,882942,882136,competence protein A
+AA01304,NULL,883076,885640,penicillin-binding protein 1A
+AA01305,NULL,885738,886580,conserved hypothetical protein
+AA01306,NULL,886678,888045,glutathione reductase
+AA01308,NULL,888792,888184,cyclic AMP receptor protein
+AA01310,NULL,889081,888866,conserved hypothetical protein
+AA01311,NULL,889704,889108,transcriptional regulator
+AA01313,NULL,890159,889707,deoxyuridinetriphosphatase; deoxyuridine 5'-triphosphate nucleotidohydrolase
+AA01314,NULL,890161,890256,hypothetical protein
+AA01315,NULL,891427,890231,DNA/pantothenate metabolism flavoprotein
+AA01316,NULL,891402,891551,hypothetical protein
+AA01317,NULL,891605,891799,probable DNA repair protein
+AA01318,NULL,892473,892222,hypothetical protein
+AA01319,NULL,892592,893461,transcriptional regulatory protein
+AA01320,NULL,893599,893486,hypothetical protein
+AA01321,NULL,893714,894175,DNA repair protein
+AA01323,NULL,894387,894620,50S ribosomal protein L28
+AA01324,NULL,894635,894802,50S ribosomal protein L33
+AA01325,NULL,894887,895699,formamidopyrimidine-DNA glycosylase
+AA01327,NULL,896757,895708,possible LOS biosynthesis enzyme (D-glycero-D-manno-heptosyl transferase)
+AA01329,NULL,897789,896770,LOS biosynthesis enzyme (D-glycero-D-manno-heptosyl transferase)
+AA01330,NULL,898482,897793,LOS biosynthesis enzyme (beta-1,4-galactosyltransferase)
+AA01331,NULL,898781,898548,50S ribosomal protein L31
+AA01332,NULL,899015,899860,galactosyltransferase II
+AA01333,NULL,899872,900873,conserved hypothetical protein; possible capsular polysaccharide synthesis protein
+AA01334,NULL,901746,900886,HtrL protein involved in lipopolysaccharide biosynthesis (ADP-L-glycero-D-mannoheptose-6-epimerase)
+AA01335,NULL,902133,904169,primosomal protein N'
+AA01336,NULL,904196,904375,hypothetical protein
+AA01337,NULL,904375,905091,cell division protein N
+AA01338,NULL,905107,905208,hypothetical protein
+AA01339,NULL,905294,905857,transcriptional regulator, AcrR/TetR family
+AA01340,NULL,905886,907079,possible lipoprotein; possible HlyD family secretion domain protein; possible membrane fusion protein
+AA01341,NULL,907024,910191,acriflavine resistance protein
+AA01342,NULL,910348,911145,conserved hypotheticl protein (possible ribosomal RNA adenine dimethylase)
+AA01344,NULL,911801,912745,magnesium and cobalt transport protein
+AA01345,NULL,912764,913321,conserved hypothetical protein (possible membrane protein)
+AA01347,NULL,913349,913639,conserved hypothetical protein
+AA01348,NULL,913759,913634,hypothetical protein
+AA01349,NULL,913759,914415,NAD(P)H nitroreductase/H-flavin oxidoreductase
+AA01351,NULL,914483,916453,probable sulfatase
+AA01354,NULL,917381,916629,conserved hypothetical protein
+AA01355,NULL,918339,917368,large subunit pseudouridylate synthase D
+AA01356,NULL,918446,919231,lipooligosaccharide galactosyltransferase II (comL related)
+AA01357,NULL,919845,919273,5-formyltetrahydrofolate cyclo-ligase-family protein
+AA01358,NULL,920447,920142,conserved hypothetical protein
+AA01359,NULL,920624,921169,conserved hypothetical protein
+AA01360,NULL,921187,922485,XAA-pro aminopeptidase (X-pro aminopeptidase)
+AA01363,NULL,922797,922645,hypothetical protein
+AA01364,NULL,922801,922926,hypothetical protein
+AA01365,NULL,922983,923228,30S ribosomal protein S16
+AA01366,NULL,923257,923781,16S rRNA processing protein
+AA01367,NULL,923850,924596,tRNA (Guanine-N(1)-)-methyltransferase (M1G-methyltransferase)
+AA01368,NULL,924625,924972,50S ribosomal protein L19
+AA01369,NULL,925573,925088,rod shape-determining protein
+AA01370,NULL,926646,925576,rod shape-determining protein
+AA01371,NULL,927771,926719,rod shape-determining protein
+AA01372,NULL,928021,930423,ribonuclease r, virulence associated protein
+AA01374,NULL,930423,931157,tRNA/rRNA methyltransferase
+AA01375,NULL,931160,931264,hypothetical protein
+AA01376,NULL,931303,931470,hypothetical protein
+AA01378,NULL,931493,932932,glycerol-3-phosphatase transporter
+AA01379,NULL,933169,934248,glycerophosphoryl diester phosphodiesterase (protein D)
+AA01383,NULL,935426,934311,DNA processing chain A
+AA01384,NULL,935600,935460,hypothetical protein
+AA01385,NULL,936095,935649,50S ribosomal protein L9
+AA01386,NULL,936341,936114,30S ribosomal protein S1
+AA01387,NULL,936701,936357,primosomal protein N
+AA01388,NULL,937044,936670,30S ribosomal protein S6
+AA01389,NULL,937096,937218,hypothetical protein
+AA01390,NULL,937819,937199,LexA repressor
+AA01391,NULL,938027,940462,glycerol-3-phosphate acyltransferase
+AA01393,NULL,942089,940509,ABC transporter, ATP-binding protein
+AA01394,NULL,943271,942441,transcriptional regulator (mtr efflux pump)
+AA01395,NULL,943459,943797,conserved hypothetical protein
+AA01396,NULL,944940,943900,saccharide biosynthesis regulatory protein
+AA01398,NULL,945029,945751,KDO kinase
+AA01400,NULL,946301,945819,phosphopantetheine adenylyltransferase
+AA01401,NULL,947585,946305,3-deoxy-D-manno-octulosonic-acid transferase
+AA01402,NULL,947684,948442,beta 1-4 glucosyltransferase
+AA01404,NULL,948718,948894,hypothetical protein
+AA01407,NULL,950311,949145,outer membrane antigenic lipoprotein b precursor
+AA01408,NULL,950519,950331,conserved hypothetical protein
+AA01409,NULL,951109,950537,lipoprotein B
+AA01411,NULL,951877,951140,stationary-phase survival protein
+AA01413,NULL,952920,951913,conserved hypothetical protein
+AA01416,NULL,953396,952920,2C-methyl-D-erythritol 2,4-cyclodiphosphate
+AA01417,NULL,954088,953396,probable 4-diphosphocytidyl-2C-methyl-D-erthyritol synthase (MEP cytidyltransferase) (MCT)
+AA01418,NULL,954366,954091,conserved hypothetical protein
+AA01419,NULL,954518,955189,D-ribulose-phosphate-3 epimerase
+AA01421,NULL,955195,955866,phosphoglycolate phosphatase
+AA01422,NULL,956149,956796,cell division protein E, ABC system ATP-binding protein
+AA01423,NULL,956808,957740,cell division protein X, ABC system permease
+AA01424,NULL,958293,957880,threonine deaminase (dehydratase)
+AA01426,NULL,958715,958347,threonine deaminase (dehydratase)
+AA01428,NULL,959685,958828,acetolactate synthase
+AA01429,NULL,959852,959721,conserved hypothetical protein
+AA01431,NULL,959996,960811,conserved hypothetical protein (possible hydrolase)
+AA01432,NULL,961826,960855,lysophospholipase L2
+AA01434,NULL,963081,961771,conserved hypothetical protein (possible o-antigen ligase)
+AA01436,NULL,964197,963121,fructose-bisphosphate aldolase class II
+AA01437,NULL,965425,964265,phosphoglycerate kinase
+AA01438,NULL,966233,965541,conserved hypothetical protein (possible ribonuclease )
+AA01439,NULL,966301,966558,probable ferredoxin (fdx-2)
+AA01441,NULL,967703,966630,tRNA/rRNA methylase
+AA01442,NULL,967889,969253,phosphatidylserine synthetase
+AA01445,NULL,970167,970039,hypothetical protein
+AA01446,NULL,970386,970291,conserved hypothetical protein
+AA01448,NULL,970348,970452,hypothetical protein
+AA01449,NULL,971629,970709,prophage CP4-57 integrase
+AA01450,NULL,972000,972092,hypothetical protein
+AA01451,NULL,973544,972075,D-xylulokinase
+AA01453,NULL,974913,973597,D-xylose isomerase
+AA01455,NULL,975171,976166,D-xylose ABC transporter, periplasmic-binding protein
+AA01456,NULL,976229,977737,D-xylose ABC transporter, ATP-binding protein
+AA01457,NULL,977744,978868,D-xylose ABC transporter, membrane spanning protein
+AA01458,NULL,978960,980153,aminotransferase
+AA01459,NULL,980143,981552,Na(+)/H(+) antiporter
+AA01460,NULL,981656,981552,hypothetical protein
+AA01462,NULL,981670,982839,xylose operon regulatory protein
+AA01463,NULL,984260,982872,probable transport protein
+AA01464,NULL,984463,984350,hypothetical protein
+AA01465,NULL,984612,985607,mannose-specific phosphotransferase element
+AA01466,NULL,985622,986422,mannose-specific phosphotransferase system IIC
+AA01467,NULL,986441,987274,mannose-specific phosphotransferase system IID
+AA01471,NULL,989062,987461,type I restriction enzyme M (modification chain)
+AA01472,NULL,989036,989218,hypothetical protein
+AA01473,NULL,990292,989165,type I restriction-modification system S (specificity subunit)
+AA01474,NULL,990399,990491,hypothetical protein
+AA01475,NULL,991490,990504,conserved hypothetical protein (possible cytoplasmic protein; DNA binding protein)
+AA01476,NULL,992321,991542,hypothetical protein
+AA01477,NULL,994539,992389,type I restriction enzyme R protein
+AA01478,NULL,994840,994691,hypothetical protein
+AA01479,NULL,994845,995888,spermidine/putrescine-binding periplasmic protein
+AA01480,NULL,996380,995955,ATP synthase F1, epsilon
+AA01482,NULL,997795,996425,ATP synthase F1, subunit beta
+AA01484,NULL,998681,997815,ATP synthase F1, subunit gamma
+AA01486,NULL,1000238,998700,ATP synthase F1, subunit alpha
+AA01487,NULL,1000799,1000254,ATP synthase F1, subunit delta
+AA01488,NULL,1001283,1000816,ATP synthase F0, subunit b
+AA01489,NULL,1001587,1001336,ATP synthase F0, subunit c
+AA01490,NULL,1002429,1001644,ATP synthase F0, subunit a
+AA01491,NULL,1002831,1002457,conserved hypothetical protein
+AA01492,NULL,1003626,1002946,glucose inhibited division protein B
+AA01494,NULL,1003981,1003622,conserved hypothetical protein
+AA01495,NULL,1004232,1004987,probable oxidoreductase
+AA01496,NULL,1007151,1005265,glucose inhibited division protein A
+AA01497,NULL,1008037,1007597,MioC protein
+AA01498,NULL,1008312,1008097,conserved hypothetical protein
+AA01499,NULL,1008497,1009507,fructose 1,6-bisphosphatase protein
+AA01500,NULL,1009951,1009856,hypothetical protein
+AA01501,NULL,1009972,1010100,hypothetical protein
+AA01502,NULL,1010948,1010154,serine acetyltransferase
+AA01503,NULL,1011964,1010954,glycerol-3-phosphate dehydrogenase
+AA01506,NULL,1012554,1012045,protein-export protein
+AA01507,NULL,1013070,1012573,conserved hypothetical protein
+AA01508,NULL,1013338,1014657,anaerobic C4-dicarboxylate transporter
+AA01509,NULL,1014832,1016574,ABC system transport protein, ATP binding/permease
+AA01510,NULL,1016570,1018225,ABC transporter, ATP-binding protein/permease
+AA01511,NULL,1018960,1018343,probable transcriptional regulator
+AA01513,NULL,1019871,1018975,hydrogen peroxide-inducible activator
+AA01514,NULL,1020030,1020755,peroxiredoxin 2 family protein/glutaredoxin
+AA01515,NULL,1021094,1020822,SlyX family protein
+AA01517,NULL,1021129,1021851,peptidyl-prolyl cis-trans isomerase; macrophage infectivity protein
+AA01519,NULL,1021934,1022599,conserved hypothetical protein
+AA01520,NULL,1022947,1022567,hypothetical protein
+AA01522,NULL,1022980,1023339,conserved hypothetical protein
+AA01523,NULL,1023345,1023629,conserved hypothetical protein
+AA01524,NULL,1024404,1023640,amino acid ABC transporter, ATP-binding protein
+AA01525,NULL,1025139,1024417,amino acid ABC transporter, permease component
+AA01526,NULL,1025899,1025123,amino acid ABC transporter, periplasmic amino acid-binding protein
+AA01527,NULL,1025844,1025993,hypothetical protein
+AA01528,NULL,1027320,1026028,probable oxidoreductase
+AA01530,NULL,1028809,1027448,conserved hypothetical protein
+AA01531,NULL,1028937,1028845,hypothetical protein
+AA01532,NULL,1028911,1029006,hypothetical protein
+AA01533,NULL,1029071,1029511,conserved hypothetical protein
+AA01534,NULL,1029517,1030638,conserved hypothetical protein (possible GTP pyrophosphokinase)
+AA01537,NULL,1031667,1030756,possible glucokinase regulatory protein
+AA01538,NULL,1032794,1031667,conserved hypothetical protein
+AA01539,NULL,1032880,1034247,UDP-N-acetylglucosamine pyrophosphorylase (bifunctional enzyme)
+AA01543,NULL,1034315,1034410,hypothetical protein
+AA01544,NULL,1035493,1034405,conserved hypothetical protein
+AA01546,NULL,1036380,1035634,deoxyribose operon repressor
+AA01547,NULL,1037079,1036411,deoxyribose-phosphate aldolase
+AA01549,NULL,1037940,1037584,hypothetical protein
+AA01550,NULL,1038352,1038176,hypothetical protein
+AA01551,NULL,1038330,1038434,hypothetical protein
+AA01552,NULL,1039360,1039133,hypothetical protein
+AA01553,NULL,1042092,1039360,conserved hypothetical protein
+AA01554,NULL,1042815,1042201,conserved hypothetical protein; hypothetical membrane protein
+AA01555,NULL,1042896,1044383,ABC transporter, ATP-binding protein
+AA01556,NULL,1044358,1044819,ABC transporter ATP-binding protein
+AA01557,NULL,1045051,1046025,recombinase A
+AA01559,NULL,1046110,1046565,RecA regulatory protein, RecX
+AA01561,NULL,1046645,1047031,conserved hypothetical protein
+AA01563,NULL,1049103,1047109,transketolase isozyme 1
+AA01564,NULL,1050189,1049239,transaldolase B
+AA01565,NULL,1051027,1050851,conserved hypothetical protein
+AA01566,NULL,1051951,1052151,conserved hypothetical protein
+AA01567,NULL,1055275,1055084,conserved hypothetical protein (possible cell-wall-associated hydrolase)
+AA01568,NULL,1056992,1056177,dipeptide transport system ATP-binding protein
+AA01569,NULL,1058048,1056999,dipeptide transport ATP-binding protein
+AA01571,NULL,1058943,1058059,peptide transport system permease
+AA01572,NULL,1059898,1058936,peptide ABC transporter, permease protein
+AA01573,NULL,1061514,1059901,peptide transport periplasmic protein
+AA01575,NULL,1061804,1063207,conserved hypothetical protein
+AA01577,NULL,1063224,1064300,conserved hypothetical transmembrane protein
+AA01579,NULL,1064387,1065343,transcriptional regulatory protein
+AA01581,NULL,1065578,1065405,possible GTP-binding protein
+AA01582,NULL,1065711,1065565,hypothetical protein
+AA01584,NULL,1066025,1065729,host factor-I protein
+AA01585,NULL,1067133,1066147,tRNA delta(2)-isopentenylpyrophosphate
+AA01586,NULL,1068953,1067106,DNA mismatch repair protein
+AA01588,NULL,1070440,1068956,N-acetylmuramoyl-L-alanine amidase II
+AA01589,NULL,1070931,1070440,conserved hypothetical protein
+AA01590,NULL,1070906,1071031,hypothetical protein
+AA01592,NULL,1072880,1071090,hypothetical protein
+AA01593,NULL,1074188,1073271,glycosyltransferase; rfbJ protein
+AA01594,NULL,1075704,1074199,probable spermidine synthase
+AA01595,NULL,1076308,1075694,conserved hypothetical protein
+AA01596,NULL,1078007,1076340,conserved hypothetical protein; possible membrane protein
+AA01597,NULL,1078996,1078373,oligoribonuclease
+AA01598,NULL,1079094,1080026,conserved hypothetical protein
+AA01599,NULL,1080250,1080504,phosphocarrier protein HPr
+AA01600,NULL,1080621,1082345,phosphotransferase system enzyme I
+AA01601,NULL,1082409,1082906,PTS system, glucose-specific IIA componen
+AA01603,NULL,1085074,1083038,oligopeptidase A
+AA01604,NULL,1085186,1085578,conserved hypothetical protein
+AA01605,NULL,1085714,1085589,hypothetical protein
+AA01607,NULL,1085784,1087172,oligopeptide transporter, periplasmic-binding protein
+AA01608,NULL,1088037,1087453,conserved hypothetical protein
+AA01609,NULL,1088882,1088043,p-aminobenzoate synthase component I homolog
+AA01610,NULL,1089040,1088951,hypothetical protein
+AA01611,NULL,1089116,1089679,anthranilate synthase component II
+AA01614,NULL,1089838,1090779,D-isomer specific 2-hydroxyacid dehydrogenase family protein
+AA01615,NULL,1091326,1092507,lipoprotein releasing system transmembrane
+AA01616,NULL,1092525,1093208,lipoprotein releasing system ATP-binding protein
+AA01618,NULL,1093211,1094458,lipoprotein releasing system transmembrane protein
+AA01619,NULL,1094562,1095638,phospho-2-dehydro-3-deoxyheptonate aldolase (DAHP synthase)
+AA01620,NULL,1095772,1095653,hypothetical protein
+AA01621,NULL,1095787,1097190,replicative DNA helicase
+AA01623,NULL,1097217,1098296,alanine racemase 1
+AA01624,NULL,1098315,1099961,glucose-6-phosphate isomerase
+AA01625,NULL,1100104,1100574,riboflavin synthase, beta chain
+AA01626,NULL,1100584,1101006,N utilization substance protein B
+AA01628,NULL,1101028,1102008,thiamin-monophosphate kinase
+AA01629,NULL,1102021,1102509,phosphatidylglycerophosphatase A
+AA01630,NULL,1102521,1103141,threonine efflux protein
+AA01631,NULL,1103166,1103975,dihydrodipicolinate reductase
+AA01633,NULL,1104393,1104148,probable ferredoxin-like protein
+AA01634,NULL,1104730,1104464,hypothetical protein
+AA01635,NULL,1105882,1104755,ribonucleoside diphosphate reductase, beta chain
+AA01636,NULL,1106740,1106087,conserved hypothetical protein
+AA01637,NULL,1109064,1106797,ribonucleoside diphosphate reductase
+AA01639,NULL,1109413,1109276,hypothetical protein
+AA01640,NULL,1110899,1109370,restriction enzyme type I helicase subunit
+AA01641,NULL,1110959,1111096,hypothetical protein
+AA01642,NULL,1111110,1112135,possible iron(III) ABC transporter
+AA01644,NULL,1112190,1114220,ferric transport system permease protein
+AA01645,NULL,1114156,1115244,ferric transport ABC-related ATP-binding protein
+AA01646,NULL,1115322,1115209,hypothetical protein
+AA01648,NULL,1117358,1115310,alpha-amylase protein; 1,4-alpha-D-glucan glucanohydrolase
+AA01649,NULL,1118343,1117456,maltose ABC transporter, permease protein
+AA01650,NULL,1119909,1118368,maltose transport inner membrane protein
+AA01651,NULL,1120064,1119936,hypothetical protein
+AA01654,NULL,1121223,1120036,periplasmic maltose-binding protein precursor
+AA01655,NULL,1121327,1121446,hypothetical protein
+AA01656,NULL,1121680,1122795,maltose/maltodextrin transport ATP-binding protein
+AA01657,NULL,1122875,1124155,maltose high-affinity receptor
+AA01658,NULL,1124244,1125140,maltose operon periplasmic protein precursor
+AA01660,NULL,1125175,1125342,hypothetical protein
+AA01661,NULL,1126252,1125524,molybdopterin biosynthesis protein
+AA01662,NULL,1127482,1126271,molybdopterin biosynthesis protein
+AA01663,NULL,1127611,1128264,GTP cyclohydrolase I
+AA01666,NULL,1129681,1128371,penicillin-binding protein 4; D-alanyl-D-alanine carboxypeptidase; D-alanyl-D-alanine-endopeptidase
+AA01668,NULL,1129970,1130443,transcription elongation factor
+AA01670,NULL,1130821,1130522,conserved hypothetical protein
+AA01671,NULL,1130989,1131285,conserved hypothetical protein
+AA01672,NULL,1131285,1131578,conserved hypothetical protein
+AA01673,NULL,1132153,1131617,riboflavin synthase, alpha chain
+AA01674,NULL,1132157,1132255,hypothetical protein
+AA01675,NULL,1132255,1133649,probable multidrug resistance protein; multidrug-efflux transporter
+AA01678,NULL,1134435,1133959,possible transcriptional regulator
+AA01679,NULL,1134496,1135296,aspartate-semialdehyde dehydrogenase; PTS system enzyme II A component
+AA01681,NULL,1135299,1135730,molybdate-binding periplasmic protein
+AA01682,NULL,1135708,1136502,molybdate ABC transporter protein
+AA01684,NULL,1136442,1137119,ABC transporter, ATP-binding protein; possible ATP-binding component of sulfate permease A protein
+AA01685,NULL,1137119,1137976,molybdenum ABC transporter, ATP-binding protein
+AA01686,NULL,1138053,1138196,hypothetical protein
+AA01687,NULL,1138183,1139721,TldD protein
+AA01688,NULL,1139775,1145543,conserved hypothetical protein; possible membrane protein
+AA01689,NULL,1145640,1146725,conserved hypothetical protein (possible inner membrane protein)
+AA01690,NULL,1146848,1149202,penicillin-binding protein 1C
+AA01692,NULL,1149989,1149318,hexulose-6-phosphate synthase
+AA01694,NULL,1150527,1150069,PTS system, IIA component
+AA01695,NULL,1152354,1150585,carbohydrate transport protein
+AA01696,NULL,1152702,1153790,conserved hypothetical protein
+AA01698,NULL,1153885,1154631,probable transcriptional regulator (DeoR family)
+AA01700,NULL,1154675,1155532,hexulose-6-phosphate isomerase
+AA01703,NULL,1155529,1156221,L-ribulose-phosphate 4-epimerase
+AA01704,NULL,1157521,1156310,tyrosine-specific transport protein
+AA01705,NULL,1157783,1158040,beta-galactosidase
+AA01708,NULL,1158653,1158276,glutaredoxin
+AA01709,NULL,1158663,1159394,glutathione-S-transferase-nitroreductase A fusion protein; modulator of drug activity A
+AA01710,NULL,1159488,1160318,ribosomal protein S6 modification protein
+AA01711,NULL,1160374,1160562,conserved hypothetical protein
+AA01715,NULL,1161222,1160620,conserved hypothetical protein
+AA01717,NULL,1162720,1161329,fumarate hydratase, class II
+AA01718,NULL,1162930,1163376,DNA polymerase III, chi subunit
+AA01720,NULL,1163418,1163543,conserved hypothetical protein
+AA01721,NULL,1163452,1163577,hypothetical protein
+AA01722,NULL,1163574,1163699,conserved hypothetical protein
+AA01723,NULL,1163909,1164334,conserved hypothetical protein
+AA01724,NULL,1164586,1167282,valyl-tRNA synthetase
+AA01725,NULL,1167352,1168242,hypothetical protein
+AA01726,NULL,1168364,1168245,conserved hypothetical protein (possible HipA-like protein
+AA01727,NULL,1168480,1168367,conserved hypothetical protein (possible HipA protein)
+AA01728,NULL,1168725,1168477,conserved hypothetical protein(related to HipA protein)
+AA01729,NULL,1168725,1169087,hypothetical protein
+AA01731,NULL,1170735,1169290,multidrug resistance protein B
+AA01732,NULL,1171974,1170817,multidrug resistance protein A
+AA01733,NULL,1171917,1172051,hypothetical protein
+AA01734,NULL,1172183,1172662,DNA-binding protein; DPS family protein
+AA01735,NULL,1172774,1172673,hypothetical protein
+AA01737,NULL,1174763,1172787,exoribonuclease II
+AA01738,NULL,1175624,1174839,enoyl-(acyl-carrier-protein) reductase
+AA01739,NULL,1176572,1175718,conserved hypothetical protein
+AA01740,NULL,1177303,1176698,conserved hypothetical protein
+AA01741,NULL,1177755,1177333,6-pyruvoyl tetrahydrobiopterin synthase
+AA01743,NULL,1179411,1177948,lysyl-tRNA synthetase
+AA01744,NULL,1180412,1179513,peptide chain release factor RF-2
+AA01745,NULL,1180692,1180534,conserved hypothetical protein (possible peptide chain release factor 2)
+AA01746,NULL,1180776,1181456,thiol:disulfide interchange protein
+AA01747,NULL,1181499,1183190,single-stranded-DNA-specific exonuclease
+AA01748,NULL,1183202,1183870,thiol:disulfide interchange protein
+AA01750,NULL,1183890,1184579,MTA/SAH nucleosidase [Includes: 5'-methylthioadenosine nucleosidase; S-adenosylhomocysteine nucleosidase]
+AA01751,NULL,1184760,1185452,conserved hypothetical protein
+AA01753,NULL,1185462,1185962,conserved hypothetical protein
+AA01755,NULL,1185965,1186615,cobalt membrane transport protein
+AA01756,NULL,1186615,1187277,cobalt membrane transport protein
+AA01757,NULL,1187277,1187897,cobalt transport ATP-binding protein
+AA01758,NULL,1187979,1188785,hydrogenase isoenzymes nickel incorporation protein
+AA01759,NULL,1188815,1189924,hydrogenase isoenzymes formation protein
+AA01760,NULL,1189927,1190475,hydrogenase isoenzymes formation protein
+AA01762,NULL,1190651,1190526,hypothetical protein
+AA01763,NULL,1190878,1190783,conserved hypothetical protein (possible transcriptional regulatory protein)
+AA01764,NULL,1191758,1191666,hypothetical protein
+AA01765,NULL,1191896,1192696,Mu-like prophage FluMu transposase A
+AA01767,NULL,1192668,1193021,conserved hypothetical protein
+AA01769,NULL,1193088,1193192,hypothetical protein
+AA01770,NULL,1193457,1193251,hypothetical protein
+AA01772,NULL,1195002,1194190,shikimate 5-dehydrogenase protein
+AA01773,NULL,1195017,1195172,hypothetical protein
+AA01774,NULL,1196036,1195155,5,10-methylenetetrahydrofolate reductase
+AA01775,NULL,1196141,1196242,hypothetical protein
+AA01776,NULL,1197278,1196214,conserved hypothetical protein
+AA01777,NULL,1198401,1197286,conserved hypothetical protein
+AA01778,NULL,1198538,1200025,aminopeptidase A/I; cytosol aminopeptidase; leucyl aminopeptidase
+AA01779,NULL,1201234,1200176,molybdenum ABC transporter, ATP-binding protein
+AA01780,NULL,1201994,1201224,ABC-related molybdenum transport system permease protein
+AA01781,NULL,1202792,1202031,molybdenum ABC transporter, periplasmic substrate-binding
+AA01782,NULL,1203019,1203795,molybdenum transport protein; transcriptional regulator
+AA01784,NULL,1203965,1205359,sodium-dependent transporter
+AA01787,NULL,1206025,1205432,conserved hypothetical protein
+AA01789,NULL,1207062,1206037,protease DegS precursor; periplasmic serine endoprotease
+AA01790,NULL,1208195,1207074,riboflavin bifunctional biosynthesis protein
+AA01792,NULL,1208647,1208198,conserved hypothetical protein
+AA01793,NULL,1209921,1208767,conserved hypothetical protein
+AA01794,NULL,1210750,1209848,glycine cleavage system transcription activator
+AA01796,NULL,1211212,1212228,branched-chain amino acid aminotransferase
+AA01798,NULL,1212210,1212395,hypothetical protein
+AA01799,NULL,1212599,1213336,polysacharide biosynthesis protein (Orf14 of cluster)
+AA01800,NULL,1213351,1213518,hypothetical protein
+AA01801,NULL,1214430,1213498,malate dehydrogenase
+AA01802,NULL,1214661,1214572,hypothetical protein
+AA01803,NULL,1214686,1215150,arginine repressor
+AA01804,NULL,1215177,1216061,sugar nucleotide epimerase; cell division inhibitor
+AA01805,NULL,1216255,1216833,electron transport complex protein
+AA01807,NULL,1216836,1217423,electron transport complex protein
+AA01808,NULL,1217427,1219376,electron transport complex protein
+AA01810,NULL,1219390,1220466,electron transport complex protein
+AA01811,NULL,1220476,1221093,electron transport complex protein
+AA01813,NULL,1221089,1221871,electron transport complex protein
+AA01814,NULL,1222021,1222653,endonuclease III
+AA01815,NULL,1222681,1224045,probable sodium-dependent transmembrane transport protein
+AA01816,NULL,1224096,1224194,hypothetical protein
+AA01817,NULL,1224365,1224460,hypothetical protein
+AA01818,NULL,1225138,1224446,high-affinity zinc uptake system membrane protein
+AA01820,NULL,1226013,1225243,high-affinity zinc uptake system ATP-binding protein
+AA01822,NULL,1226202,1227731,lysostaphin precursor
+AA01823,NULL,1227807,1227703,hypothetical protein
+AA01824,NULL,1228600,1227845,iron(III) ABC transporter, ATP-binding protein
+AA01825,NULL,1229553,1228615,iron(III) ABC transporter, permease protein
+AA01826,NULL,1230508,1229546,iron(III) ABC transporter, permease protein
+AA01827,NULL,1231467,1230571,iron(III) ABC transporter, periplasmic binding protein
+AA01829,NULL,1231722,1231543,hypothetical protein
+AA01830,NULL,1231696,1233669,2,3-cyclic-nucleotide 2-phosphodiesterase
+AA01832,NULL,1234663,1233749,formate dehydrogenase formation protein E
+AA01834,NULL,1234992,1234780,hypothetical protein
+AA01835,NULL,1235036,1235449,conserved hypothetical protein
+AA01837,NULL,1235590,1236456,transcriptional regulatory protein
+AA01838,NULL,1236536,1237003,conserved hypothetical protein
+AA01839,NULL,1237010,1237351,conserved hypothetical protein (possible transcriptional regulator)
+AA01840,NULL,1237614,1237228,conserved hypothetical protein
+AA01841,NULL,1237654,1237923,conserved hypothetical protein
+AA01842,NULL,1238411,1238527,conserved hypothetical protein
+AA01843,NULL,1238517,1239890,sensor protein; probable two-component system sensor histidine kinase
+AA01845,NULL,1241747,1239981,gamma-glutamyltranspeptidase precursor
+AA01846,NULL,1242225,1241983,conserved hypothetical protein
+AA01848,NULL,1243752,1242418,argininosuccinate synthetase
+AA01850,NULL,1244674,1243850,conserved hypothetical protein; possible enzyme of sugar metabolism
+AA01851,NULL,1245009,1244863,hypothetical protein
+AA01852,NULL,1245031,1246611,peptide chain release factor 3
+AA01853,NULL,1246705,1246598,hypothetical protein
+AA01854,NULL,1246802,1247149,conserved hypothetical protein
+AA01855,NULL,1247149,1247445,transcriptional regulator, Cro/CI family
+AA01857,NULL,1250417,1247487,glutamate-ammonia-ligase adenylyltransferase
+AA01858,NULL,1250839,1251597,conserved hypothetical protein
+AA01859,NULL,1251858,1251950,hypothetical protein
+AA01861,NULL,1251946,1252167,phosphomethylpyrimidine kinase
+AA01863,NULL,1252151,1252315,hypothetical protein
+AA01865,NULL,1252368,1253369,thiamin ABC transporter, periplasmic-binding protein
+AA01866,NULL,1253453,1255006,thiamin ABC transporter, permease protein
+AA01867,NULL,1254993,1255637,thiamine transport ATP-binding protein
+AA01868,NULL,1255685,1256686,biotin synthetase
+AA01869,NULL,1258169,1256790,periplasmic serine protease do; hhoA-like precursor; heat shock protein
+AA01871,NULL,1258770,1258363,conserved hypothetical protein
+AA01872,NULL,1260704,1258944,conserved hypothetical protein
+AA01873,NULL,1262000,1260798,mannose-6-phosphate isomerase
+AA01874,NULL,1262176,1262511,conserved hypothetical protein
+AA01875,NULL,1262703,1263566,PTS system, glucose-specific enzyme II, A component
+AA01876,NULL,1263505,1264191,PTS system, IIBC components
+AA01877,NULL,1264950,1264255,conserved hypothetical protein
+AA01878,NULL,1264971,1265669,hydroxyacylglutathione hydrolase
+AA01879,NULL,1265857,1267158,glutamyl-tRNA reductase
+AA01880,NULL,1267223,1268443,N-acetylglucosamine repressor
+AA01881,NULL,1269825,1269184,adenylate kinase
+AA01883,NULL,1271247,1269961,recycling protein; permease
+AA01885,NULL,1271595,1271257,hydrogenase nickel incorporation protein
+AA01886,NULL,1272617,1271604,UDP-glucose-4-epimerase
+AA01887,NULL,1272811,1273194,conserved hypothetical protein (possible cytochrome
+AA01888,NULL,1273197,1273346,hypothetical protein
+AA01889,NULL,1273322,1274650,conserved hypothetical protein (possible permease)
+AA01890,NULL,1276027,1274684,cell-cycle protein
+AA01891,NULL,1276844,1276062,pyridoxine kinase
+AA01892,NULL,1276956,1276828,hypothetical protein
+AA01893,NULL,1277932,1276982,acetyl-coenzyme-A carboxylase subunit A
+AA01894,NULL,1279107,1279517,conserved hypothetical protein (possible  transthyretin-like periplasmic protein)
+AA01895,NULL,1279714,1280661,hypothetical protein
+AA01896,NULL,1281101,1281223,hypothetical protein
+AA01897,NULL,1281344,1281168,conserved hypothetical protein
+AA01899,NULL,1281704,1281393,conserved hypothetical protein
+AA01900,NULL,1282373,1282642,hypothetical protein
+AA01901,NULL,1282733,1282930,hypothetical protein
+AA01902,NULL,1283676,1283137,conserved hypothetical protein
+AA01903,NULL,1284275,1284123,hypothetical protein
+AA01904,NULL,1284588,1285109,hypothetical protein
+AA01905,NULL,1286351,1285446,hypothetical protein
+AA01906,NULL,1287107,1286445,repressor protein CI
+AA01908,NULL,1287208,1287444,conserved hypothetical protein
+AA01909,NULL,1287474,1287806,hypothetical protein
+AA01911,NULL,1287931,1288344,hypothetical protein
+AA01913,NULL,1290231,1288675,GMP synthase
+AA01914,NULL,1290529,1290266,conserved hypothetical protein
+AA01915,NULL,1290813,1290544,possible negative regulator of translation
+AA01917,NULL,1291056,1290856,hypothetical protein
+AA01918,NULL,1292420,1291071,anaerobic C4-dicarboxylate transporter
+AA01919,NULL,1292859,1293311,conserved hypothetical protein
+AA01920,NULL,1293338,1294831,N utilization substance protein A
+AA01922,NULL,1294850,1297339,translation initiation factor IF2
+AA01923,NULL,1297627,1299996,type III restriction-modification system methylation subunit
+AA01925,NULL,1300101,1301060,conserved hypothetical protein
+AA01927,NULL,1301068,1302051,conserved hypothetical protein
+AA01928,NULL,1302126,1304747,ATP-dependent RNA helicase
+AA01930,NULL,1304852,1305235,ribosome-binding factor A
+AA01932,NULL,1305238,1306152,tRNA pseudouridine synthase B
+AA01933,NULL,1306349,1306200,hypothetical protein
+AA01934,NULL,1307053,1306445,conserved hypothetical protein
+AA01936,NULL,1308367,1307183,tyrosyl-tRNA synthetase
+AA01937,NULL,1309394,1308618,sugar fermentation stimulation protein
+AA01938,NULL,1309633,1311165,NAD(P) transhydrogenase subunit alpha
+AA01939,NULL,1311179,1312600,NAD(P) transhydrogenase subunit beta
+AA01941,NULL,1312620,1312769,hypothetical protein
+AA01942,NULL,1312861,1313013,hypothetical protein
+AA01943,NULL,1313148,1312990,conserved hypothetical protein
+AA01944,NULL,1313616,1314461,conserved hypothetical protein
+AA01945,NULL,1315006,1316082,selenophosphate synthase
+AA01947,NULL,1316530,1317390,iron(III)-transport ATP-binding protein
+AA01948,NULL,1317390,1318256,ABC transporter permease, membrane spanning protein
+AA01950,NULL,1318256,1319104,ABC transporter, membrane spanning protein
+AA01952,NULL,1319127,1320215,ABC transporter, substrate binding protein
+AA01953,NULL,1320409,1320272,hypothetical protein
+AA01954,NULL,1322374,1320608,excinuclease ABC, subunit C
+AA01956,NULL,1323346,1322576,3-deoxy-manno-octulosonate cytidylyltransferase
+AA01957,NULL,1323527,1323351,conserved hypothetical protein
+AA01959,NULL,1324523,1323552,tetraacyldisaccharide 4'-kinase
+AA01961,NULL,1326290,1324545,lipid A export ATP-binding/permease protein msbA
+AA01962,NULL,1328766,1326340,recombination protein rec2
+AA01963,NULL,1329064,1329498,dnaK suppressor protein
+AA01965,NULL,1329618,1331081,poly(A) polymerase
+AA01966,NULL,1331077,1331574,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+AA01967,NULL,1331794,1331651,hypothetical protein
+AA01968,NULL,1332009,1331878,hypothetical protein
+AA01969,NULL,1332225,1332109,hypothetical protein
+AA01972,NULL,1334491,1332359,phosphotransacetylase
+AA01973,NULL,1335793,1334564,acetate kinase
+AA01974,NULL,1336031,1336471,conserved hypothetical protein
+AA01976,NULL,1336653,1337192,colicin V production protein
+AA01978,NULL,1337317,1337195,hypothetical protein
+AA01981,NULL,1339414,1337342,4-alpha-glucanotransferase
+AA01982,NULL,1341914,1339527,maltodextrin phosphorylase
+AA01983,NULL,1342087,1344798,maltose regulon positive regulatory protein
+AA01984,NULL,1345814,1344957,tellurite resistance protein; hemagglutinin homolog
+AA01985,NULL,1346207,1348861,pyruvate dehydrogenase, E1 component
+AA01986,NULL,1348893,1350560,pyruvate dehydrogenase complex E2
+AA01987,NULL,1350680,1350555,hypothetical protein
+AA01988,NULL,1350657,1352078,dihydrolipoamide dehydrogenase; lipoamide dehydrogenase
+AA01989,NULL,1352179,1352301,hypothetical protein
+AA01991,NULL,1353063,1352512,conserved hypothetical protein (possible nitroreductase)
+AA01992,NULL,1353169,1355064,protease IV; signal peptide peptidase; Endopeptidase IV
+AA01994,NULL,1355099,1355311,chorismate mutase; prephenate dehydrogenase
+AA01995,NULL,1355260,1355454,conserved hypothetical protein (possible chorismate mutase)
+AA01996,NULL,1355454,1356227,prephenate dehydrogenase
+AA01997,NULL,1356304,1356924,probable translation factor
+AA01998,NULL,1356982,1357947,16S rRNA pseudouridine synthase
+AA01999,NULL,1357981,1358949,cys regulon transcriptional activator; cysteine synthase
+AA02000,NULL,1359037,1359861,2,3,4,5-tetrahydropyridine-2-carboxylate
+AA02001,NULL,1360299,1359982,conserved hypothetical protein
+AA02002,NULL,1360467,1360336,hypothetical protein
+AA02003,NULL,1361768,1360773,purine nucleotide synthesis repressor protein
+AA02004,NULL,1363177,1362077,homoserine O-acetyltransferase
+AA02005,NULL,1363283,1364080,vancomycin sensitivity; SanA protein
+AA02006,NULL,1365053,1364070,PEP--fructosephosphotransferase system repressor, DeoR family
+AA02007,NULL,1365888,1366142,hypothetical protein
+AA02008,NULL,1366534,1366184,conserved hypothetical protein
+AA02010,NULL,1367799,1367320,peptide methionine sulfoxide reductase; cytochrome C-TYPE biogenesis protein; transcriptional regulator
+AA02011,NULL,1368455,1367817,cytochrome C-type biogenesis protein
+AA02012,NULL,1369529,1368462,peptide methionine sulfoxide reductase
+AA02013,NULL,1369745,1370434,carbonic anhydrase
+AA02014,NULL,1371037,1370546,probable hemolysin
+AA02015,NULL,1371780,1371199,phosphoheptose isomerase
+AA02017,NULL,1372152,1371796,conserved hypothetical protein
+AA02018,NULL,1373880,1372165,LppC precursor; possible acid phosphatase
+AA02019,NULL,1373985,1373899,hypothetical protein
+AA02020,NULL,1374008,1374802,conserved hypothetical protein (possible tetrapyrrole methylase family protein)
+AA02021,NULL,1375075,1376661,anaerobic glycerol-3-phosphate dehydrogenase
+AA02022,NULL,1376814,1376722,hypothetical protein
+AA02023,NULL,1376841,1378175,NADH dehydrogenase
+AA02024,NULL,1378799,1378284,acyl carrier protein phosphodiesterase
+AA02025,NULL,1378911,1378807,hypothetical protein
+AA02026,NULL,1379064,1380119,probable serine proteinase
+AA02027,NULL,1380234,1381133,lipoprotein; hemagglutinin antigen
+AA02028,NULL,1382070,1381198,conserved hypothetical protein
+AA02029,NULL,1382275,1382090,hypothetical protein
+AA02030,NULL,1382311,1384239,threonyl-tRNA synthetase
+AA02031,NULL,1384478,1385215,type III site-specific deoxyribonuclease
+AA02032,NULL,1385220,1385354,hypothetical protein
+AA02034,NULL,1386114,1385338,ferredoxin NADP+ reductase
+AA02035,NULL,1386489,1386965,translation initiation factor IF-3
+AA02037,NULL,1387112,1386972,hypothetical protein
+AA02038,NULL,1387192,1387386,50S ribosomal protein L35
+AA02039,NULL,1387443,1387793,50S ribosomal protein L20
+AA02040,NULL,1388276,1388494,hypothetical protein (possible transposase fragment)
+AA02041,NULL,1389299,1389183,hypothetical protein
+AA02042,NULL,1389390,1390337,tagatose 1,6-diphosphate aldolase
+AA02043,NULL,1390358,1391647,tagatose 6-phosphate kinase
+AA02044,NULL,1391628,1392074,phosphotransferase system enzyme II, galactitol specific, protein A
+AA02045,NULL,1392096,1392377,PTS system, galactitol-specific IIB component
+AA02046,NULL,1392386,1393747,PTS system galactitol-specific enzyme IIC
+AA02047,NULL,1393773,1394813,galactitol-1-phosphate 5-dehydrogenase
+AA02048,NULL,1394884,1395639,galactitol utilization operon repressor
+AA02049,NULL,1395666,1395755,hypothetical protein
+AA02050,NULL,1397612,1395765,1-deoxy-D-xylulose 5-phosphate synthase
+AA02051,NULL,1398587,1397700,geranylgeranyl pyrophosphate synthase; farnesyl-diphosphate synthase
+AA02052,NULL,1398969,1398601,probable exodeoxyribonuclease VII small subunit
+AA02053,NULL,1399068,1399961,acetyl-CoA carboxylase carboxyltransferase, beta
+AA02056,NULL,1399987,1401330,tetrahydrofolylpolyglutamate synthase (FPGS)
+AA02057,NULL,1402031,1401393,phosphoglycerate mutase
+AA02060,NULL,1403550,1402096,cardiolipin synthase
+AA02062,NULL,1404472,1403567,conserved hypothetical protein (probable membrane protein)
+AA02063,NULL,1404591,1405277,23S rRNA psedouridine synthase, Rlu family protein
+AA02066,NULL,1405374,1405255,hypothetical protein
+AA02067,NULL,1405373,1406185,conserved hypothetical protein; possible membrane protein
+AA02069,NULL,1406271,1406591,alkylphosphonate uptake protein
+AA02070,NULL,1407544,1406648,hypothetical protein
+AA02071,NULL,1408341,1407613,conserved hypothetical protein
+AA02072,NULL,1408741,1409163,conserved hypothetical protein
+AA02074,NULL,1409716,1409480,hypothetical protein
+AA02075,NULL,1409794,1410039,conserved hypothetical protein
+AA02076,NULL,1410066,1411154,conserved hypothetical protein
+AA02077,NULL,1412768,1411434,toxin and drug export protein, TolC family
+AA02078,NULL,1412752,1412853,hypothetical protein
+AA02080,NULL,1414854,1412884,ABC transporter, ATP-binding/permease
+AA02081,NULL,1416019,1414838,periplasmic protein
+AA02082,NULL,1416241,1417908,glutaminyl-tRNA synthetase
+AA02084,NULL,1417983,1418414,conserved hypothetical protein
+AA02086,NULL,1418517,1419074,4-alpha-glucanotransferase
+AA02087,NULL,1419074,1421266,1,4-alpha-glucan branching enzyme
+AA02088,NULL,1421422,1422153,glycogen operon protein
+AA02089,NULL,1422190,1423272,glycogen operon protein
+AA02090,NULL,1423302,1424609,glucose-1-phosphate adenylyltransferase
+AA02091,NULL,1424581,1424727,hypothetical protein
+AA02092,NULL,1424814,1426250,glycogen synthase
+AA02094,NULL,1426376,1428838,glycogen phosphorylase; glycogen synthase
+AA02096,NULL,1428894,1429016,hypothetical protein
+AA02097,NULL,1429565,1428963,DedA-family integral membrane protein
+AA02099,NULL,1429779,1430063,50S ribosomal protein L25
+AA02100,NULL,1430214,1430819,lipoprotein
+AA02101,NULL,1430970,1431248,penicillin-binding protein 7
+AA02103,NULL,1431245,1431844,D-alanyl-D-alanine-endopeptidase; penicillin-binding protein 7
+AA02105,NULL,1432025,1433350,killing protein
+AA02106,NULL,1433381,1433515,hypothetical protein
+AA02108,NULL,1433533,1436703,2-acylglycerophosphoethanolamine acyltransferase; acyl-acyl carrier protein synthetase
+AA02109,NULL,1436703,1436993,2-acylglycerophosphoethanolamine acyltransferase; acyl-acyl carrier protein synthetase
+AA02111,NULL,1437017,1437754,killing protein suppressor
+AA02112,NULL,1437757,1442244,cell division protein
+AA02113,NULL,1442323,1443174,conserved hypothetical protein
+AA02114,NULL,1443197,1444630,exodeoxyribonuclease I
+AA02115,NULL,1444668,1445051,hypothetical protein
+AA02116,NULL,1445228,1445350,hypothetical protein
+AA02117,NULL,1445347,1445853,probable transposase
+AA02118,NULL,1445999,1445883,hypothetical protein
+AA02119,NULL,1446512,1446640,hypothetical protein
+AA02120,NULL,1447321,1447803,nonheme ferritin
+AA02121,NULL,1447822,1448316,nonheme ferritin
+AA02123,NULL,1448551,1448384,hypothetical protein
+AA02124,NULL,1448660,1449430,anaerobic regulatory protein; transcription regulator Fnr
+AA02125,NULL,1449552,1450481,conserved hypothetical protein; possible universal stress protein
+AA02126,NULL,1450611,1451444,conserved hypothetical protein
+AA02128,NULL,1454138,1451535,DNA topoisomerase I
+AA02130,NULL,1454173,1454361,hypothetical protein
+AA02131,NULL,1455212,1454379,conserved hypothetical protein (possible TrpH protein)
+AA02132,NULL,1456245,1455229,dihydroorotate dehydrogenase
+AA02134,NULL,1458927,1456321,aminopeptidase N
+AA02135,NULL,1459026,1459127,hypothetical protein
+AA02136,NULL,1459349,1460536,aspartate aminotransferase
+AA02137,NULL,1461153,1460593,transcriptional regulators (TetR/AcrR family)
+AA02139,NULL,1461301,1462278,possible membrane protein
+AA02140,NULL,1462284,1465025,ABC transporter ATP-binding protein
+AA02141,NULL,1465030,1466154,ABC transporter, permease protein
+AA02142,NULL,1466177,1467592,outer membrane protein OprM precursor
+AA02143,NULL,1467573,1467701,hypothetical protein
+AA02144,NULL,1467723,1468739,iron (III) ABC transporter, permease protein
+AA02146,NULL,1468968,1469537,iron(III) ABC transporter, ATP-binding protein
+AA02148,NULL,1469702,1469577,hypothetical protein
+AA02147,NULL,1469808,1469677,hypothetical protein
+AA02149,NULL,1470702,1470058,possible transposase
+AA02150,NULL,1470833,1471045,conserved hypothetical protein
+AA02151,NULL,1471826,1470996,ferric enterobactin receptor; TonB-dependent outer membrane siderophore receptor protein
+AA02152,NULL,1472670,1471924,ferric enterobactin transport; ABC transporter ATP-binding protein
+AA02153,NULL,1473680,1472670,iron(III) ABC transporter, permease protein
+AA02154,NULL,1474681,1473683,possible ATP-binding protein of ABC transporter
+AA02156,NULL,1474721,1475386,conserved hypothetical protein
+AA02157,NULL,1475391,1476365,TonB-dependent outer membrane receptor
+AA02158,NULL,1476295,1477377,TonB-dependent outer membrane receptor
+AA02159,NULL,1477886,1477473,conserved hypothetical protein
+AA02160,NULL,1477934,1478989,conserved hypothetical protein
+AA02162,NULL,1479575,1479090,lipoprotein
+AA02163,NULL,1479923,1479630,integration host factor alpha-subunit
+AA02164,NULL,1482317,1479930,phenylalanyl-tRNA synthetase, beta chain
+AA02166,NULL,1483326,1482340,phenylalanyl-tRNA synthetase, alpha subunit
+AA02167,NULL,1483534,1483427,hypothetical protein
+AA02168,NULL,1484541,1483669,possible protease; heat shock protein
+AA02169,NULL,1484578,1484724,hypothetical protein
+AA02171,NULL,1485224,1486156,polysialic acid capsule expression protein
+AA02172,NULL,1486159,1486710,conserved hypothetical protein
+AA02173,NULL,1486881,1488425,anthranilate synthase component I
+AA02175,NULL,1488439,1489026,anthranilate synthase component II
+AA02177,NULL,1489103,1489492,conserved hypothetical protein
+AA02179,NULL,1489507,1490505,anthanilate phosphoribosyltransferase
+AA02180,NULL,1490603,1490878,conserved hypothetical protein
+AA02181,NULL,1490891,1491166,possible proteic killer active protein
+AA02182,NULL,1491178,1491927,tryptophan biosynthesis protein trpCF
+AA02184,NULL,1491945,1492601,anthranilate isomerase; indole-3-glycerol phosphate synthase; phosphoribosylanthranilate isomerase
+AA02187,NULL,1492743,1492907,hypothetical protein
+AA02188,NULL,1492925,1493026,hypothetical protein
+AA02190,NULL,1493059,1493331,hydrogenase-2 component protein
+AA02191,NULL,1493832,1493458,hypothetical protein
+AA02193,NULL,1494359,1494622,oxaloacetate decarboxylase gamma chain
+AA02195,NULL,1494641,1496434,oxaloacetate decarboxylase alpha chain
+AA02196,NULL,1496448,1497752,oxaloacetate decarboxylase beta chain
+AA02199,NULL,1497767,1497961,hypothetical protein
+AA02201,NULL,1499325,1498162,transferrin-binding protein 1 precursor
+AA02202,NULL,1500603,1499593,transferrin-binding protein 1 precursor
+AA02204,NULL,1501322,1501113,hypothetical protein
+AA02205,NULL,1501310,1502044,short chain dehydrogenase/reductase
+AA02206,NULL,1502057,1503247,tryptophan synthase, beta chain
+AA02208,NULL,1503253,1504056,tryptophan synthase,  alpha subunit
+AA02210,NULL,1504334,1506016,ribonucleoside-diphosphate reductase alpha chain
+AA02212,NULL,1506152,1507138,ribonucleoside-diphosphate reductase beta chain
+AA02213,NULL,1507225,1507136,hypothetical protein
+AA02214,NULL,1507388,1508830,pyruvate kinase II
+AA02215,NULL,1509239,1508940,conserved hypothetical protein
+AA02217,NULL,1509895,1509275,deoxyribose-phosphate aldolase
+AA02218,NULL,1510146,1509898,deoxyribose-phosphate aldolase (fragment?)
+AA02219,NULL,1511267,1510173,LACI-type transcriptional regulator
+AA02220,NULL,1512296,1511295,ABC transport system permease protein
+AA02222,NULL,1512429,1512313,conserved hypothetical protein
+AA02224,NULL,1513342,1512422,ABC transport system permease protein
+AA02225,NULL,1514652,1513342,ABC transporter ATP-binding protein
+AA02226,NULL,1514866,1514642,ABC transporter ATP-binding protein
+AA02228,NULL,1515121,1516071,regulatory protein, sorC family
+AA02230,NULL,1516124,1517677,sugar kinase
+AA02231,NULL,1518515,1517790,probable dethiobiotin synthetase 1
+AA02232,NULL,1519821,1518595,NagC-like transcriptional regulator
+AA02233,NULL,1520017,1521417,asparaginyl-tRNA synthetase
+AA02234,NULL,1521582,1521481,hypothetical protein
+AA02235,NULL,1522044,1521586,stringent starvation protein B
+AA02236,NULL,1522697,1522059,stringent starvation protein A
+AA02237,NULL,1523352,1522900,molybdopterin biosynthesis protein E chain
+AA02239,NULL,1523601,1523356,molybdopterin biosynthesis protein D
+AA02241,NULL,1524122,1523604,molybdenum cofactor biosynthesis protein C
+AA02242,NULL,1525148,1524138,molybdenum cofactor biosynthesis protein A
+AA02243,NULL,1525506,1526471,conserved hypothetical protein
+AA02244,NULL,1527435,1526542,conserved hypothetical protein (probable DNA-binding protein; death-on-curing family protein0
+AA02245,NULL,1527681,1527586,hypothetical protein
+AA02246,NULL,1527714,1528415,peptidase E
+AA02249,NULL,1529959,1528505,thiamine biosynthesis protein
+AA02250,NULL,1530265,1531362,possible cytochrome c-type protein
+AA02251,NULL,1531426,1533903,biotin sulfoxide reductase; Trimethylamine-N-oxide reductase precursor
+AA02252,NULL,1534756,1533980,conserved hypothetical protein
+AA02253,NULL,1534745,1534846,hypothetical protein
+AA02254,NULL,1534986,1536440,2-oxoglutarate/malate translocator
+AA02257,NULL,1536658,1536909,conserved hypothetical protein
+AA02259,NULL,1537006,1537188,possible RelE-like protein
+AA02260,NULL,1538022,1537207,pseudouridylate synthase I
+AA02261,NULL,1538542,1538153,30S ribosomal protein S9
+AA02262,NULL,1538987,1538562,50S ribosomal protein L13
+AA02263,NULL,1539825,1539232,conserved hypothetical protein
+AA02265,NULL,1541817,1539841,exodeoxyribonuclease V, alpha chain
+AA02266,NULL,1545482,1541820,exodeoxyribonuclease V beta chain
+AA02267,NULL,1545936,1545556,conserved hypothetical protein
+AA02268,NULL,1546033,1545932,hypothetical protein
+AA02269,NULL,1546864,1546337,3-hydroxydecanoyl-(acyl-carrier protein) dehydratase
+AA02270,NULL,1548728,1547010,endopeptidase La; lon protease; protease La homolog; ATP-dependent protease LA (lon-1)
+AA02271,NULL,1548763,1548861,hypothetical protein
+AA02272,NULL,1548938,1549381,conserved hypothetical protein
+AA02273,NULL,1549659,1549453,cold shock-like protein
+AA02274,NULL,1549841,1549752,hypothetical protein
+AA02275,NULL,1550015,1549869,conserved hypothetical protein
+AA02276,NULL,1550782,1550072,pseudouridine synthase Rlu family
+AA02278,NULL,1551093,1550782,conserved hypothetical protein
+AA02279,NULL,1551188,1551979,conserved hypothetical protein
+AA02280,NULL,1551991,1552827,conserved hypothetical protein
+AA02281,NULL,1553534,1552983,phosphoglycerate transport system activator protein
+AA02282,NULL,1553904,1553497,phosphoglycerate transport system transcriptional regulatory protein
+AA02283,NULL,1554122,1553922,possible phosphoglycerate transport system activator protein
+AA02284,NULL,1556097,1554118,phosphoglycerate transport; protein for signal transmission
+AA02285,NULL,1557344,1556097,phosphoglycerate transport regulatory protein
+AA02286,NULL,1557718,1558596,sugar ABC transporter, ATP-binding protein
+AA02288,NULL,1559263,1558730,conserved hypothetical protein
+AA02289,NULL,1561279,1559363,cell division protein H, a metalloprotease
+AA02290,NULL,1562048,1561422,cell division protein J; ribosomal RNA large subunit methyltransferase J
+AA02291,NULL,1563007,1562186,formyltetrahydrofolate deformylase
+AA02292,NULL,1563457,1563062,DNA-binding protein H-NS
+AA02293,NULL,1563671,1563769,hypothetical protein
+AA02294,NULL,1563898,1565427,conserved hypothetical protein
+AA02297,NULL,1569960,1569760,conserved hypothetical protein
+AA02298,NULL,1570728,1571060,conserved hypothetical protein
+AA02300,NULL,1572312,1571488,glutamate racemase
+AA02301,NULL,1572855,1572346,chorismate lyase
+AA02303,NULL,1574914,1572836,ATP-dependent DNA helicase
+AA02305,NULL,1577038,1574918,guanosine-3',5'-bis(diphosphate)3'- pyrophosphohydrolase
+AA02306,NULL,1577350,1577087,DNA-directed RNA polymerase, omega chain
+AA02307,NULL,1578118,1577411,5'-guanylate kinase
+AA02309,NULL,1578288,1579289,glyceraldehyde 3-phosphate dehydrogenase
+AA02310,NULL,1579802,1579389,conserved hypothetical protein
+AA02312,NULL,1579815,1580300,conserved hypothetical protein
+AA02313,NULL,1580296,1580586,conserved hypothetical protein
+AA02315,NULL,1580622,1581812,conserved hypothetical protein
+AA02316,NULL,1581822,1583153,exodeoxyribonuclease VII large subunit
+AA02317,NULL,1583947,1583165,conserved hypothetical protein
+AA02319,NULL,1584565,1584047,nitrogen regulatory IIA protein
+AA02320,NULL,1585294,1584572,ABC transporter ATP-binding protein
+AA02321,NULL,1585818,1585303,conserved hypothetical protein
+AA02323,NULL,1586383,1585802,conserved hypothetical protein
+AA02324,NULL,1586658,1587452,ABC transporter ATP binding protein
+AA02325,NULL,1587449,1588231,membrane protein; possible ABC transporter, permease
+AA02326,NULL,1588257,1588763,conserved hypothetical protein; possible ABC transporter
+AA02327,NULL,1588795,1589433,possible ABC-type transport system
+AA02328,NULL,1589440,1589796,anti-sigma factor B antagonist
+AA02329,NULL,1589799,1590053,conserved hypothetical protein
+AA02330,NULL,1590073,1591341,UDP-N-acetylglucosamine enolpyruvyl transferase
+AA02331,NULL,1592095,1593039,ABC transporter, ATP-binding protein; possible leukotoxin secretion ATP-binding protein
+AA02332,NULL,1594452,1593391,conserved hypothetical protein; possible glycosyltransferase
+AA02333,NULL,1595244,1594957,conserved hypothetical protein
+AA02334,NULL,1595447,1596874,outer membrane protein P1
+AA02335,NULL,1596954,1597490,6-O-methylguanine-DNA methyltransferase
+AA02337,NULL,1597490,1598155,DNA mismatch repair protein
+AA02338,NULL,1598223,1598945,conserved hypothetical protein; possible integral membrane protein
+AA02340,NULL,1599027,1599401,hypothetical protein
+AA02341,NULL,1599586,1599708,hypothetical protein
+AA02343,NULL,1601719,1600313,glutamine synthetase
+AA02344,NULL,1602106,1603956,GTP-binding protein, elongation factor typA/bipA
+AA02346,NULL,1604069,1603959,hypothetical protein
+AA02347,NULL,1604107,1606842,immunoglobulin A1 protease precursor
+AA02348,NULL,1607373,1606912,bacterioferritin comigratory protein
+AA02349,NULL,1607531,1608421,dihydrodipicolinate synthetase
+AA02350,NULL,1608538,1609239,possible lipoprotein
+AA02351,NULL,1609373,1609528,conserved hypothetical protein
+AA02352,NULL,1609708,1611174,glycine betaine/carnitine/choline ABC transporter
+AA02353,NULL,1611492,1612325,spermidine / putrescine transport ATP-binding
+AA02354,NULL,1613068,1612376,conserved hypothetical protein
+AA02355,NULL,1614473,1613064,nicotinamide phosphoribosyl transferase
+AA02356,NULL,1614588,1614716,hypothetical protein
+AA02357,NULL,1614808,1617252,bifunctional protein: aspartokinase I; homoserine dehydrogenaseI
+AA02358,NULL,1617268,1618209,homoserine kinase
+AA02359,NULL,1618240,1618677,hypothetical protein
+AA02360,NULL,1618736,1620007,threonine synthase
+AA02362,NULL,1620045,1620785,conserved hypothetical protein
+AA02363,NULL,1620884,1622134,hflK protein
+AA02365,NULL,1622137,1623021,hflC protein
+AA02366,NULL,1623312,1623160,hypothetical protein
+AA02367,NULL,1623314,1623640,conserved hypothetical protein
+AA02368,NULL,1623684,1624346,conserved hypothetical protein
+AA02369,NULL,1624388,1624708,conserved hypothetical protein
+AA02371,NULL,1624720,1625877,oxygen-independent coproporphyrinogen III oxidase
+AA02374,NULL,1625979,1626632,ribose 5-phosphate isomerase A
+AA02375,NULL,1626654,1627802,D-3-phosphoglycerate dehydrogenase
+AA02378,NULL,1628021,1627893,hypothetical protein
+AA02379,NULL,1628094,1628183,hypothetical protein
+AA02380,NULL,1628197,1629240,iron chelatin ABC transporter,periplasmic-binding protein
+AA02381,NULL,1629970,1629332,4-hydroxy-2-oxoglutarate aldolase
+AA02382,NULL,1631382,1629982,glucuronate/uronate isomerase
+AA02383,NULL,1632237,1631395,oxidoreductase
+AA02384,NULL,1633193,1632252,2-dehydro-3-deoxygluconokinase
+AA02385,NULL,1634240,1633251,dicarboxylate-binding periplasmic protein
+AA02386,NULL,1634686,1634790,hypothetical protein
+AA02387,NULL,1634953,1636251,integral membrane transport protein
+AA02388,NULL,1636278,1638650,alpha-glucosidase
+AA02389,NULL,1638668,1639420,transcriptional repressor for uxu operon
+AA02390,NULL,1639443,1640624,mannonate dehydratase
+AA02391,NULL,1640665,1641219,hypothetical protein
+AA02392,NULL,1641652,1642539,permease
+AA02393,NULL,1644322,1642571,conserved hypothetical protein; possible sulfate transporter
+AA02395,NULL,1644753,1647167,ATP-dependent proteinase
+AA02397,NULL,1649082,1647235,RNA polymerase sigma factor sigma-70
+AA02398,NULL,1650915,1649161,DNA primase
+AA02399,NULL,1651252,1651040,30S ribosomal protein S21
+AA02400,NULL,1651287,1651451,hypothetical protein
+AA02402,NULL,1651477,1652502,O-sialoglycoprotein endopeptidase
+AA02404,NULL,1652518,1652796,hypothetical protein
+AA02407,NULL,1652806,1653300,thymidine kinase
+AA02409,NULL,1655464,1653455,DNA ligase
+AA02410,NULL,1656603,1655569,cell division protein
+AA02411,NULL,1656743,1657564,cysteine synthetase
+AA02412,NULL,1657668,1658612,cysteine synthetase
+AA02414,NULL,1658981,1658838,hypothetical protein
+AA02416,NULL,1659638,1659060,conserved hypothetical protein
+AA02417,NULL,1661038,1659950,GTP-binding protein
+AA02418,NULL,1661871,1661230,peptidyl-tRNA hydrolase
+AA02419,NULL,1661871,1662014,hypothetical protein
+AA02420,NULL,1662210,1662728,ISRSO11 related transposase
+AA02421,NULL,1667360,1667184,conserved hypothetical protein
+AA02422,NULL,1668154,1668486,conserved hypothetical protein
+AA02423,NULL,1670312,1669242,undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+AA02425,NULL,1670441,1671721,glutamate-1-semialdehyde aminotransferase
+AA02426,NULL,1674286,1671803,uridylyltransferase
+AA02427,NULL,1674456,1674325,hypothetical protein
+AA02429,NULL,1675257,1674460,methionine aminopeptidase
+AA02430,NULL,1675391,1675729,conserved hypothetical protein
+AA02431,NULL,1675734,1675946,conserved hypothetical protein
+AA02432,NULL,1675995,1678385,penicillin-binding protein 1B
+AA02433,NULL,1678440,1678535,hypothetical protein
+AA02434,NULL,1678687,1680591,membrane protein
+AA02436,NULL,1680637,1681155,periplasmic protein
+AA02437,NULL,1681297,1682724,integral membrane protein
+AA02438,NULL,1682730,1684052,membrane protein; possible ABC transporter permease protein
+AA02439,NULL,1684042,1685178,integral membrane protein; possible ABC transporter permease
+AA02440,NULL,1685183,1685851,ABC transporter, ATP-binding protein
+AA02442,NULL,1685844,1686332,thioredoxin-family protein
+AA02444,NULL,1686695,1686315,hypothetical protein
+AA02446,NULL,1686981,1687643,conserved hypothetical protein
+AA02449,NULL,1687715,1687888,hypothetical protein
+AA02450,NULL,1688284,1687841,conserved hypothetical protein
+AA02451,NULL,1688986,1688297,conserved hypothetical protein
+AA02453,NULL,1690394,1689087,conserved hypothetical protein
+AA02454,NULL,1694493,1690447,ATP-dependent helicase
+AA02455,NULL,1694879,1694493,conserved hypothetical protein
+AA02456,NULL,1695482,1694883,conserved hypothetical protein
+AA02457,NULL,1695834,1695460,conserved hypothetical protein
+AA02458,NULL,1697168,1696131,outer membrane protein 34
+AA02459,NULL,1697608,1700703,conserved hypothetical protein
+AA02460,NULL,1700716,1701135,conserved hypothetical protein
+AA02461,NULL,1701131,1702192,ferrochelatase
+AA02462,NULL,1702236,1702733,thiol peroxidase (scavengase)
+AA02463,NULL,1704023,1702944,N-acetylglucosamine-6-phosphate deacetylase
+AA02464,NULL,1704050,1704154,hypothetical protein
+AA02465,NULL,1704945,1704145,glucosamine-6-phosphate isomerase
+AA02466,NULL,1705978,1705103,N-acetylneuraminate lyase
+AA02468,NULL,1706857,1705991,conserved hypothetical protein
+AA02470,NULL,1707754,1706870,glucose kinase
+AA02472,NULL,1708469,1707771,conserved hypothetical protein
+AA02473,NULL,1708711,1709694,conserved hypothetical protein
+AA02474,NULL,1709761,1711608,transmembrane protein
+AA02475,NULL,1711620,1711718,hypothetical protein
+AA02476,NULL,1711750,1712877,conserved hypothetical protein
+AA02477,NULL,1713129,1713431,PTS system, N-acetylglucosamine-permease IIABC component
+AA02478,NULL,1713459,1714592,PTS system, N-acetylglucosamine-specific enzyme IIABC
+AA02479,NULL,1716341,1715274,outer membrane protein 34
+AA02480,NULL,1718502,1716571,excinuclease ABC subunit B
+AA02481,NULL,1720163,1719225,conserved hypothetical protein
+AA02482,NULL,1720900,1720271,conserved hypothetical protein
+AA02483,NULL,1721121,1720954,hypothetical protein
+AA02484,NULL,1721217,1722980,ABC transporter, ATP-binding protein
+AA02485,NULL,1723974,1723090,outer membrane protein 100
+AA02486,NULL,1724477,1726372,topoisomerase IV, subunit B
+AA02487,NULL,1726578,1726417,hypothetical protein
+AA02489,NULL,1726689,1726594,hypothetical protein
+AA02490,NULL,1726750,1726956,hypothetical protein
+AA02491,NULL,1726967,1729219,topoisomerase IV, subunit A
+AA02492,NULL,1729506,1730114,glutathione S-transferase
+AA02493,NULL,1730887,1730171,conserved hypothetical protein
+AA02494,NULL,1731600,1730887,conserved hypothetical protein
+AA02495,NULL,1731702,1732052,conserved hypothetical protein
+AA02496,NULL,1732969,1732100,hypothetical protein
+AA02498,NULL,1733648,1732965,hypothetical protein
+AA02499,NULL,1734604,1733654,dolichol phosphate mannose
+AA02500,NULL,1735638,1734751,conserved hypothetical protein
+AA02501,NULL,1737686,1735644,DNA polymerase III, subunits gamma and tau
+AA02502,NULL,1738330,1737722,adenine phosphoribosyltransferase
+AA02504,NULL,1739308,1738355,lipid A biosynthesis (kdo)2-(lauroyl)-lipid IVA acyltransferase
+AA02506,NULL,1740191,1739427,possible transmembrane protein
+AA02507,NULL,1741067,1740198,penicillin-insensitive murein endopeptidase A
+AA02509,NULL,1742162,1741092,chorismate synthase
+AA02511,NULL,1745507,1742187,transmembrane protein
+AA02512,NULL,1746931,1745519,O-succinylbenzoate--CoA ligase
+AA02513,NULL,1747554,1746940,seqA protein
+AA02514,NULL,1747641,1748438,esterase/lipase
+AA02515,NULL,1748861,1749382,flavodoxin
+AA02516,NULL,1749404,1749841,ferric uptake regulation protein
+AA02518,NULL,1749847,1750008,hypothetical protein
+AA02519,NULL,1750012,1752672,DNA gyrase A
+AA02521,NULL,1752743,1753090,conserved hypothetical protein
+AA02523,NULL,1753444,1753130,conserved hypothetical protein
+AA02524,NULL,1754142,1753453,orotidine 5'-phosphate decarboxylase
+AA02525,NULL,1755362,1754175,conserved hypothetical protein
+AA02526,NULL,1755658,1755365,conserved hypothetical protein
+AA02527,NULL,1756044,1755760,integration host factor,beta-subunit
+AA02528,NULL,1757752,1756109,30S ribosomal protein S1
+AA02529,NULL,1758527,1757853,cytidylate kinase 1
+AA02531,NULL,1759401,1758523,conserved hypothetical protein
+AA02532,NULL,1759706,1762069,conserved hypothetical protein
+AA02533,NULL,1762150,1764042,zinc protease; peptidase
+AA02534,NULL,1764052,1764921,zinc protease
+AA02536,NULL,1765323,1764994,conserved hypothetical protein
+AA02538,NULL,1766052,1765327,conserved hypothetical protein
+AA02539,NULL,1766989,1766060,transcriptional activator
+AA02540,NULL,1767289,1769559,5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase
+AA02541,NULL,1772704,1769996,conserved hypothetical protein
+AA02543,NULL,1773494,1772841,conserved hypothetical protein
+AA02544,NULL,1774005,1773457,ATP-dependent RNA helicase
+AA02545,NULL,1774281,1774105,conserved hypothetical protein
+AA02546,NULL,1774678,1774821,hypothetical protein
+AA02547,NULL,1774835,1775494,transmembrane protein
+AA02548,NULL,1775517,1775909,desulfoviridin gamma subunit
+AA02549,NULL,1776010,1776888,iron (chelated) ABC transporter, periplasmic-binding protein
+AA02550,NULL,1776891,1777778,iron (chelated) ABC transporter, ATP-binding protein
+AA02551,NULL,1777781,1778635,iron (chelated) ABC transporter, permease protein
+AA02552,NULL,1778635,1779480,iron (chelated) ABC transporter, permease protein
+AA02553,NULL,1779730,1779461,acylphosphatase
+AA02554,NULL,1779875,1780546,conserved hypothetical protein
+AA02556,NULL,1780612,1781067,methylglyoxal synthase
+AA02558,NULL,1781070,1781540,conserved hypothetical protein
+AA02560,NULL,1781552,1783690,integral membrane protein
+AA02561,NULL,1784196,1783693,conserved hypothetical protein
+AA02562,NULL,1784259,1785206,adenine specific methylase
+AA02563,NULL,1786320,1785379,transketolase C-terminal section
+AA02565,NULL,1787135,1786506,transketolase, N-terminal subunit
+AA02566,NULL,1788239,1787148,PTS system, IIC component
+AA02567,NULL,1788499,1788365,hypothetical protein (possible inner membrane protein)
+AA02568,NULL,1788785,1788519,sugar phosphotransferase component II B
+AA02569,NULL,1789152,1789244,hypothetical protein
+AA02570,NULL,1790285,1789290,conserved hypothetical protein
+AA02573,NULL,1792489,1790549,ABC transporter, ATP-binding protein
+AA02574,NULL,1793884,1792535,dGTP triphosphohydrolase
+AA02575,NULL,1794578,1793889,transmembrane protein
+AA02576,NULL,1794988,1794581,conserved hypothetical protein
+AA02577,NULL,1795407,1795904,nuclease
+AA02579,NULL,1795913,1797106,aminotransferase nifS protein
+AA02581,NULL,1797106,1797483,conserved hypothetical protein
+AA02584,NULL,1798789,1797533,ADP-heptose synthase
+AA02585,NULL,1799153,1798938,hypothetical protein
+AA02586,NULL,1799347,1800006,lipid A biosynthesis lauroyl acyltransferase
+AA02587,NULL,1800630,1800070,conserved hypothetical protein
+AA02589,NULL,1801241,1800633,NAD(P)H oxidoreductase
+AA02590,NULL,1801702,1801253,conserved hypothetical protein
+AA02591,NULL,1802646,1801723,conserved hypothetical protein (possible membrane protein)
+AA02592,NULL,1803989,1803171,conserved hypothetical protein
+AA02593,NULL,1804198,1804686,conserved hypothetical protein (exported protein)
+AA02594,NULL,1805184,1804765,conserved hypothetical protein
+AA02595,NULL,1805881,1807170,cytochrome c peroxidase
+AA02597,NULL,1808418,1807264,ribonuclease D
+AA02598,NULL,1810177,1808504,long-chain-fatty-acid-CoA ligase
+AA02599,NULL,1810777,1810223,outer membrane protein, Slp family
+AA02600,NULL,1811531,1810812,conserved hypothetical protein
+AA02601,NULL,1813369,1811537,ATP-dependent helicase
+AA02602,NULL,1813547,1814362,conserved hypothetical protein
+AA02603,NULL,1814775,1815629,possible thioredoxin trxA homolog
+AA02604,NULL,1815692,1816642,thioredoxin reductase
+AA02605,NULL,1816695,1816820,hypothetical protein
+AA02606,NULL,1816865,1818511,ABC transporter, ATP-binding protein/permease
+AA02609,NULL,1818586,1820244,ABC transporter, ATP-binding protein/permease
+AA02610,NULL,1820511,1821374,acyl-CoA thioesterase II
+AA02611,NULL,1821654,1821529,hypothetical protein
+AA02613,NULL,1822391,1821654,conserved hypothetical protein
+AA02614,NULL,1823092,1822460,conserved hypothetical protein
+AA02615,NULL,1823180,1823761,conserved hypothetical protein
+AA02616,NULL,1824735,1823824,transcriptional regulator
+AA02618,NULL,1825547,1824789,phosphatidylglycerophosphatase B
+AA02619,NULL,1825603,1826253,GTP cyclohydrolase II
+AA02620,NULL,1826535,1827272,orf14; possible membrane protein
+AA02621,NULL,1827348,1827244,hypothetical protein
+AA02623,NULL,1828039,1827440,dTDP-D-glucose 4,6-dehydratase
+AA02626,NULL,1829262,1828471,conserved hypothetical protein
+AA02628,NULL,1830065,1829265,exodeoxyribonuclease III
+AA02629,NULL,1830334,1830212,hypothetical protein
+AA02630,NULL,1830436,1830534,hypothetical protein
+AA02631,NULL,1832024,1830609,undecaprenyl-phosphate galactosephosphotransferase homolog
+AA02632,NULL,1832754,1831990,rhamnosyltransferase
+AA02634,NULL,1833822,1832956,rhamnosyltransferase; glycosyltransferase homolog 2
+AA02635,NULL,1834195,1833818,conserved hypothetical protein
+AA02636,NULL,1834899,1834198,glycosyl transferase
+AA02637,NULL,1836619,1835282,conserved hypothetical protein (possible membrane protein)
+AA02638,NULL,1837298,1836609,conserved hypothetical protein (possible reductase)
+AA02639,NULL,1838526,1837273,conserved hypothetical protein
+AA02640,NULL,1839497,1838529,rhamnosyltrasferase
+AA02642,NULL,1840120,1839497,ABC transporter, ATP-binding protein
+AA02643,NULL,1841025,1840237,ABC transporter, membrane spanning permease
+AA02644,NULL,1841598,1841062,dTDP-4-keto-6-deoxy-D-glucose-3,5-epimerase
+AA02645,NULL,1842479,1841604,dTDP-4-rhamnose reductase
+AA02646,NULL,1843379,1842483,D-glucose-1-phosphate thymidylyltransferase
+AA02647,NULL,1844497,1843433,dTDP-D-glucose-4,6-dehydratase
+AA02648,NULL,1845697,1844570,lytic transglycosylase
+AA02649,NULL,1846484,1845702,possible glycosyltransferase
+AA02651,NULL,1847458,1846580,glycosyltransferase
+AA02652,NULL,1848651,1847461,conserved hypothetical protein
+AA02654,NULL,1849307,1848663,probable lipopolysaccharide biosynthesis protein
+AA02655,NULL,1849495,1851087,conserved hypothetical protein
+AA02656,NULL,1851087,1852040,possible polysaccharide polymerization protein
+AA02657,NULL,1852152,1852400,conserved hypothetical protein
+AA02658,NULL,1852400,1852651,conserved hypothetical protein
+AA02659,NULL,1852667,1853407,conserved hypothetical protein
+AA02662,NULL,1853423,1853656,hypothetical protein
+AA02663,NULL,1853704,1854411,DNA ligase
+AA02666,NULL,1856643,1854550,DNA helicase II
+AA02667,NULL,1856749,1856874,hypothetical protein
+AA02668,NULL,1858181,1856898,gluconate permease
+AA02670,NULL,1858189,1858323,hypothetical protein
+AA02671,NULL,1858462,1858977,gluconokinase
+AA02673,NULL,1860048,1859053,gluconate utilization operon repressor
+AA02674,NULL,1860792,1860100,formate dehydrogenase-related protein
+AA02675,NULL,1861151,1861759,formate dehydrogenase alpha subunit
+AA02676,NULL,1861811,1864237,formate dehydrogenase alpha subunit
+AA02677,NULL,1864242,1865165,formate dehydrogenase, beta subunit
+AA02678,NULL,1865161,1865583,formate dehydrogenase, gamma subunit
+AA02679,NULL,1865620,1865871,formate dehydrogenase, gamma subunit
+AA02681,NULL,1865889,1866011,hypothetical protein
+AA02682,NULL,1868726,1866444,hydrogenase maturation protein
+AA02683,NULL,1869022,1869618,hydrogenase 4 Fe-S subunit
+AA02684,NULL,1869654,1871672,hydrogenase 4 membrane subunit
+AA02686,NULL,1871686,1872645,hydrogenase 4 component C
+AA02687,NULL,1872661,1874103,hydrogenase-4 component D
+AA02688,NULL,1874117,1874752,hydrogenase 4 component E
+AA02689,NULL,1874760,1876295,hydrogenase-4 component F
+AA02691,NULL,1876277,1876375,hypothetical protein
+AA02692,NULL,1876464,1878044,hydrogenase 4 subunit; hydrogenase 3 subunit
+AA02693,NULL,1878061,1878705,hydrogenase-4 component H
+AA02695,NULL,1878705,1879478,hydrogenase-3 component G
+AA02696,NULL,1879616,1880017,formate hydrogenlyase maturation protein
+AA02697,NULL,1880010,1880468,hydrogenase 3 maturation protease
+AA02698,NULL,1881000,1881485,formate dehydrogenase H, selenopolypeptide subunit
+AA02699,NULL,1881537,1883219,formate dehydrogenase H, selenopolypeptide subunit
+AA02700,NULL,1884265,1883396,succinyl-CoA synthase, alpha subunit
+AA02702,NULL,1885445,1884279,succinyl-CoA synthetase, beta chain
+AA02703,NULL,1885642,1885505,hypothetical protein
+AA02704,NULL,1886855,1885635,dihydrolipoamide succinyltransferase
+AA02705,NULL,1886857,1886988,hypothetical protein
+AA02706,NULL,1889787,1886983,2-oxoglutarate dehydrogenase E1 component (decarboxylase component)
+AA02707,NULL,1889779,1889991,hypothetical protein
+AA02708,NULL,1890701,1890066,probable glyoxalase II family protein
+AA02710,NULL,1891339,1890782,conserved hypothetical protein
+AA02711,NULL,1892912,1891407,conserved hypothetical protein
+AA02712,NULL,1895047,1892993,tail specific protease precursor
+AA02713,NULL,1895729,1895124,possible prop effector homolog
+AA02714,NULL,1895947,1897227,paraquat-inducible protein PqiA homolog
+AA02715,NULL,1897193,1899847,paraquat-inducible protein pqiB homolog
+AA02716,NULL,1901170,1899929,peptidase T
+AA02717,NULL,1901259,1901372,hypothetical protein
+AA02718,NULL,1901434,1902549,spermidine/putrescine ABC transporter, ATP-binding protein
+AA02719,NULL,1902536,1903393,ABC-related spermidine/putrescine transport system permease
+AA02720,NULL,1903396,1904166,ABC-related spermidine/putrescine transport system permease
+AA02721,NULL,1904261,1905394,spermidine/putrescine ABC transporter, periplasmic-binding protein
+AA02722,NULL,1905519,1906412,cytidine deaminase
+AA02723,NULL,1906513,1906403,hypothetical protein
+AA02724,NULL,1907810,1906497,seryl-tRNA ligase
+AA02726,NULL,1908118,1909782,anaerobic C4-dicarboxylate transporter
+AA02727,NULL,1909875,1909985,hypothetical protein
+AA02728,NULL,1911622,1910285,conserved hypothetical protein (possible ATPase)
+AA02731,NULL,1912252,1911638,outer membrane lipoprotein carrier precursor
+AA02733,NULL,1915089,1912348,cell division protein K; sporulation protein spoIIIE
+AA02734,NULL,1915752,1915096,leucine-responsive regulatory protein
+AA02735,NULL,1917484,1916114,DNA repair protein
+AA02736,NULL,1918641,1917490,conserved hypothetical protein
+AA02737,NULL,1918806,1919483,conserved hypothetical protein
+AA02738,NULL,1919512,1920774,phosphate permease
+AA02740,NULL,1920846,1921454,conserved hypothetical protein
+AA02742,NULL,1921448,1922758,tRNA nucleotidyltransferase
+AA02743,NULL,1922790,1923416,outer membrane lipoprotein precursor/glutamyl-tRNA reductase subunit
+AA02745,NULL,1923419,1924327,isopentenyl monophosphate kinase
+AA02747,NULL,1924464,1925318,ribose-phosphate pyrophosphokinase; phosphoribosylpyrophosphate synthase
+AA02748,NULL,1925499,1925642,conserved hypothetical protein
+AA02749,NULL,1925954,1927096,L-lactate dehydrogenase
+AA02750,NULL,1927229,1927122,hypothetical protein
+AA02751,NULL,1927342,1928928,L-lactate permease
+AA02754,NULL,1929418,1929089,conserved hypothetical protein
+AA02755,NULL,1929443,1929541,hypothetical protein
+AA02756,NULL,1929617,1930696,phosphoserine aminotransferase
+AA02757,NULL,1930774,1931868,histidinol-phosphate aminotransferase 2
+AA02758,NULL,1931942,1933210,3-phosphoshikimate 1-carboxyvinyltransferase
+AA02762,NULL,1933768,1933304,ribonuclease H
+AA02763,NULL,1933836,1934537,DNA polymerase III, epsilon subunit
+AA02766,NULL,1935205,1935071,hypothetical protein
+AA02767,NULL,1935341,1935517,conserved hypothetical protein (possible stability determinant)
+AA02768,NULL,1935865,1935680,conserved hypothetical protein
+AA02769,NULL,1935993,1935853,hypothetical protein
+AA02770,NULL,1936087,1935980,hypothetical protein
+AA02772,NULL,1936384,1936836,hypothetical protein
+AA02773,NULL,1936976,1936839,hypothetical protein
+AA02774,NULL,1937010,1938395,collagenase prtC homolog, possible protease
+AA02775,NULL,1938695,1939783,S-adenosylmethionine:tRNA ribosyltransferase-isomerase (Queuosine biosynthesis protein queA)
+AA02776,NULL,1940966,1939833,conserved hypothetical protein
+AA02777,NULL,1941439,1942587,tRNA-guanine transglycosylase
+AA02778,NULL,1942725,1942862,hypothetical protein
+AA02779,NULL,1942882,1943178,conserved hypothetical protein
+AA02780,NULL,1943212,1945059,protein-export membrane protein
+AA02781,NULL,1945079,1946041,protein-export membrane protein
+AA02782,NULL,1946264,1948888,outer membrane haemophore receptor (tonB related)
+AA02783,NULL,1949138,1948965,hypothetical protein
+AA02784,NULL,1949241,1951859,NAD+ dependent acetaldehyde-alcohol dehydrogenase, iron-containing
+AA02785,NULL,1952898,1951948,ribose ABC transporter, permease
+AA02786,NULL,1954454,1952952,ribose ABC transporter; ATP-binding
+AA02787,NULL,1955455,1954526,ribose ABC transporter, sugar binding protein
+AA02788,NULL,1956477,1955542,possible ABC-related substrate binding protein
+AA02789,NULL,1957917,1956781,oxidoreductase-dehydrogenase
+AA02790,NULL,1959516,1958011,NAD-dependent aldehyde dehydrogenase
+AA02792,NULL,1961097,1959757,GlpT/UhpT family transporter (hexosphosphate transport)
+AA02793,NULL,1961918,1961118,inositol-1-monophosphatase; extragenic suppressor protein
+AA02794,NULL,1962182,1963009,myo-inositol catabolism protein
+AA02796,NULL,1963141,1963977,possible transcriptional regulator, RpiR family
+AA02797,NULL,1965927,1964023,carbohydrate kinase; myo-inositol catabolism protein
+AA02798,NULL,1965929,1966093,hypothetical protein
+AA02799,NULL,1966175,1966050,hypothetical protein
+AA02800,NULL,1966239,1968182,probable malonic semialdehyde oxidative decarboxylase
+AA02801,NULL,1968240,1969133,myo-inositol catabolism protein
+AA02802,NULL,1969139,1970146,probable myo-inositol 2-dehydrogenase
+AA02803,NULL,1971852,1970422,leukotoxin secretion protein D; hemolysin export system membrane fusion protein
+AA02805,NULL,1973990,1971870,leukotoxin expression protein B; hemolysin secretion protein
+AA02806,NULL,1977226,1974062,leukotoxin A; hemolysin A
+AA02807,NULL,1977745,1977242,leukotoxin activator (leukotoxin C)
+AA02808,NULL,1978004,1977771,conserved hypothetical protein (possible serine hydroxymethyltransferase)
+AA02810,NULL,1979584,1978325,glycine hydroxymethyltransferase; serine hydroxymethyltransferase
+AA02811,NULL,1980165,1979722,hypothetical protein
+AA02813,NULL,1980358,1980185,hypothetical protein
+AA02814,NULL,1980320,1980505,hypothetical protein
+AA02816,NULL,1980572,1980820,hypothetical protein
+AA02818,NULL,1981880,1980879,ribosomal RNA small subunit methyltransferase C
+AA02819,NULL,1981936,1982382,DNA polymerase III, psi subunit
+AA02821,NULL,1982395,1982835,ribosomal-protein-alanine acetyltransferase
+AA02823,NULL,1986229,1982843,exodeoxyribonuclease V gamma chain
+AA02824,NULL,1986459,1986271,conserved hypothetical protein
+AA02826,NULL,1987168,1986476,conserved hypothetical protein
+AA02827,NULL,1987679,1987161,conserved hypothetical protein
+AA02828,NULL,1988381,1988277,hypothetical protein
+AA02829,NULL,1988851,1988387,peptidoglycan-associated outer membrane
+AA02830,NULL,1990146,1988869,colicin tolerance protein
+AA02832,NULL,1991389,1990184,outer membrane integrity protein
+AA02834,NULL,1991828,1991409,colicin transport protein
+AA02835,NULL,1991936,1991841,hypothetical protein
+AA02836,NULL,1992603,1991917,colicin transport protein
+AA02837,NULL,1993037,1992636,conserved hypothetical protein
+AA02838,NULL,1993431,1993156,conserved hypothetical protein
+AA02839,NULL,1993534,1993439,hypothetical protein
+AA02840,NULL,1994682,1993549,cytochrome D ubiquinol oxidase, subunit II
+AA02841,NULL,1996262,1994700,cytochrome D ubiquinol oxidase, subunit I
+AA02842,NULL,1996714,1997022,conserved hypothetical protein
+AA02844,NULL,1997945,1997082,Holliday junction DNA helicase
+AA02845,NULL,1998721,1998110,Holliday junction DNA helicase
+AA02846,NULL,1999357,1998788,crossover junction endodeoxyribonuclease
+AA02847,NULL,1999823,1999416,conserved hypothetical protein
+AA02848,NULL,2000575,1999838,conserved hypothetical protein
+AA02850,NULL,2001055,2000612,dATP pyrophosphohydrolase
+AA02851,NULL,2001036,2001128,hypothetical protein
+AA02853,NULL,2002429,2001164,conserved hypothetical protein
+AA02854,NULL,2002738,2002553,hypothetical protein
+AA02856,NULL,2004599,2002824,aspartyl-tRNA synthetase
+AA02857,NULL,2004807,2005331,conserved hypothetical protein
+AA02858,NULL,2005406,2006128,conserved hypothetical protein
+AA02860,NULL,2007815,2006214,conserved hypothetical protein
+AA02861,NULL,2008778,2007861,conserved hypothetical protein
+AA02862,NULL,2008807,2008908,hypothetical protein
+AA02864,NULL,2010252,2008924,glycerol-3-phosphate transport protein
+AA02865,NULL,2010653,2012602,iron-regulated outer membrane protein (omp64)
+AA02866,NULL,2012764,2013168,lactoylglutathione lyase
+AA02867,NULL,2013258,2013908,ribonuclease T
+AA02869,NULL,2014032,2013928,hypothetical protein
+AA02870,NULL,2014263,2015612,conserved hypothetical protein
+AA02872,NULL,2015679,2016242,conserved hypothetical protein
+AA02873,NULL,2017687,2016305,conserved hypothetical protein
+AA02874,NULL,2017834,2017959,hypothetical protein
+AA02875,NULL,2018070,2018210,conserved hypothetical protein (2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase)
+AA02876,NULL,2018813,2018433,conserved hypothetical protein
+AA02878,NULL,2019658,2018930,conserved hypothetical protein
+AA02879,NULL,2020649,2019663,octaprenyl-diphosphate synthase
+AA02880,NULL,2020897,2021205,50S ribosomal protein L21
+AA02881,NULL,2021229,2021483,50S ribosomal protein L27
+AA02883,NULL,2021558,2022487,conserved hypothetical protein
+AA02885,NULL,2022568,2023482,conserved hypothetical protein
+AA02886,NULL,2023522,2024694,OBG-related GTP-binding protein
+AA02888,NULL,2025121,2024768,ssrA-binding protein, small protein B
+AA02889,NULL,2025185,2025331,hypothetical protein
+AA02890,NULL,2025592,2025458,hypothetical protein
+AA02891,NULL,2025615,2026430,oligopeptide-binding protein precursor
+AA02892,NULL,2026542,2027237,oligopeptide ABC transporter, periplasmic-binding protein
+AA02893,NULL,2027341,2027604,oligopeptide transport system permease protein, N-terminal
+AA02895,NULL,2027624,2028262,oligopeptide transport system permease protein, C-terminal
+AA02897,NULL,2028275,2029210,oligopeptide ABC transporter; permease protein
+AA02898,NULL,2029223,2030203,oligopeptide transport ATP-binding protein
+AA02899,NULL,2030203,2031198,oligopeptide ABC transporter, ATP-binding protein
+AA02902,NULL,2032015,2031311,aerobic respiration control protein
+AA02903,NULL,2032417,2032280,conserved hypothetical protein (ribosomal protein L36)
+AA02904,NULL,2032693,2032430,50S ribosomal protein L31
+AA02905,NULL,2033465,2032908,conserved hypothetical protein
+AA02906,NULL,2033444,2033542,hypothetical protein
+AA02907,NULL,2033617,2035404,thiol:disulfide interchange protein; inner membrane copper tolerance protein
+AA02908,NULL,2035509,2035399,hypothetical protein
+AA02909,NULL,2035487,2035873,conserved hypothetical protein
+AA02910,NULL,2039165,2036277,ribonuclease E
+AA02911,NULL,2039146,2039295,hypothetical protein
+AA02912,NULL,2039650,2039435,hypothetical protein
+AA02913,NULL,2039631,2040587,ribosomal large subunit pseudouridine synthase
+AA02915,NULL,2041112,2040792,thioredoxin m
+AA02916,NULL,2042207,2041215,2-hydroxyacid dehydrogenase; D-lactate dehydrogenase
+AA02917,NULL,2043340,2042234,cystathionine gamma-synthase
+AA02918,NULL,2043561,2043460,hypothetical protein
+AA02919,NULL,2044342,2045361,CagE protein (tranport-associated)
+AA02920,NULL,2045534,2045809,hypothetical protein
+AA02921,NULL,2045814,2046134,conserved hypothetical protein (cell filamentation protein)
+AA02922,NULL,2047501,2046365,gamma-glutamylphosphate reductase
+AA02925,NULL,2048211,2047633,conserved hypothetical protein
+AA02926,NULL,2048276,2048407,hypothetical protein
+AA02927,NULL,2048465,2048373,hypothetical protein
+AA02928,NULL,2048501,2049304,conserved hypothetical protein
+AA02929,NULL,2049430,2049329,hypothetical protein
+AA02930,NULL,2050578,2049574,fructose-1,6-bisphosphatase
+AA02931,NULL,2050736,2052106,UDP-N-acetylmuramate:L-alanyl-gamma-d-glutamayl-medo-diaminopimelate
+AA02932,NULL,2052489,2053604,lytic murein transglycosylase A
+AA02933,NULL,2053607,2054374,conserved hypothetical protein (HesA/MoeB/ThiF family protein)
+AA02934,NULL,2054477,2054382,hypothetical protein
+AA02935,NULL,2054483,2055493,high-affinity zinc uptake system periplasmic binding protein
+AA02936,NULL,2055750,2056433,lipoprotein E precursor; outer membrane protein P4 precursor; acid phosphatase
+AA02937,NULL,2057007,2056519,conserved hypothetical protein
+AA02939,NULL,2057962,2057021,phosphoserine phosphatase
+AA02940,NULL,2058062,2058712,conserved hypothetical protein
+AA02941,NULL,2058791,2058675,hypothetical protein
+AA02944,NULL,2059088,2058828,30S ribosomal protein S20
+AA02946,NULL,2059356,2060930,virulence factor protein
+AA02947,NULL,2061011,2061934,riboflavin biosynthesis protein
+AA02949,NULL,2062302,2062084,hypothetical protein
+AA02950,NULL,2062435,2065173,isoleucyl-tRNA synthetase
+AA02952,NULL,2065256,2065747,lipoprotein signal peptidase
+AA02954,NULL,2065750,2066691,penicillin tolerance protein; hydroxymethylbutenyl pyrophosphate reductase
+AA02955,NULL,2068457,2067162,trigger factor
+AA02956,NULL,2069514,2068624,integrase-recombinase
+AA02958,NULL,2070551,2069520,3-phenylpropionic acid transporter
+AA02959,NULL,2071036,2070680,pyrroline-5-carboxylate (P5C) reductase
+AA02961,NULL,2071380,2070925,pyrroline-5-carboxylate reductase
+AA02962,NULL,2071443,2072345,recombination associated protein
+AA02963,NULL,2072813,2072442,opacity associated protein B
+AA02964,NULL,2074188,2072878,opacity associated protein A
+AA02965,NULL,2074209,2074346,hypothetical protein
+AA02966,NULL,2075331,2074363,conserved hypothetical protein
+AA02967,NULL,2075372,2075974,elongation factor P (EF-P)
+AA02968,NULL,2076057,2076221,hypothetical protein
+AA02969,NULL,2076247,2076477,beta tyrosinase (tyrosine phenol-lyase)
+AA02970,NULL,2076513,2077451,tyrosine phenol-lyase
+AA02972,NULL,2077521,2077682,conserved hypothetical protein (tyrosine phenol lyase-related protein)
+AA02973,NULL,2077847,2079058,tyrosine-specific transport protein
+AA02974,NULL,2079804,2079130,conserved hypothetical protein
+AA02975,NULL,2080373,2079870,conserved hypothetical protein
+AA02976,NULL,2081097,2080369,UDP-2,3-diacylglucosamine hydrolase
+AA02977,NULL,2081208,2081948,1-acyl-sn-glycerol-3-phosphate acyltransferase
+AA02978,NULL,2081953,2083368,sufI protein precursor homolog
+AA02980,NULL,2084305,2083445,conserved hypothetical protein
+AA02982,NULL,2085187,2084450,pyruvate formate-lyase activating enzyme
+AA02983,NULL,2087644,2085335,formate acetyltransferase
+AA02984,NULL,2088594,2087746,formate transporter
+AA02987,NULL,2088907,2089254,histidine triad protein homolog
+AA02989,NULL,2089258,2089608,conserved hypothetical protein
+AA02990,NULL,2089613,2090656,beta hexosaminadase
+AA02992,NULL,2090778,2091800,RNA methyltransferase
+AA02993,NULL,2092868,2091906,6-phosphofructokinase
+AA02994,NULL,2093376,2092933,probable cation transport protein
+AA02996,NULL,2093844,2093509,probable cation transport protein
+AA02998,NULL,2094410,2093847,conserved hypothetical protein
+AA02999,NULL,2095191,2094415,conserved hypothetical protein
+AA03000,NULL,2095881,2095216,uracil-DNA glycosylase (UDG)
+AA03001,NULL,2096167,2096547,probable glycyl radical protein/pyruvate-formate lyase
+AA03002,NULL,2096563,2096694,hypothetical protein
+AA03003,NULL,2096684,2098507,GTP-binding membrane protein
+AA03004,NULL,2098521,2099540,signal peptidase I (SPase I)
+AA03006,NULL,2099550,2100227,ribonuclease III
+AA03008,NULL,2100227,2101132,GTP-binding protein era homolog (GTPase)
+AA03009,NULL,2101141,2101296,hypothetical protein
+AA03010,NULL,2102594,2101242,thiophene and furan oxidation protein
+AA03011,NULL,2104353,2102725,inner membrane protein, 60 kDa
+AA03013,NULL,2104906,2104574,ribonuclease P protein component
+AA03014,NULL,2105086,2104955,conserved hypothetical protein
+AA03015,NULL,2105311,2105222,hypothetical protein
+AA03016,NULL,2105418,2105284,hypothetical protein
+AA01444,NULL,969913,969299,ISRS011/IS150 related transposase, orfB
+AA02296,NULL,1566210,1566641,conserved hypothetical protein (possible cell wall-associated hydrolase)
+AA02342,NULL,1599705,1600211,ISRSO11/IS150 related transposase, orfB
+AA00001,NULL,1,1359,chromosomal replication initiator protein
+AA00130,NULL,94581,94357,mercuric transport protein (periplasmic mercury ion binding protein) (mercury scavenger protein)
+AA00351,NULL,234295,234672,50S ribosomal protein L7/L12
+AA00574,NULL,392253,392441,regulatory protein
+AA00639,NULL,438961,439503,conserved hypothetical protein
+AA00909.1,NULL,626610,626110,hypothetical protein
+AA00947,NULL,655569,655381,hypothetical protein
+AA01124.1,NULL,772369,772812,biopolymer transport protein D
+AA01235.1,NULL,842416,842595,50S ribosomal protein L30
+AA01248,NULL,850362,849874,conserved hypothetical protein (possible phosphoesterase)
+AA01519.1,NULL,1022606,1022980,conserved hypothetical protein
+AA01730,NULL,1169143,1168865,conserved hypothetical protein (possible transcriptional regulator)
+AA02135.1,NULL,1459143,1458952,hypothetical protein
+AA02145,NULL,1468742,1469236,iron(III) ABC transporter, ATP-binding protein
+AA02405,NULL,1652570,1652800,conserved hypothetical protein
+AA02415,NULL,1658786,1658583,hypothetical protein
+AA02443,NULL,1686342,1686650,cytochrome C related protein
+AA02564,NULL,1786843,1786313,transketolase N-terminal section
+AA02636.1,NULL,1835294,1834911,possible dTDP-glucose-4-keto-6-deoxy-D-glucose reductase
+AA03012,NULL,2104616,2104356,conserved hypothetical protein
+pVT1,NULL,452,18,single-stranded DNA binding protein
+pVT2,NULL,630,1208,site-specific recombinase/invertase from pVT745 taken from A. actinomycetemcomitans
+pVT3,NULL,2369,1215,nickase from pVT745 taken from A.actinomycetemcomitans
+pVT4,NULL,2365,2339,hypothetical protein from pVT745 taken from A. actinomycetemcomitans
+pVT5,NULL,3996,4382,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT6,NULL,4426,4800,hypothetical protein from pVT745 taken from A. actinomycetemcomitans
+pVT7,NULL,4790,5467,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT8,NULL,5445,6062,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT9,NULL,6052,6249,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT10,NULL,6528,6701,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT11,NULL,7101,6892,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT12,NULL,8415,7411,conserved hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT13,NULL,8796,8999,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT14,NULL,9160,9321,hypothetical protein from pVT745 taken from A. actinomycetemcomitans
+pVT15,NULL,10039,9410,predicted metal/ion transport protein from pVT745 taken from A.actinomycetemcomitans
+pVT16,NULL,9525,9803,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT17,NULL,11355,11239,conserved hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT18,NULL,11647,11411,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT19,NULL,12281,11643,partition protein from pVT745 taken from A. actinomycetemcomitans
+pVT20,NULL,12435,12307,hypothetical protein from pVT745 taken from A.actinomycetemcomitans
+pVT21,NULL,12696,12860,hypothetical protein taken from A.actinomycetemcomitans plasmid pVT745
+pVT22,NULL,12860,13144,conserved hypothetical protein taken from plsmid pVT745 in A.actinomycetemcomitans
+pVT23,NULL,13556,13227,conserved hypothetical protein taken from plasmid pVT745 in A.actinomycetemcomitans
+pVT24,NULL,13977,13543,hypothetical protein taken from pVT745 in A.actinomycetemcomitans; possible mating-associated lipoprotein
+pVT25,NULL,15750,14014,conserved hypothetical protein taken from plasmid pVT745 in A.actinomycetemcomitans.
+pVT26,NULL,16781,15753,ATPase (related to VirB11 proteins) taken from plasmid pVT745 in A.actinomycemtemcomitans
+pVT27,NULL,17903,16797,virB10-related protein involved in channel formation taken from plasmid pVT745 in A.actinomycetemcomitans.
+pVT28,NULL,18782,17916,VirB9-like protein possibly involved in channel formation; taken from plasmid pVT745 in A.actinomycetemcomitans
+pVT29,NULL,19458,18775,VirB8 homolog taken from plasmid pVT745 in A.actinomycetemcomitans
+pVT30,NULL,19598,19458,hypothetical protein taken from pVT745 in A.actinomycetemcomitans; possible lipoprotein
+pVT31,NULL,20668,19670,transport associated protein 6 from pVT745 taken from A.actinomycetemcomitans
+pVT32,NULL,20905,20681,probable lipoprotein from pVT745 taken from A. actinomycetemcomitans
+pVT33,NULL,21695,20922,transport associated protein from pVT745 taken from A.actinomycetemcomitans
+pVT34,NULL,24429,21694,CagE-related (transport associated, mating associated) protein from pVT745 taken from A.actinomycetemcomitans
+pVT35,NULL,24729,24445,possible mating-associated protein from pVT745 taken from A.actinomycetemcomitans
+pVT36,NULL,25406,24759,type IV secretion-related CagE-related protein from pVT745 taken from A.actinomycetemcomitans

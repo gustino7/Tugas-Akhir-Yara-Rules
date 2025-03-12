@@ -4,16 +4,15 @@ import os
 def apply_yara_rules_to_malware(malware_directory, rules_directory):
     # Mengambil semua file YARA rules dari direktori
     rules_files = [f for f in os.listdir(rules_directory) if f.endswith('.yar') or f.endswith('.yara')]
-    index_rules = 1
 
     # Iterasi melalui setiap file YARA rules
     for rules_file in rules_files:
+        index_rules = 1
         rules_path = os.path.join(rules_directory, rules_file)
         print(f'\nLoading rules from: {rules_path}')
 
         # Print Index Rules
-        print(f'Rules ke-{index_rules}; nama-{rules_path}')
-        index_rules += 1
+        print(f'Rules path : {rules_path}')
         
         # Muat aturan YARA dari file
         rules = yara.compile(filepath=rules_path)
@@ -30,7 +29,8 @@ def apply_yara_rules_to_malware(malware_directory, rules_directory):
 
                     # Jika ada kecocokan, tampilkan hasil
                     if matches:
-                        print(f'File: {malware_file} - Matches found in {rules_file}: {matches}')
+                        print(f'{index_rules})\tFile: {malware_file} - Matches found in {rules_file}: {matches}')
+                        index_rules += 1
                     #else:
                     #    print(f'File: {malware_file} - No matches found in {rules_file}.')
                 except Exception as e:
@@ -38,8 +38,8 @@ def apply_yara_rules_to_malware(malware_directory, rules_directory):
 
 if __name__ == '__main__':
     # Tentukan direktori untuk malware dan direktori untuk YARA rules
-    malware_directory = './malware/AgentTesla_MALW'     # Ganti dengan direktori malware Anda
-    rules_directory = './yara_rules/agentTesla'    	# Ganti dengan direktori yang berisi YARA rules Anda
+    malware_directory = './Testing_Yara_Rules'         # Ganti dengan direktori malware Anda
+    rules_directory = './Yara_Sample_AgentTesla'            # Ganti dengan direktori yang berisi YARA rules Anda
 
     # Panggil fungsi untuk menerapkan YARA rules ke malware
     apply_yara_rules_to_malware(malware_directory, rules_directory)
