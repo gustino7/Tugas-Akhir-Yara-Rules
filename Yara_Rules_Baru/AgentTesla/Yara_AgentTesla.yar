@@ -158,20 +158,15 @@ rule New_YaraRules_AgentTesla {
         $p32 = "IMAP Password" fullword wide
         $p33 = "POP3 Password" fullword wide
         $p34 = "SmtpPassword" fullword wide
-
-        // Catatan next task buat hex flexible dari kata connecting dan disconecting agar no case sensitive  
-        $s35 = "connecting" fullword wide /* PEStudio Blacklist: strings */ /* score: '5.00'*/ /* Goodware String - occured 2 times */
-        $s36 = "CONNECTING" fullword wide /* PEStudio Blacklist: strings */ /* score: '4.99'*/ /* Goodware String - occured 10 times */
-        $s37 = "DISCONNECT" fullword wide /* PEStudio Blacklist: strings */ /* score: '4.97'*/ /* Goodware String - occured 30 times */
-        $s38 = "Connecting" fullword wide /* PEStudio Blacklist: strings */ /* score: '4.92'*/ /* Goodware String - occured 81 times */
-        $s39 = "Disconnect" fullword wide /* PEStudio Blacklist: strings */ /* score: '4.84'*/ /* Goodware String - occured 161 times */
-        $s40 = "Connected" fullword wide  /* PEStudio Blacklist: strings */ /* score: '4.81'*/ /* Goodware String - occured 189 times */
+        $p35 = "Connected" fullword wide
+        $p36 = "connecting" nocase ascii wide
+        $p37 = "disconnect" nocase ascii wide
 
         $s1 = "4System.Web.Services.Protocols.SoapHttpClientProtocol" fullword ascii // SOAP (Simple Object Access Protocol)
         $s2 = { (63|43) 6F 6D 70 75 74 65 72 (4E|6E) 61 6D 65 } // C|computerN|name
         $s3 = "https://github.com" wide
         $s4 = "Operating system" wide
-
+        
     condition:
         uint16(0) == 0x5a4d 
         and (2 of ($dotnet*)) 
