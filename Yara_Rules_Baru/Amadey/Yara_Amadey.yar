@@ -59,11 +59,67 @@ private rule MALWARE_Win_Amadey {
         uint16(0) == 0x5a4d and (7 of ($s*) or (6 of ($v*) and 2 of ($av*)) or 1 of ($pdb*))
 }
 
+private rule file_0da5b00e8e941ac4be29830e6040cb5f {
+    meta:
+        description = "file 0da5b00e8e941ac4be29830e6040cb5f"
+        author = "ino"
+        date = "April 2025"
+    strings:
+        $x1 = "Xagurorim zedojokit hikomulaHFal digan covorujiyexabih zetod bahohibinabok xupefamebubu ficexunidayid/Loye warojeguzuco pifayudo" wide
+        $x2 = "@GetVice@0" fullword ascii
+        $x3 = "voygcuadage.exe" fullword wide
+        $x4 = "@GetFirstVice@0" fullword ascii
+    condition:
+        3 of them
+}
+
+private rule file_4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf {
+    meta:
+        description = "file 4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf"
+        author = "ino"
+        date = "April 2025"
+    strings:
+        $s1 = "DSystem\\CurrentControlSet\\Control\\Session Manager" fullword ascii
+        $s2 = "WEXTRACT" ascii wide
+    condition:
+        any of them
+}
+
 rule New_YaraRules_Amadey {
     meta:
         description = "new yara rules for amadey family malware"
         author = "ino"
         date = "April 2025"
     strings:
-        $name = "string"
+        // Suspicious string = *s* or PEStudio Blacklist: strings = *p*
+        $p1 = "RUNPROGRAM" fullword wide
+        $p2 = "Extracting" fullword wide
+        $p3 = "CABINET" fullword wide
+        $p4 = "Extract" fullword wide
+        $p5 = "REBOOT" fullword wide
+        $p6 = "PendingFileRenameOperations" fullword ascii
+        $p7 = "RegServer" fullword ascii
+        $p8 = "Reboot" fullword ascii
+        $p9 = "SeShutdownPrivilege" fullword ascii
+        $p10 = "Internet Explorer" fullword wide
+
+        $s1 = "AppPolicyGetProcessTerminationMethod" fullword ascii
+        $s2 = "operator co_await" fullword ascii
+        $s3 = "api-ms-win-" fullword ascii
+        $s4 = "stoi argument" fullword ascii
+        $s5 = "Type Descriptor" fullword ascii
+        $s6 = /C:\\.{1,100}?\.pdb/ nocase ascii
+        $s7 = "?GetProcessWindowStation" fullword ascii
+        $s8 = "StringFileInform" fullword wide
+
+    condition:
+        uint16(0) == 0x5a4d
+        and ((5 of ($p*)) or (2 of ($s*)))
+        and 1 of (
+            Amadey,
+            MALWARE_Win_Amadey,
+            file_0da5b00e8e941ac4be29830e6040cb5f,
+            file_4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf
+        )
+        and filesize < 5000KB
 }
