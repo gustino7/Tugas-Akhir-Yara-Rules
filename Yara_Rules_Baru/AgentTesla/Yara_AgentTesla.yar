@@ -123,7 +123,7 @@ rule New_YaraRules_AgentTesla {
         $dotnet3 = "#Strings" ascii
         $dotnet4 = { 5F 43 6F 72 [3] 4D 61 69 6E }
 
-        // Suspicious string = *s* or PEStudio Blacklist: strings = *p*
+        // Suspicious string = *s* or PEStudio Blacklist: strings = *p* or Similar string = *l*
         $p1 = "Hashtable" fullword ascii
         $p2 = "GetResourceString" fullword ascii
         $p3 = "CompareString" fullword ascii 
@@ -167,10 +167,23 @@ rule New_YaraRules_AgentTesla {
         $s3 = "https://github.com" wide
         $s4 = "Operating system" wide
         
+        $l1 = "ToString" ascii
+        $l2 = "get_Length" ascii
+        $l3 = "set_Enabled" ascii
+        $l4 = "set_Name" ascii
+        $l5 = "MoveNext" ascii
+        $l6 = "GetType" ascii
+        $l7 = "Collections" ascii
+        $l8 = "get_Application" ascii
+        $l9 = "get_Chars" ascii
+        $l10 = "ContainsKey" ascii
+        $l11 = "IDisposable" ascii
+
     condition:
         uint16(0) == 0x5a4d 
         and (2 of ($dotnet*)) 
         and ((5 of ($p*)) or (2 of ($s*)))
+        and all of ($l*)
         and 1 of (
             AgentTeslaV3,
             file_14a388b154b55a25c66b1bfef9499b64,

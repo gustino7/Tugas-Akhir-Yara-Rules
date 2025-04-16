@@ -1,0 +1,110 @@
+{
+  ".rsrc": {
+    "ascii": {
+      "eaf39a263bece3cbd0d6b70e22c12d8f, dc6a5d1b3accb015fe2b6f91176c57c5, 413ca1f198008a2980f7891c059bc188, 14a388b154b55a25c66b1bfef9499b64, 679e61e35641582d91f79ec97752b2a5, 94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e, 2c796a675fe4d3587af0bdadb10abb6b, d7abc0880783e5e1c08f8a70a292473b, 5b14a7366cf5dbea3386c6afbd25f012, 6802c9c481671ec10ee1178946a46c73": [
+        "  </trustInfo>",
+        "    </security>",
+        "  <assemblyIdentity version=\"1.0.0.0\" name=\"MyApplication.app\"/>",
+        "      <requestedPrivileges xmlns=\"urn:schemas-microsoft-com:asm.v3\">",
+        "      </requestedPrivileges>",
+        "  <trustInfo xmlns=\"urn:schemas-microsoft-com:asm.v2\">",
+        "    <security>"
+      ]
+    },
+    "utf16": {
+      "eaf39a263bece3cbd0d6b70e22c12d8f, dc6a5d1b3accb015fe2b6f91176c57c5, 413ca1f198008a2980f7891c059bc188, 14a388b154b55a25c66b1bfef9499b64, 679e61e35641582d91f79ec97752b2a5, 94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e, 2c796a675fe4d3587af0bdadb10abb6b, d7abc0880783e5e1c08f8a70a292473b, 5b14a7366cf5dbea3386c6afbd25f012, 6802c9c481671ec10ee1178946a46c73": [
+        "Assembly Version",
+        "VS_VERSION_INFO",
+        "VarFileInfo",
+        "FileDescription",
+        "LegalCopyright",
+        "000004b0",
+        "StringFileInfo",
+        "ProductVersion",
+        "Translation",
+        "FileVersion",
+        "InternalName",
+        "OriginalFilename"
+      ]
+    }
+  },
+  ".text": {
+    "ascii": {
+      "eaf39a263bece3cbd0d6b70e22c12d8f, dc6a5d1b3accb015fe2b6f91176c57c5, 413ca1f198008a2980f7891c059bc188, 14a388b154b55a25c66b1bfef9499b64, 679e61e35641582d91f79ec97752b2a5, 94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e, 2c796a675fe4d3587af0bdadb10abb6b, d7abc0880783e5e1c08f8a70a292473b, 5b14a7366cf5dbea3386c6afbd25f012, 6802c9c481671ec10ee1178946a46c73": [
+        "ToString",
+        "get_Length",
+        "System.Diagnostics",
+        "#Strings",
+        "CompilationRelaxationsAttribute",
+        "RuntimeTypeHandle",
+        "ArgumentException",
+        ".cctor",
+        "Microsoft.VisualBasic",
+        "set_Enabled",
+        "set_Name",
+        "v4.0.30319",
+        "#GUID",
+        "GuidAttribute",
+        "RuntimeCompatibilityAttribute",
+        "STAThreadAttribute",
+        "mscoree.dll",
+        "MoveNext",
+        "System.Drawing",
+        "CultureInfo",
+        "GetType",
+        "CompilerGeneratedAttribute",
+        "Convert",
+        "Environment",
+        "Concat",
+        "WrapNonExceptionThrows",
+        "System.Collections",
+        "GetString",
+        "System.Globalization",
+        "get_Application",
+        "get_Chars",
+        "_CorExeMain",
+        "System.Runtime.CompilerServices",
+        "System.Reflection",
+        "Bitmap",
+        "RuntimeHelpers",
+        "get_Default",
+        "System.Threading",
+        "Microsoft.VisualBasic.Devices",
+        "get_Name",
+        "Clear",
+        "get_Item",
+        "GetTypeFromHandle",
+        "System.Runtime.InteropServices",
+        "GetEnumerator",
+        "#Blob",
+        "set_Size",
+        "Dispose",
+        "Round",
+        "mscorlib",
+        "ContainsKey",
+        "get_Current",
+        "get_Count",
+        "System.ComponentModel",
+        "<Module>",
+        ".ctor",
+        "System.Collections.Generic",
+        "AssemblyFileVersionAttribute",
+        "System.Windows.Forms",
+        "IDisposable"
+      ]
+    },
+    "utf16": {
+      "dc6a5d1b3accb015fe2b6f91176c57c5, 413ca1f198008a2980f7891c059bc188, 14a388b154b55a25c66b1bfef9499b64, 679e61e35641582d91f79ec97752b2a5, 2c796a675fe4d3587af0bdadb10abb6b": [
+        "Label2",
+        "WinForms_SeeInnerException",
+        "Property can only be set to Nothing",
+        "WinForms_RecursiveFormCreate",
+        "Label1"
+      ],
+      "eaf39a263bece3cbd0d6b70e22c12d8f, 5b14a7366cf5dbea3386c6afbd25f012": [
+        "%$&$'$($)$*$,+/.0.1.2.3.4.5.6.<;=;>;?;@;BACADAEAFAGAJIKILIMIPO",
+        "K \\!`\"d#e$}."
+      ]
+    }
+  }
+}

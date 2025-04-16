@@ -81,7 +81,7 @@ def find_all_common_strings(data, min_length=5):
     
     return dict(result)
 
-def main(input_file):
+def main(input_file, malware_fam):
     # Load your JSON data
     with open(input_file, 'r') as f:
         data = json.load(f)
@@ -90,7 +90,7 @@ def main(input_file):
     lcs_results = find_all_common_strings(data)
     
     # Save results
-    with open('./output_lcs/LCS_AgentTesla.json', 'w') as f:
+    with open(f'./output_lcs/LCS_{malware_fam}.json', 'w') as f:
         json.dump(lcs_results, f, indent=2)
     
     print("Optimized LCS results saved to lcs_optimized_results.json")
