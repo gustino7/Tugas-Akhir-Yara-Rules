@@ -38,8 +38,8 @@ def apply_yara_rules_to_malware(malware_directory, rules_directory):
 
 if __name__ == '__main__':
     # Tentukan direktori untuk malware dan direktori untuk YARA rules
-    malware_directory = './Testing_File'         # Ganti dengan direktori malware Anda
-    rules_directory = './Yara_Rules_Baru/AgentTesla'            # Ganti dengan direktori yang berisi YARA rules Anda
+    malware_directory = './Malware/Vidar_MALW'         # Ganti dengan direktori malware Anda
+    rules_directory = './Yara_Rules_Public/Vidar'            # Ganti dengan direktori yang berisi YARA rules Anda
 
     # Panggil fungsi untuk menerapkan YARA rules ke malware
     apply_yara_rules_to_malware(malware_directory, rules_directory)
