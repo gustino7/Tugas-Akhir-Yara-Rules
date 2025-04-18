@@ -1,0 +1,53 @@
+{
+    "file1": {
+        ".text": {
+            "ascii": [
+                "rwqreToString",
+                "get_Length251wad",
+                "System.Diagnosticssfa",
+                "#Stringswdw",
+                "bvdfCompilationRelaxationsAttribute",
+                "RuntimeTypeHandleer3",
+                "42ArgumentException",
+                ".cctor",
+                "Microsoft.VisualBasic",
+                "set_Enabledytu",
+                "set_Namebnv"
+            ]
+        }
+    },
+    "file2": {
+        ".text": {
+            "ascii": [
+                "ToStringrvff",
+                "get_Length",
+                "System.Diagnosticskj;mn",
+                "#Stringssdsfs",
+                "CompilationRelaxationsAttributevd",
+                "241RuntimeTypeHandle",
+                "ArgumentException",
+                "sda.cctor",
+                "wqeicrosoft.VisualBasic",
+                "set_Enabledgfjgf",
+                "set_Namesad"
+            ]
+        }
+    },
+    "file3": {
+        ".text": {
+            "ascii": [
+                "ToString5",
+                "get_Length",
+                "System.Diagnosticsa",
+                "f#Strings",
+                "ghCompilationRelaxationsAttribute",
+                "RuntimeTypeHandlenvc",
+                "ArgumentExceptioner",
+                ".cctor",
+                "Microsoft.VisualBasicuou",
+                "set_Enabledjkh",
+                "ljhset_Name"
+            ]
+        }
+    }
+}
