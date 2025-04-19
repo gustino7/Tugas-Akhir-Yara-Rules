@@ -79,8 +79,8 @@ private rule file_4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96c
         author = "ino"
         date = "April 2025"
     strings:
-        $s1 = "DSystem\\CurrentControlSet\\Control\\Session Manager" fullword ascii
-        $s2 = "WEXTRACT" ascii wide
+        $x1 = "DSystem\\CurrentControlSet\\Control\\Session Manager" fullword ascii
+        $x2 = "WEXTRACT" ascii wide
     condition:
         any of them
 }
