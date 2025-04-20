@@ -1,0 +1,115 @@
+{
+  ".rsrc": {
+    "ascii": {
+      "ALL_FILES": {
+        "files": [
+          "eaf39a263bece3cbd0d6b70e22c12d8f",
+          "dc6a5d1b3accb015fe2b6f91176c57c5",
+          "413ca1f198008a2980f7891c059bc188",
+          "14a388b154b55a25c66b1bfef9499b64",
+          "679e61e35641582d91f79ec97752b2a5",
+          "94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e",
+          "2c796a675fe4d3587af0bdadb10abb6b",
+          "d7abc0880783e5e1c08f8a70a292473b",
+          "5b14a7366cf5dbea3386c6afbd25f012",
+          "6802c9c481671ec10ee1178946a46c73"
+        ],
+        "common_strings": [
+          "      </requestedPrivileges>",
+          "    </security>",
+          "  <assemblyIdentity version=\"1.0.0.0\" name=\"MyApplication.app\"/>",
+          "    <security>",
+          "      <requestedPrivileges xmlns=\"urn:schemas-microsoft-com:asm.v3\">",
+          "  </trustInfo>",
+          "  <trustInfo xmlns=\"urn:schemas-microsoft-com:asm.v2\">"
+        ]
+      }
+    },
+    "utf16": {
+      "ALL_FILES": {
+        "files": [
+          "eaf39a263bece3cbd0d6b70e22c12d8f",
+          "dc6a5d1b3accb015fe2b6f91176c57c5",
+          "413ca1f198008a2980f7891c059bc188",
+          "14a388b154b55a25c66b1bfef9499b64",
+          "679e61e35641582d91f79ec97752b2a5",
+          "94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e",
+          "2c796a675fe4d3587af0bdadb10abb6b",
+          "d7abc0880783e5e1c08f8a70a292473b",
+          "5b14a7366cf5dbea3386c6afbd25f012",
+          "6802c9c481671ec10ee1178946a46c73"
+        ],
+        "common_strings": [
+          "FileDescription",
+          "StringFileInfo",
+          "VS_VERSION_INFO",
+          "InternalName",
+          "LegalCopyright",
+          "FileVersion",
+          "Assembly Version",
+          "ProductVersion",
+          "OriginalFilename",
+          "VarFileInfo",
+          "Translation"
+        ]
+      }
+    }
+  },
+  ".text": {
+    "ascii": {
+      "ALL_FILES": {
+        "files": [
+          "eaf39a263bece3cbd0d6b70e22c12d8f",
+          "dc6a5d1b3accb015fe2b6f91176c57c5",
+          "413ca1f198008a2980f7891c059bc188",
+          "14a388b154b55a25c66b1bfef9499b64",
+          "679e61e35641582d91f79ec97752b2a5",
+          "94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e",
+          "2c796a675fe4d3587af0bdadb10abb6b",
+          "d7abc0880783e5e1c08f8a70a292473b",
+          "5b14a7366cf5dbea3386c6afbd25f012",
+          "6802c9c481671ec10ee1178946a46c73"
+        ],
+        "common_strings": [
+          "Environment",
+          "set_Enabled",
+          "IDisposable",
+          "GetTypeFromHandle",
+          "System.Reflection",
+          "Microsoft.VisualBasic.Devices",
+          "System.Threading",
+          "RuntimeCompatibilityAttribute",
+          "mscoree.dll",
+          "WrapNonExceptionThrows",
+          "CompilerGeneratedAttribute",
+          "GuidAttribute",
+          "get_Application",
+          "v4.0.30319",
+          "_CorExeMain",
+          "CompilationRelaxationsAttribute",
+          "System.Collections.Generic",
+          "System.Drawing",
+          "System.Collections",
+          "System.Diagnostics",
+          "RuntimeHelpers",
+          "ArgumentException",
+          "RuntimeTypeHandle",
+          "get_Current",
+          "System.Runtime.InteropServices",
+          "System.Windows.Forms",
+          "get_Length",
+          "System.Globalization",
+          "System.Runtime.CompilerServices",
+          "AssemblyFileVersionAttribute",
+          "ContainsKey",
+          "GetEnumerator",
+          "STAThreadAttribute",
+          "get_Default",
+          "System.ComponentModel",
+          "Microsoft.VisualBasic",
+          "CultureInfo"
+        ]
+      }
+    }
+  }
+}
