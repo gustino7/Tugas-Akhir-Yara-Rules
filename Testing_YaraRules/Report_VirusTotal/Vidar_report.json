@@ -1,0 +1,145 @@
+[
+    {
+        "file_name": "0c857501e3851072db666386136929c06bcf4c8d3160b41b7d82a3ce9afca1be",
+        "permalink": "https://www.virustotal.com/gui/file/0c857501e3851072db666386136929c06bcf4c8d3160b41b7d82a3ce9afca1be/detection/f-0c857501e3851072db666386136929c06bcf4c8d3160b41b7d82a3ce9afca1be-1743840175",
+        "positives": 57,
+        "total": 72,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/Vidar.e363f1e2",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "4c17f7ee55f9bf6fa9acaeeb9574feab39ba4a3cccd4426dfa85aaf58b90ae73",
+        "permalink": "https://www.virustotal.com/gui/file/4c17f7ee55f9bf6fa9acaeeb9574feab39ba4a3cccd4426dfa85aaf58b90ae73/detection/f-4c17f7ee55f9bf6fa9acaeeb9574feab39ba4a3cccd4426dfa85aaf58b90ae73-1744077779",
+        "positives": 59,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/Vidar.74d796d3",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "3418a369486e9bf2b57023dc0b02cb00f12a5214fca8bae20ff93586cc8c678a",
+        "permalink": "https://www.virustotal.com/gui/file/3418a369486e9bf2b57023dc0b02cb00f12a5214fca8bae20ff93586cc8c678a/detection/f-3418a369486e9bf2b57023dc0b02cb00f12a5214fca8bae20ff93586cc8c678a-1745082323",
+        "positives": 58,
+        "total": 72,
+        "malware_name": "Vidar",
+        "detected_by": "Not Found"
+    },
+    {
+        "file_name": "49a7f82743a038d7a570d5d5d8ecb92f369f0e6dbba6532674c4789f0daf9b31",
+        "permalink": "https://www.virustotal.com/gui/file/49a7f82743a038d7a570d5d5d8ecb92f369f0e6dbba6532674c4789f0daf9b31/detection/f-49a7f82743a038d7a570d5d5d8ecb92f369f0e6dbba6532674c4789f0daf9b31-1743224576",
+        "positives": 59,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Vidar.R670309",
+                "update": "20250329",
+                "version": "3.27.1.10534"
+            }
+        }
+    },
+    {
+        "file_name": "931ac54db53c787f4138e73535db1664fc22cfbd9957b53d4c5135bc8a0dabd5",
+        "permalink": "https://www.virustotal.com/gui/file/931ac54db53c787f4138e73535db1664fc22cfbd9957b53d4c5135bc8a0dabd5/detection/f-931ac54db53c787f4138e73535db1664fc22cfbd9957b53d4c5135bc8a0dabd5-1743465732",
+        "positives": 58,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Vidar.R670309",
+                "update": "20250331",
+                "version": "3.27.1.10534"
+            }
+        }
+    },
+    {
+        "file_name": "25f720e9b969bdbece357a4704d4575a47ab8230affefbc2bfc467cb317835f1",
+        "permalink": "https://www.virustotal.com/gui/file/25f720e9b969bdbece357a4704d4575a47ab8230affefbc2bfc467cb317835f1/detection/f-25f720e9b969bdbece357a4704d4575a47ab8230affefbc2bfc467cb317835f1-1742202116",
+        "positives": 58,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Vidar.R670299",
+                "update": "20250317",
+                "version": "3.27.1.10534"
+            }
+        }
+    },
+    {
+        "file_name": "99e733391ac499e78e535a98551c4d27408abfad4e56fe4c46956636655df29c",
+        "permalink": "https://www.virustotal.com/gui/file/99e733391ac499e78e535a98551c4d27408abfad4e56fe4c46956636655df29c/detection/f-99e733391ac499e78e535a98551c4d27408abfad4e56fe4c46956636655df29c-1745247718",
+        "positives": 55,
+        "total": 71,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/Vidar.fd272746",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "5cd0759c1e566b6e74ef3f29a49a34a08ded2dc44408fccd41b5a9845573a34c",
+        "permalink": "https://www.virustotal.com/gui/file/5cd0759c1e566b6e74ef3f29a49a34a08ded2dc44408fccd41b5a9845573a34c/detection/f-5cd0759c1e566b6e74ef3f29a49a34a08ded2dc44408fccd41b5a9845573a34c-1741874515",
+        "positives": 61,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "ALYac": {
+                "detected": true,
+                "result": "Trojan.PSW.Vidar",
+                "update": "20250313",
+                "version": "2.0.0.10"
+            }
+        }
+    },
+    {
+        "file_name": "05f9553616bb5fdbf37bd4036c210929e08d7181de898c1bea1bdae7afb0766f",
+        "permalink": "https://www.virustotal.com/gui/file/05f9553616bb5fdbf37bd4036c210929e08d7181de898c1bea1bdae7afb0766f/detection/f-05f9553616bb5fdbf37bd4036c210929e08d7181de898c1bea1bdae7afb0766f-1744308131",
+        "positives": 58,
+        "total": 72,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/Vidar.26f08d64",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "4d4f97f1621334e4075e0229265ac6c5da14754eff1378a7d77ea6d3821e8a33",
+        "permalink": "https://www.virustotal.com/gui/file/4d4f97f1621334e4075e0229265ac6c5da14754eff1378a7d77ea6d3821e8a33/detection/f-4d4f97f1621334e4075e0229265ac6c5da14754eff1378a7d77ea6d3821e8a33-1743462224",
+        "positives": 59,
+        "total": 73,
+        "malware_name": "Vidar",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/Vidar.191c1d52",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    }
+]

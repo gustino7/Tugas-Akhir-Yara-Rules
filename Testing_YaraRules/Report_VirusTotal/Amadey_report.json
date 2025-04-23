@@ -1,0 +1,145 @@
+[
+    {
+        "file_name": "b00302c7a37d30e1d649945bce637c2be5ef5a1055e572df9866ef8281964b65",
+        "permalink": "https://www.virustotal.com/gui/file/b00302c7a37d30e1d649945bce637c2be5ef5a1055e572df9866ef8281964b65/detection/f-b00302c7a37d30e1d649945bce637c2be5ef5a1055e572df9866ef8281964b65-1739399983",
+        "positives": 64,
+        "total": 72,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "ALYac": {
+                "detected": true,
+                "result": "Trojan.Agent.Amadey",
+                "update": "20250212",
+                "version": "2.0.0.10"
+            }
+        }
+    },
+    {
+        "file_name": "4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf",
+        "permalink": "https://www.virustotal.com/gui/file/4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf/detection/f-4506917f5cd8be78ec581d74085c21b75b17c2ede56f0af2dc38bc3f09e96caf-1738634144",
+        "positives": 60,
+        "total": 71,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Amadey.C5417130",
+                "update": "20250204",
+                "version": "3.27.0.10558"
+            }
+        }
+    },
+    {
+        "file_name": "12e5e5bba84f2a618310f72a7fbb40e04bf2f221a13145b3a91bb4707d7130c1",
+        "permalink": "https://www.virustotal.com/gui/file/12e5e5bba84f2a618310f72a7fbb40e04bf2f221a13145b3a91bb4707d7130c1/detection/f-12e5e5bba84f2a618310f72a7fbb40e04bf2f221a13145b3a91bb4707d7130c1-1708959765",
+        "positives": 59,
+        "total": 72,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "Antiy-AVL": {
+                "detected": true,
+                "result": "Trojan[Downloader]/Win32.Amadey",
+                "update": "20240226",
+                "version": "3.0"
+            }
+        }
+    },
+    {
+        "file_name": "d96239eb6f4f3af1613dbb8513d97b895dccf7b986adb6d2a94a3bd3064b471b",
+        "permalink": "https://www.virustotal.com/gui/file/d96239eb6f4f3af1613dbb8513d97b895dccf7b986adb6d2a94a3bd3064b471b/detection/f-d96239eb6f4f3af1613dbb8513d97b895dccf7b986adb6d2a94a3bd3064b471b-1738633355",
+        "positives": 59,
+        "total": 71,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "Antiy-AVL": {
+                "detected": true,
+                "result": "Trojan[Downloader]/Win32.Amadey",
+                "update": "20250204",
+                "version": "3.0"
+            }
+        }
+    },
+    {
+        "file_name": "707fc73f8e6494959b1b33c9f7c582335cda88397a0e7e3822f56ad0354996c6",
+        "permalink": "https://www.virustotal.com/gui/file/707fc73f8e6494959b1b33c9f7c582335cda88397a0e7e3822f56ad0354996c6/detection/f-707fc73f8e6494959b1b33c9f7c582335cda88397a0e7e3822f56ad0354996c6-1738633353",
+        "positives": 59,
+        "total": 71,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Amadey.C5417163",
+                "update": "20250204",
+                "version": "3.27.0.10558"
+            }
+        }
+    },
+    {
+        "file_name": "ea07b2d53fa8793d39a63f4f787e3951cf3eb9fab05cc5a2b5cd3e303c241c10",
+        "permalink": "https://www.virustotal.com/gui/file/ea07b2d53fa8793d39a63f4f787e3951cf3eb9fab05cc5a2b5cd3e303c241c10/detection/f-ea07b2d53fa8793d39a63f4f787e3951cf3eb9fab05cc5a2b5cd3e303c241c10-1738633446",
+        "positives": 60,
+        "total": 71,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Amadey.C5417179",
+                "update": "20250204",
+                "version": "3.27.0.10558"
+            }
+        }
+    },
+    {
+        "file_name": "4c8f8899d02737d9c1c00f8848f73298a2749ff7a1a75a0ca2acd68117d2b515",
+        "permalink": "https://www.virustotal.com/gui/file/4c8f8899d02737d9c1c00f8848f73298a2749ff7a1a75a0ca2acd68117d2b515/detection/f-4c8f8899d02737d9c1c00f8848f73298a2749ff7a1a75a0ca2acd68117d2b515-1738633353",
+        "positives": 60,
+        "total": 71,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "AhnLab-V3": {
+                "detected": true,
+                "result": "Trojan/Win.Amadey.C5417205",
+                "update": "20250204",
+                "version": "3.27.0.10558"
+            }
+        }
+    },
+    {
+        "file_name": "0da5b00e8e941ac4be29830e6040cb5f",
+        "permalink": "https://www.virustotal.com/gui/file/6bd20157eb146f12887ccb49fa09ac5b0c817983edc43ca1b665f17ad3ebfb25/detection/f-6bd20157eb146f12887ccb49fa09ac5b0c817983edc43ca1b665f17ad3ebfb25-1741916938",
+        "positives": 63,
+        "total": 73,
+        "malware_name": "Amadey",
+        "detected_by": "Not Found"
+    },
+    {
+        "file_name": "488385cd54d14790b03fa7c7dc997ebea3f7b2a8499e5927eb437a3791102a77",
+        "permalink": "https://www.virustotal.com/gui/file/488385cd54d14790b03fa7c7dc997ebea3f7b2a8499e5927eb437a3791102a77/detection/f-488385cd54d14790b03fa7c7dc997ebea3f7b2a8499e5927eb437a3791102a77-1742360716",
+        "positives": 64,
+        "total": 73,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "TrojanDownloader:Win32/Amadey.bed2bc7a",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "5bf3ab9c47d8152548db40516ff474a947393de01033b0be2a57409e08d4991c",
+        "permalink": "https://www.virustotal.com/gui/file/5bf3ab9c47d8152548db40516ff474a947393de01033b0be2a57409e08d4991c/detection/f-5bf3ab9c47d8152548db40516ff474a947393de01033b0be2a57409e08d4991c-1744408992",
+        "positives": 63,
+        "total": 72,
+        "malware_name": "Amadey",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "TrojanDownloader:Win32/Amadey.4d64fe6c",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    }
+]

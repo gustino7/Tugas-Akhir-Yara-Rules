@@ -1,0 +1,152 @@
+[
+    {
+        "file_name": "eaf39a263bece3cbd0d6b70e22c12d8f",
+        "permalink": "https://www.virustotal.com/gui/file/2bd20bf1f968993cf9f212761a86b1745abf4990ddcd5d5c553f456dcff3535f/detection/f-2bd20bf1f968993cf9f212761a86b1745abf4990ddcd5d5c553f456dcff3535f-1741916538",
+        "positives": 58,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "TrojanPSW:MSIL/AgentTesla.68118623",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "dc6a5d1b3accb015fe2b6f91176c57c5",
+        "permalink": "https://www.virustotal.com/gui/file/60f621808e2a3de0ba3b655874bf321da0505b147dea66aa340c8a2a126f9e23/detection/f-60f621808e2a3de0ba3b655874bf321da0505b147dea66aa340c8a2a126f9e23-1741272052",
+        "positives": 58,
+        "total": 72,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Skyhigh": {
+                "detected": true,
+                "result": "BehavesLike.Win32.AgentTesla.cc",
+                "update": "20250306",
+                "version": "v2021.2.0+4045"
+            }
+        }
+    },
+    {
+        "file_name": "413ca1f198008a2980f7891c059bc188",
+        "permalink": "https://www.virustotal.com/gui/file/b99cc830b4e4b6ea89546d4b963aef00bd69c5e31275690ac82d949f1055f9ec/detection/f-b99cc830b4e4b6ea89546d4b963aef00bd69c5e31275690ac82d949f1055f9ec-1741918130",
+        "positives": 63,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "TrojanPSW:MSIL/AgentTesla.4e9223f3",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "14a388b154b55a25c66b1bfef9499b64",
+        "permalink": "https://www.virustotal.com/gui/file/cb414e417f8f3de9392dbc6a89421d1a8e95beabbbe387e11771567d63a7b227/detection/f-cb414e417f8f3de9392dbc6a89421d1a8e95beabbbe387e11771567d63a7b227-1744275028",
+        "positives": 62,
+        "total": 72,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "ALYac": {
+                "detected": true,
+                "result": "Spyware.AgentTesla",
+                "update": "20250410",
+                "version": "2.0.0.10"
+            }
+        }
+    },
+    {
+        "file_name": "679e61e35641582d91f79ec97752b2a5",
+        "permalink": "https://www.virustotal.com/gui/file/676f6881fe4c71bf5f97091fa411d7ec1689f8c40383a2ffae9f84aaae442330/detection/f-676f6881fe4c71bf5f97091fa411d7ec1689f8c40383a2ffae9f84aaae442330-1741975140",
+        "positives": 61,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Skyhigh": {
+                "detected": true,
+                "result": "BehavesLike.Win32.AgentTesla.cc",
+                "update": "20250314",
+                "version": "v2021.2.0+4045"
+            }
+        }
+    },
+    {
+        "file_name": "94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e",
+        "permalink": "https://www.virustotal.com/gui/file/94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e/detection/f-94491241e60bd744ff41c9f33cd39b02ee968cfce120720be9e8a849b8e39c0e-1742184282",
+        "positives": 59,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "AVG": {
+                "detected": true,
+                "result": "MSIL:AgentTesla-D [Pws]",
+                "update": "20250316",
+                "version": "23.9.8494.0"
+            }
+        }
+    },
+    {
+        "file_name": "2c796a675fe4d3587af0bdadb10abb6b",
+        "permalink": "https://www.virustotal.com/gui/file/fd9f775b62c73a99dc6154eef0d19f9ada23a0d8c1b696465edbad5a946f2680/detection/f-fd9f775b62c73a99dc6154eef0d19f9ada23a0d8c1b696465edbad5a946f2680-1745376888",
+        "positives": 63,
+        "total": 71,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "ALYac": {
+                "detected": true,
+                "result": "Spyware.AgentTesla",
+                "update": "20250422",
+                "version": "2.0.0.10"
+            }
+        }
+    },
+    {
+        "file_name": "d7abc0880783e5e1c08f8a70a292473b",
+        "permalink": "https://www.virustotal.com/gui/file/ecd73a863c8c81e02a130423b88cac9de51a307f5d5efc3645ad6a99142bbba5/detection/f-ecd73a863c8c81e02a130423b88cac9de51a307f5d5efc3645ad6a99142bbba5-1741272032",
+        "positives": 58,
+        "total": 72,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "Trojan:MSIL/AgentTesla.2228fe18",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "5b14a7366cf5dbea3386c6afbd25f012",
+        "permalink": "https://www.virustotal.com/gui/file/f6ef92f6911bb14f5b8905f3964d21a9569c41c4e5367d0ee8aec59d54eb7024/detection/f-f6ef92f6911bb14f5b8905f3964d21a9569c41c4e5367d0ee8aec59d54eb7024-1741913226",
+        "positives": 58,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "Alibaba": {
+                "detected": true,
+                "result": "TrojanPSW:MSIL/AgentTesla.6171c4c7",
+                "update": "20190527",
+                "version": "0.3.0.5"
+            }
+        }
+    },
+    {
+        "file_name": "6802c9c481671ec10ee1178946a46c73",
+        "permalink": "https://www.virustotal.com/gui/file/e40736bc19f0008189f281f42cdfddf5bcf6a8c70a89e7bccd0aa0eb797edd22/detection/f-e40736bc19f0008189f281f42cdfddf5bcf6a8c70a89e7bccd0aa0eb797edd22-1741914217",
+        "positives": 63,
+        "total": 73,
+        "malware_name": "AgentTesla",
+        "detected_by": {
+            "ALYac": {
+                "detected": true,
+                "result": "Spyware.AgentTesla",
+                "update": "20250313",
+                "version": "2.0.0.10"
+            }
+        }
+    }
+]
