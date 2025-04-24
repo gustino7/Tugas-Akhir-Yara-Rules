@@ -99,9 +99,9 @@ private rule file_49a7f82743a038d7a570d5d5d8ecb92f369f0e6dbba6532674c4789f0daf9b
         3 of them
 }
 
-rule New_YaraRules_Amadey {
+rule New_YaraRules_Vidar {
     meta:
-        description = "new yara rules for amadey family malware"
+        description = "new yara rules for Vidar family malware"
         author = "ino"
         date = "April 2025"
     strings:
@@ -130,19 +130,11 @@ rule New_YaraRules_Amadey {
         $p24 = "broken pipe" fullword ascii
         $p25 = "protocol error" fullword ascii
         $p26 = "permission denied" fullword ascii
-        // $p27 = 
-        // $p28 = 
-        // $p29 = 
-        // $p3 = 
 
         $s1 = "KoiVM.Runtime" fullword ascii // plugin for the ConfuserEx obfuscation tool
         $s2 = "DigiCert SHA2 Assured ID Code Signing CA" fullword ascii // manipulate certificate authority
-        // $s3 = 
-        // $s4 = 
-        // $s5 =
-        // $s6 = 
-        // $s7 = 
-        // $s8 = 
+        $s3 = "C:\\Windows\\System32\\cmd.exe" fullword ascii
+        $s4 = "Select * From Win32_OperatingSystem" fullword wide
 
     condition:
         uint16(0) == 0x5a4d
