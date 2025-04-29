@@ -8,10 +8,10 @@ import lcs_optimize2
 import compare_string
 import compare2_string
 
-def extract_ascii_strings(data, min_length=10):
+def extract_ascii_strings(data, min_length=5):
     return re.findall(rb"[ -~]{%d,}" % min_length, data)
 
-def extract_utf16_strings(data, min_length=10):
+def extract_utf16_strings(data, min_length=5):
     pattern = rb"(?:[ -~]\x00){%d,}" % min_length
     raw_matches = re.findall(pattern, data)
     return [match.decode('utf-16le', errors='ignore') for match in raw_matches]
@@ -45,7 +45,7 @@ def process_directory(path):
     return result
 
 # Path direktori sample
-malware_fam = "Amadey" # Ganti sesuai family
+malware_fam = "AgentTesla" # Ganti sesuai family
 folder_path = f"../Sample_Malware/{malware_fam}"  # Ganti sesuai lokasi kamu
 output_json = f"./output_parser/String_{malware_fam}.json"
 
@@ -56,7 +56,7 @@ with open(output_json, "w", encoding="utf-8") as f:
 
 print(f"Hasil string per file dan per section disimpan di: {output_json}")
 
-lcs_optimize.main(output_json, malware_fam)
-lcs_optimize2.main(output_json, malware_fam)
+# lcs_optimize.main(output_json, malware_fam)
+# lcs_optimize2.main(output_json, malware_fam)
 compare_string.main(output_json, malware_fam)
 compare2_string.main(output_json, malware_fam)
