@@ -132,24 +132,22 @@ rule New_YaraRules_AgentTesla {
         $p25 = "HTTP Password" fullword wide
         $p26 = "IExpando.Plug" fullword wide
         
-        $l1 = "IDisposable" fullword ascii
-        $l2 = "get_Current" fullword ascii
-        $l3 = "get_Application" fullword ascii
-        $l4 = "get_Chars" fullword ascii
-        $l5 = "CultureInfo" fullword ascii
-        $l6 = "set_Enabled" fullword ascii
-        $l7 = "_CorExeMain" fullword ascii
-        $l8 = "ContainsKey" fullword ascii
-        $l9 = "Environment" fullword ascii
-        $l10 = "Dispose" fullword ascii
-        $l11 = "WrapNonExceptionThrows" fullword ascii
-        $l12 = "GetString" fullword ascii
-        $l13 = "Round" fullword ascii
+        $l1 = "000004b0" wide
+        $l2 = "_CorExeMain" ascii
+        $l3 = "#GUID" ascii
+        $l4 = "#Blob" ascii
+        $l5 = "<Module>" ascii
+        $l6 = "RuntimeCompatibilityAttribute" ascii
+        $l7 = "WrapNonExceptionThrows" ascii
+        $l8 = "WinForms_SeeInnerException" wide
+        $l9 = "WinForms_RecursiveFormCreate" wide
+        $l10 = "Property can only be set to Nothing" wide
+        $l11 = "Label" wide
 
     condition:
         uint16(0) == 0x5a4d 
         and (2 of ($dotnet*))
-        and ((1 of ($p*)) and (10 of ($l*)))
+        and ((1 of ($p*)) and (5 of ($l*)))
         and 1 of (
             AgentTeslaV3,
             file_14a388b154b55a25c66b1bfef9499b64,

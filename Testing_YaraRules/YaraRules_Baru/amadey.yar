@@ -123,14 +123,31 @@ rule New_YaraRules_Amadey {
         $p12 = "constructor or from DllMain." fullword ascii
         $p14 = "D:\\Mktmp\\Amadey\\Release\\Amadey.pdb" fullword ascii
         $p15 = "api-ms-win-core-synch-l1-2-0.dll" fullword wide
+        $p16 = "Command.com /c %s" ascii
+        $p17 = "advapi32.dll" nocase ascii
 
-        // obfuscated API Hashing
-        $l1 = "LoadLibraryA" ascii
-        $l2 = "GetProcAddress" ascii
+        $l1 = "CreateProcessA" ascii
+        $l2 = "CreateThread" ascii
+        $l3 = "LoadLibraryA" ascii
+        $l4 = "GetProcAddress" ascii
+        $l5 = "WriteProcessMemory" ascii // possible shellcode inject
+        $l6 = "RegCreateKeyExA" ascii
+        $l7 = "RegSetValueExA" ascii
+        $l8 = "CreateMutexA" ascii
+        $l9 = "CallWindowProcA" ascii
+        $l10 = "NtUnmapViewOfSection" ascii // possible injection code
+        $l11 = "WriteProcessMemory" ascii
+        $l12 = "VirtualAlloc" ascii
+        $l13 = "ShellExecuteA" ascii
+        $l14 = "InternetOpenUrlA" ascii // possible C2
+        $l15 = "SHELL32.DLL" nocase wide ascii
+        $l16 = "Kernel32.dll" nocase wide ascii
+        $l17 = "setupapi.dll" ascii
+        $l18 = "USER32.DLL" nocase ascii
 
     condition:
         uint16(0) == 0x5a4d
-        and ((any of ($p*)) and (any of ($l*)))
+        and ((2 of ($p*)) and (6 of ($l*)))
         and 1 of (
             Amadey,
             MALWARE_Win_Amadey,

@@ -4,12 +4,11 @@ import time
 import json
 
 # Konfigurasi
-MALWARE = 'Vidar'                  # GANTI FAMILI MALWARE YANG SESUAI
 API_KEY = 'a3617ee3aa0c93b0acc09c826341ffd450474df2df4d3473b5a4cb77162399ed'
-DIRECTORY_PATH = f'../Sample_Malware/{MALWARE}'
+DIRECTORY_PATH = '../Testing_File'  # Ubah sesuai lokasi folder Anda
 SCAN_URL = 'https://www.virustotal.com/vtapi/v2/file/scan'
 REPORT_URL = 'https://www.virustotal.com/vtapi/v2/file/report'
-RATE_LIMIT_DELAY = 15
+RATE_LIMIT_DELAY = 15  # Hindari rate limit
 
 def scan_file(file_path):
     try:
@@ -27,20 +26,15 @@ def get_report(resource):
     response = requests.get(REPORT_URL, params=params)
     return response.json()
 
-def find_malware_in_scans(malware_name, scans):
-    for vendor, result in scans.items():
-        if result.get('result') and malware_name.lower() in result['result'].lower():
-            return {vendor: result}
-    return None
-
-def scan_directory(directory, malware_name):
-    results = []  # kumpulkan semua hasil di sini
+def scan_directory(directory):
+    results = []  # kumpulkan semua hasil
 
     for root, _, files in os.walk(directory):
         for filename in files:
             file_path = os.path.join(root, filename)
 
             if os.path.getsize(file_path) > 32 * 1024 * 1024:
+                results.append({'file_name': filename})
                 print(f"[!] Skipped (Too Large): {filename}")
                 continue
 
@@ -53,28 +47,19 @@ def scan_directory(directory, malware_name):
                 report = get_report(resource)
                 if report.get('response_code') == 1:
                     scans = report.get('scans', {})
-                    malware_result = find_malware_in_scans(malware_name, scans)
 
                     result_data = {
                         'file_name': filename,
                         'permalink': report.get('permalink'),
                         'positives': report.get('positives', 0),
                         'total': report.get('total', 0),
-                        'malware_name': malware_name,
-                        'detected_by': malware_result if malware_result else "Not Found"
+                        'detected_by': {
+                            vendor: result for vendor, result in scans.items() if result.get('result')
+                        }
                     }
 
                     results.append(result_data)
-
-                    # Optional: log ringkas ke terminal
                     print(f"    Nama File  : {filename}")
-                    print(f"    Permalink  : {report.get('permalink')}")
-                    if malware_result:
-                        print(f"    Deteksi {malware_name} ditemukan oleh: {list(malware_result.keys())[0]}")
-                    else:
-                        print(f"    Deteksi {malware_name} tidak ditemukan.")
-                    print(f"    Deteksi     : {report.get('positives', 0)}/{report.get('total', 0)} engine")
-
                 else:
                     print(f"[?] {filename}: Report not ready")
             else:
@@ -83,7 +68,8 @@ def scan_directory(directory, malware_name):
             time.sleep(RATE_LIMIT_DELAY)
 
     # Simpan hasil ke file JSON
-    output_file = f"./Report_VirusTotal/{malware_name}_report.json"
+    os.makedirs("./Report_VirusTotal", exist_ok=True)
+    output_file = "./Report_VirusTotal/Report.json"
     with open(output_file, 'w') as f:
         json.dump(results, f, indent=4)
     print(f"\n[✓] Semua hasil telah disimpan ke '{output_file}'")
@@ -92,4 +78,4 @@ if __name__ == "__main__":
     if not os.path.isdir(DIRECTORY_PATH):
         print("Directory not found!")
     else:
-        scan_directory(DIRECTORY_PATH, MALWARE)
+        scan_directory(DIRECTORY_PATH)

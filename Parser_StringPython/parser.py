@@ -45,7 +45,7 @@ def process_directory(path):
     return result
 
 # Path direktori sample
-malware_fam = "AgentTesla" # Ganti sesuai family
+malware_fam = "Vidar" # Ganti sesuai family
 folder_path = f"../Sample_Malware/{malware_fam}"  # Ganti sesuai lokasi kamu
 output_json = f"./output_parser/String_{malware_fam}.json"
 
@@ -57,6 +57,6 @@ with open(output_json, "w", encoding="utf-8") as f:
 print(f"Hasil string per file dan per section disimpan di: {output_json}")
 
 # lcs_optimize.main(output_json, malware_fam)
-# lcs_optimize2.main(output_json, malware_fam)
+lcs_optimize2.main(output_json, malware_fam)
 compare_string.main(output_json, malware_fam)
 compare2_string.main(output_json, malware_fam)
