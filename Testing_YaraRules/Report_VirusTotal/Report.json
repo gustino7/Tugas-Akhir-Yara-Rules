@@ -1404,7 +1404,18 @@
         }
     },
     {
-        "file_name": "vrBackupper.exe"
+        "file_name": "vrBackupper.exe",
+        "permalink": "https://www.virustotal.com/gui/file/52b7b43d7ae52d505e48d25bedaedee9e2a7e337e5752c15cd4a66f79a928a94",
+        "positives": 1,
+        "total": 66,
+        "detected_by": {
+            "Bkav": {
+                "detected": true,
+                "result": "W32.AIDetectMalware",
+                "update": "0",
+                "version": "0"
+            }
+        }
     },
     {
         "file_name": "4c17f7ee55f9bf6fa9acaeeb9574feab39ba4a3cccd4426dfa85aaf58b90ae73",
@@ -2457,7 +2468,11 @@
         }
     },
     {
-        "file_name": "floss"
+        "file_name": "floss",
+        "permalink": "https://www.virustotal.com/gui/file/d71b9ea4fe3b2de974dc1ae3c5d0f67569921bc118dcb02ed72e905a662411cb",
+        "positives": 0,
+        "total": 63,
+        "detected_by": {}
     },
     {
         "file_name": "28db05fffe5f32ee8df60a400c97d19270d23327ebb49ae86e455ea14d59f113",
@@ -8246,7 +8261,18 @@
         "detected_by": {}
     },
     {
-        "file_name": "Tagstoo.exe"
+        "file_name": "Tagstoo.exe",
+        "permalink": "https://www.virustotal.com/gui/file/f938d4ed92d79cb4e9c132138d2f71da0be91cad0ab6b005ae7baf1946b68d1e",
+        "positives": 1,
+        "total": 63,
+        "detected_by": {
+            "Trapmine": {
+                "detected": true,
+                "result": "Suspicious.low.ml.score",
+                "update": "0",
+                "version": "0"
+            }
+        }
     },
     {
         "file_name": "707fc73f8e6494959b1b33c9f7c582335cda88397a0e7e3822f56ad0354996c6",
@@ -19582,7 +19608,24 @@
         "detected_by": {}
     },
     {
-        "file_name": "Win10BloatRemover.exe"
+        "file_name": "Win10BloatRemover.exe",
+        "permalink": "https://www.virustotal.com/gui/file/1627404532fd734d2d137c07e203bf8d959ae11a1669d000175b8ff442b46c82",
+        "positives": 2,
+        "total": 60,
+        "detected_by": {
+            "Arctic": {
+                "detected": true,
+                "result": "Unsafe",
+                "update": "0",
+                "version": "0"
+            },
+            "Bkav": {
+                "detected": true,
+                "result": "W32.AIDetectMalware",
+                "update": "0",
+                "version": "0"
+            }
+        }
     },
     {
         "file_name": "bc9f0c07dfe0016049662acbafe3c96f",
@@ -22974,7 +23017,11 @@
         }
     },
     {
-        "file_name": "anymp4-ios-cleaner_v1.0.8.exe"
+        "file_name": "anymp4-ios-cleaner_v1.0.8.exe",
+        "permalink": "https://www.virustotal.com/gui/file/719b2a153903f6d18cb661fd84a4593a277d50568a8d30b6cba7cc326e49f7ae",
+        "positives": 0,
+        "total": 72,
+        "detected_by": {}
     },
     {
         "file_name": "ba7570395a1adfa7dd22638402d994c2b36efb559d1a69ddc91503bb0b608839",
