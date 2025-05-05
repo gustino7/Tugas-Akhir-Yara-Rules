@@ -88,7 +88,7 @@ def evaluate_predictions(vt_reports, ground_truth):
         y_true.append(reclassify_label(gt_famili))
         y_pred.append(reclassify_label_predict(gt_famili, pred_famili, positives, is_known))
 
-    labels = ['agent tesla', 'amadey', 'vidar', 'cobalt strike', 'non-malware']
+    labels = ['agent tesla', 'amadey', 'cobalt strike', 'non-malware', 'vidar']
     cm = confusion_matrix(y_true, y_pred, labels=labels)
 
     print("[✓] Classification Report:\n")
@@ -98,7 +98,7 @@ def evaluate_predictions(vt_reports, ground_truth):
     sns.heatmap(cm, annot=True, fmt='d', xticklabels=labels, yticklabels=labels, cmap='Blues')
     plt.xlabel('Predicted')
     plt.ylabel('Actual')
-    plt.title('Confusion Matrix (All Families)')
+    plt.title('Confusion Matrix (Virus Total)')
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()

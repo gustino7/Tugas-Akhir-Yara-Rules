@@ -75,7 +75,7 @@ def display_confusion_matrix(cm, labels):
     plt.figure(figsize=(10, 8))
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
                 xticklabels=labels, yticklabels=labels)
-    plt.title('Confusion Matrix (All Families)')
+    plt.title('Confusion Matrix (Yara Rules Baru)')
     plt.ylabel('Actual')
     plt.xlabel('Predicted')
     plt.xticks(rotation=45, ha='right')
