@@ -2,7 +2,6 @@ import os
 import pefile
 import re
 import json
-from collections import defaultdict
 import lcs_optimize
 import lcs_optimize2
 import compare_string
@@ -57,6 +56,6 @@ with open(output_json, "w", encoding="utf-8") as f:
 print(f"Hasil string per file dan per section disimpan di: {output_json}")
 
 # lcs_optimize.main(output_json, malware_fam)
-lcs_optimize2.main(output_json, malware_fam)
-compare_string.main(output_json, malware_fam)
-compare2_string.main(output_json, malware_fam)
+# lcs_optimize2.main(output_json, malware_fam)
+# compare_string.main(output_json, malware_fam)
+# compare2_string.main(output_json, malware_fam)
