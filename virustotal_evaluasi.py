@@ -37,7 +37,7 @@ def normalize_famili_name(name):
 # ==== 4. Ekstraksi hasil deteksi sebagai prediksi ====
 def extract_predicted_famili(report, preferred_vendors=None):
     positives = report.get('positives', 0)
-    if positives < 5:
+    if positives < 1:
         return 'non-malware'
 
     detected_by = report.get('detected_by', {})
@@ -61,7 +61,7 @@ def reclassify_label(gt_famili):
     return 'non-malware'
 
 def reclassify_label_predict(gt_famili, pred_famili, positives, is_in_ground_truth):
-    if positives < 5 and not is_in_ground_truth:
+    if positives < 1 and not is_in_ground_truth:
         return 'non-malware'
     
     famili_list = ['agent tesla', 'amadey', 'vidar', 'cobalt strike']
@@ -88,7 +88,7 @@ def evaluate_predictions(vt_reports, ground_truth):
         y_true.append(reclassify_label(gt_famili))
         y_pred.append(reclassify_label_predict(gt_famili, pred_famili, positives, is_known))
 
-    labels = ['agent tesla', 'amadey', 'cobalt strike', 'non-malware', 'vidar']
+    labels = ['agent tesla', 'amadey', 'cobalt strike', 'non-malware', 'vidar', 'malware']
     cm = confusion_matrix(y_true, y_pred, labels=labels)
 
     print("[✓] Classification Report:\n")
