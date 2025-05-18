@@ -88,7 +88,7 @@ def evaluate_predictions(vt_reports, ground_truth):
         y_true.append(reclassify_label(gt_famili))
         y_pred.append(reclassify_label_predict(gt_famili, pred_famili, positives, is_known))
 
-    labels = ['agent tesla', 'amadey', 'cobalt strike', 'non-malware', 'vidar', 'malware']
+    labels = ['agent tesla', 'amadey', 'cobalt strike', 'non-malware', 'vidar']
     cm = confusion_matrix(y_true, y_pred, labels=labels)
 
     print("[✓] Classification Report:\n")

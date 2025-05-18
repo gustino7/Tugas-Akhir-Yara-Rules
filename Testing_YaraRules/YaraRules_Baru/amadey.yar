@@ -136,14 +136,13 @@ rule New_YaraRules_Amadey {
         $l8 = "CreateMutexA" ascii
         $l9 = "CallWindowProcA" ascii
         $l10 = "NtUnmapViewOfSection" ascii // possible injection code
-        $l11 = "WriteProcessMemory" ascii
-        $l12 = "VirtualAlloc" ascii
-        $l13 = "ShellExecuteA" ascii
-        $l14 = "InternetOpenUrlA" ascii // possible C2
-        $l15 = "SHELL32.DLL" nocase wide ascii
-        $l16 = "Kernel32.dll" nocase wide ascii
-        $l17 = "setupapi.dll" ascii
-        $l18 = "USER32.DLL" nocase ascii
+        $l11 = "VirtualAlloc" ascii
+        $l12 = "ShellExecuteA" ascii
+        $l13 = "InternetOpenUrlA" ascii // possible C2
+        $l14 = "SHELL32.DLL" nocase wide ascii
+        $l15 = "Kernel32.dll" nocase wide ascii
+        $l16 = "setupapi.dll" ascii
+        $l17 = "USER32.DLL" nocase ascii
 
     condition:
         uint16(0) == 0x5a4d
