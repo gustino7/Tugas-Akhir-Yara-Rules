@@ -126,27 +126,35 @@ rule New_YaraRules_Amadey {
         $p16 = "Command.com /c %s" ascii
         $p17 = "advapi32.dll" nocase ascii
 
-        $l1 = "CreateProcessA" ascii
-        $l2 = "CreateThread" ascii
-        $l3 = "LoadLibraryA" ascii
-        $l4 = "GetProcAddress" ascii
-        $l5 = "WriteProcessMemory" ascii // possible shellcode inject
-        $l6 = "RegCreateKeyExA" ascii
-        $l7 = "RegSetValueExA" ascii
-        $l8 = "CreateMutexA" ascii
-        $l9 = "CallWindowProcA" ascii
-        $l10 = "NtUnmapViewOfSection" ascii // possible injection code
-        $l11 = "VirtualAlloc" ascii
-        $l12 = "ShellExecuteA" ascii
-        $l13 = "InternetOpenUrlA" ascii // possible C2
-        $l14 = "SHELL32.DLL" nocase wide ascii
-        $l15 = "Kernel32.dll" nocase wide ascii
-        $l16 = "setupapi.dll" ascii
-        $l17 = "USER32.DLL" nocase ascii
+        // String Matched
+        $l1 = "CreateThread" ascii
+        $l2 = "LoadLibraryA" ascii
+        $l3 = "GetProcAddress" ascii
+        $l4 = "WriteProcessMemory" ascii // possible shellcode inject
+        $l5 = "RegCreateKeyExA" ascii
+        $l6 = "RegSetValueExA" ascii
+        $l7 = "CreateMutexA" ascii
+        $l8 = "CallWindowProcA" ascii
+        $l9 = "NtUnmapViewOfSection" ascii // possible injection code
+        $l10 = "VirtualAlloc" ascii
+        $l11 = "InternetOpenUrl" ascii // possible C2
+        $l12 = ".?AV" ascii // antivirus
+        $l13 = "schedule" ascii wide // schedule send to C2
+        $l14 = "GetUserObjectInformation" ascii
+        // Yara Rules publik
+        $l15 = "CreateProcess" ascii
+        $l16 = "ShellExecute" ascii
+        // Command
+        $l17 = "SHELL32.DLL" nocase wide ascii
+        $l18 = "Kernel32.dll" nocase wide ascii
+        $l19 = "setupapi.dll" ascii
+        $l20 = "USER32.DLL" nocase ascii
+        $l21 = "/C:<Cmd>" wide
+        $l22 = "msdownld.tmp" ascii
 
     condition:
         uint16(0) == 0x5a4d
-        and ((2 of ($p*)) and (6 of ($l*)))
+        and ((2 of ($p*)) and (7 of ($l*)))
         and 1 of (
             Amadey,
             MALWARE_Win_Amadey,

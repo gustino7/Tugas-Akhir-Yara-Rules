@@ -149,12 +149,17 @@ rule New_YaraRules_Vidar {
         $p30 = "api-ms-win-appmodel-runtime-l1-1-2" fullword wide
         $p31 = "ADVAPI32" nocase ascii wide
 
+        // Matched String
         $l1 = " KoiVM [{0}]" fullword wide
         $l2 = "SkipVerification" wide
         $l3 = "\\Registry\\Machine\\System\\CurrentControlSet\\Services\\TaskKill" fullword wide
-        $l4 = ".?AVbad_alloc" ascii
-        $l5 = "000004b0" wide
-        $l6 = "KERNEL32.dll" nocase ascii wide
+        $l4 = "AVbad_alloc" ascii
+        // Yara Rules publik
+        $l5 = "Disposition" ascii nocase
+        $l6 = "wallet" ascii
+        // Command
+        $l7 = "KERNEL32.dll" nocase ascii wide
+        $l8 = "ShellExecute" ascii
 
     condition:
         uint16(0) == 0x5a4d

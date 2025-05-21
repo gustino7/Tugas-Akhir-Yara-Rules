@@ -132,17 +132,16 @@ rule New_YaraRules_AgentTesla {
         $p25 = "HTTP Password" fullword wide
         $p26 = "IExpando.Plug" fullword wide
         
-        $l1 = "000004b0" wide
-        $l2 = "_CorExeMain" ascii
-        $l3 = "#GUID" ascii
-        $l4 = "#Blob" ascii
-        $l5 = "<Module>" ascii
-        $l6 = "RuntimeCompatibilityAttribute" ascii
-        $l7 = "WrapNonExceptionThrows" ascii
-        $l8 = "WinForms_SeeInnerException" wide
-        $l9 = "WinForms_RecursiveFormCreate" wide
-        $l10 = "Property can only be set to Nothing" wide
-        $l11 = "Label" wide
+        // String Matched
+        $l1 = "_CorExeMain" ascii
+        $l2 = "#GUID" ascii
+        $l3 = "#Blob" ascii
+        $l4 = "System.Diagnostics" ascii
+        $l5 = "System.Reflection" ascii
+        // Yara Rules publik
+        $l6 = "SmtpClient" wide
+        $l7 = "appdata" ascii wide
+        $l8 = "OSFullName" ascii
 
     condition:
         uint16(0) == 0x5a4d 
