@@ -27,6 +27,6 @@ def apply_yara_rules(testing_directory, rules_directory):
 
 if __name__ == '__main__':
     testing_directory = './Testing_File'
-    rules_directory = './Testing_YaraRules/YaraRules_Baru'
+    rules_directory = './Testing_YaraRules/AllYaraRules_Publik'
 
     apply_yara_rules(testing_directory, rules_directory)
