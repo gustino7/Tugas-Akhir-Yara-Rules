@@ -174,7 +174,7 @@ def apply_yara_rules_overall_binary(malware_directory, rules_directory, ground_t
 
 if __name__ == '__main__':
     malware_directory = './Testing_File'
-    rules_directory = './Testing_YaraRules/AllYaraRules_Publik'
+    rules_directory = './Testing_YaraRules/AllYaraRules_Baru'
     yara_rules = 'Yara Rules Baru'
     ground_truth_csv = './ground_truth.csv'
 
