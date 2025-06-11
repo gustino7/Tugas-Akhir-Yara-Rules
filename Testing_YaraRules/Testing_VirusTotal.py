@@ -2,13 +2,15 @@ import os
 import requests
 import time
 import json
+from dotenv import load_dotenv
 
 # Konfigurasi
-API_KEY = 'a3617ee3aa0c93b0acc09c826341ffd450474df2df4d3473b5a4cb77162399ed'
-DIRECTORY_PATH = '../Testing_File'  # Ubah sesuai lokasi folder Anda
+load_dotenv()
+API_KEY = os.getenv("API_KEY")
+DIRECTORY_PATH = '../Testing_File'
 SCAN_URL = 'https://www.virustotal.com/vtapi/v2/file/scan'
 REPORT_URL = 'https://www.virustotal.com/vtapi/v2/file/report'
-RATE_LIMIT_DELAY = 15  # Hindari rate limit
+RATE_LIMIT_DELAY = 15  # Rate limit
 
 def scan_file(file_path):
     try:

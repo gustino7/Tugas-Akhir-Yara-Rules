@@ -1,2 +1,4 @@
-/Parser_StringPython/output_lcs/
+# .gitignore
+/Parser_StringPython/output_compare/
 /Parser_StringPython/output_parser/
+.env
